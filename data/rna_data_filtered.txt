@@ -1,0 +1,861 @@
+index	identifier	file	clip	scale	sum_stat	description
+0	ENCFF281BWX	data/encode_rna/ENCFF281BWX.bigWig	768	0.3	sum_sqrt	RNA:aortic smooth muscle cell male adult (21 years) and male adult (54 years)
+1	ENCFF168OLY	data/encode_rna/ENCFF168OLY.bigWig	768	0.3	sum_sqrt	RNA:bladder microvascular endothelial cell male adult (46 years) and male adult (60 years)
+2	ENCFF442VHH	data/encode_rna/ENCFF442VHH.bigWig	768	0.3	sum_sqrt	RNA:smooth muscle cell of bladder female adult (53 years) and male adult (62 years)
+3	ENCFF153YEN	data/encode_rna/ENCFF153YEN.bigWig	768	0.3	sum_sqrt	RNA:bronchial epithelial cell female adult (40 years) and male adult (68 years)
+4	ENCFF383NTW	data/encode_rna/ENCFF383NTW.bigWig	768	0.3	sum_sqrt	RNA:bronchial smooth muscle cell male adult (52 years) and male adult (59 years)
+5	ENCFF226UWU	data/encode_rna/ENCFF226UWU.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell of coronary artery female adult (41 years) and male adult (77 years)
+6	ENCFF537AIY	data/encode_rna/ENCFF537AIY.bigWig	768	0.3	sum_sqrt	RNA:smooth muscle cell of the coronary artery female adult (53 years) and male adult (55 years)
+7	ENCFF263MKB	data/encode_rna/ENCFF263MKB.bigWig	768	0.3	sum_sqrt	RNA:regular cardiac myocyte female adult (51 years) and male adult (48 years)
+8	ENCFF366CCB	data/encode_rna/ENCFF366CCB.bigWig	768	0.3	sum_sqrt	RNA:dermis blood vessel endothelial cell female child (16 years) and male child (13 years)
+9	ENCFF805UDX	data/encode_rna/ENCFF805UDX.bigWig	768	0.3	sum_sqrt	RNA:dermis lymphatic vessel endothelial cell female adult (45 years) and male child (6 years)
+10	ENCFF079OMS	data/encode_rna/ENCFF079OMS.bigWig	768	0.3	sum_sqrt	RNA:dermis microvascular lymphatic vessel endothelial cell female adult (38 years) and female adult (64 years)
+11	ENCFF114NWW	data/encode_rna/ENCFF114NWW.bigWig	768	0.3	sum_sqrt	RNA:nasal cavity respiratory epithelium epithelial cell of viscerocranial mucosa female adult (70 years) and male adult (46 years)
+12	ENCFF520FAO	data/encode_rna/ENCFF520FAO.bigWig	768	0.3	sum_sqrt	RNA:pulmonary artery endothelial cell male adult (23 years) and male adult (52 years)
+13	ENCFF679XSO	data/encode_rna/ENCFF679XSO.bigWig	768	0.3	sum_sqrt	RNA:smooth muscle cell of the pulmonary artery male adult (26 years) and male adult (28 years)
+14	ENCFF556PAF	data/encode_rna/ENCFF556PAF.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of lung female adult (83 years) and male adult (23 years)
+15	ENCFF618FQK	data/encode_rna/ENCFF618FQK.bigWig	768	0.3	sum_sqrt	RNA:lung microvascular endothelial cell female adult (55 years) and male adult (63 years)
+16	ENCFF818OXF	data/encode_rna/ENCFF818OXF.bigWig	768	0.3	sum_sqrt	RNA:renal cortical epithelial cell female adult (69 years) and male adult (84 years)
+17	ENCFF520NFI	data/encode_rna/ENCFF520NFI.bigWig	768	0.3	sum_sqrt	RNA:tracheal epithelial cell male adult (21 years) and male adult (68 years)
+18	ENCFF749ZJH	data/encode_rna/ENCFF749ZJH.bigWig	768	0.3	sum_sqrt	RNA:smooth muscle cell of trachea male adult (28 years) and male adult (56 years)
+19	ENCFF572FWT	data/encode_rna/ENCFF572FWT.bigWig	768	0.3	sum_sqrt	RNA:epithelial cell of umbilical artery female newborn and male newborn
+20	ENCFF096HEZ	data/encode_rna/ENCFF096HEZ.bigWig	768	0.3	sum_sqrt	RNA:smooth muscle cell of the umbilical artery female newborn and male newborn
+21	ENCFF360EXL	data/encode_rna/ENCFF360EXL.bigWig	768	0.3	sum_sqrt	RNA:uterine smooth muscle cell female adult (48 years) and female adult (50 years)
+22	ENCFF470BSF	data/encode_rna/ENCFF470BSF.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+23	ENCFF617ZDV	data/encode_rna/ENCFF617ZDV.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+24	ENCFF993POP	data/encode_rna/ENCFF993POP.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+25	ENCFF678ITA	data/encode_rna/ENCFF678ITA.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+26	ENCFF812WIL	data/encode_rna/ENCFF812WIL.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+27	ENCFF142WGV	data/encode_rna/ENCFF142WGV.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+28	ENCFF980ZHM	data/encode_rna/ENCFF980ZHM.bigWig	768	0.3	sum_sqrt	RNA:K562
+29	ENCFF132DVY	data/encode_rna/ENCFF132DVY.bigWig	768	0.3	sum_sqrt	RNA:K562
+30	ENCFF919EXM	data/encode_rna/ENCFF919EXM.bigWig	768	0.3	sum_sqrt	RNA:K562
+31	ENCFF552CYS	data/encode_rna/ENCFF552CYS.bigWig	768	0.3	sum_sqrt	RNA:K562
+32	ENCFF991BRF	data/encode_rna/ENCFF991BRF.bigWig	768	0.3	sum_sqrt	RNA:K562
+33	ENCFF769VLM	data/encode_rna/ENCFF769VLM.bigWig	768	0.3	sum_sqrt	RNA:K562
+34	ENCFF945UHI	data/encode_rna/ENCFF945UHI.bigWig	768	0.3	sum_sqrt	RNA:liver tissue female child (6 years) and with nonobstructive coronary artery disease; liver tissue male adult (32 years)
+35	ENCFF775XPO	data/encode_rna/ENCFF775XPO.bigWig	768	0.3	sum_sqrt	RNA:urinary bladder tissue female embryo (20 weeks) and female embryo (24 weeks)
+36	ENCFF638TDD	data/encode_rna/ENCFF638TDD.bigWig	768	0.3	sum_sqrt	RNA:cerebellum tissue female embryo (19 weeks) and female embryo (37 weeks)
+37	ENCFF355IUO	data/encode_rna/ENCFF355IUO.bigWig	768	0.3	sum_sqrt	RNA:diencephalon tissue female embryo (20 weeks) and male embryo (22 weeks)
+38	ENCFF217HQN	data/encode_rna/ENCFF217HQN.bigWig	768	0.3	sum_sqrt	RNA:frontal cortex tissue female embryo (20 weeks) and male embryo (22 weeks)
+39	ENCFF454SXU	data/encode_rna/ENCFF454SXU.bigWig	768	0.3	sum_sqrt	RNA:heart tissue female embryo (19 weeks) and female embryo (28 weeks)
+40	ENCFF367PUX	data/encode_rna/ENCFF367PUX.bigWig	768	0.3	sum_sqrt	RNA:metanephros tissue female embryo (20 weeks) and female embryo (24 weeks)
+41	ENCFF630VID	data/encode_rna/ENCFF630VID.bigWig	768	0.3	sum_sqrt	RNA:liver tissue female embryo (20 weeks) and male embryo (22 weeks)
+42	ENCFF892OBT	data/encode_rna/ENCFF892OBT.bigWig	768	0.3	sum_sqrt	RNA:lung tissue female embryo (20 weeks) and female embryo (24 weeks)
+43	ENCFF537TSF	data/encode_rna/ENCFF537TSF.bigWig	768	0.3	sum_sqrt	RNA:occipital lobe tissue female embryo (20 weeks) and male embryo (22 weeks)
+44	ENCFF470OAY	data/encode_rna/ENCFF470OAY.bigWig	768	0.3	sum_sqrt	RNA:parietal lobe tissue female embryo (24 weeks) and male embryo (22 weeks)
+45	ENCFF285OHV	data/encode_rna/ENCFF285OHV.bigWig	768	0.3	sum_sqrt	RNA:skeletal muscle tissue tissue female embryo (19 weeks) and male embryo (22 weeks)
+46	ENCFF198TLM	data/encode_rna/ENCFF198TLM.bigWig	768	0.3	sum_sqrt	RNA:skin of body tissue female embryo (24 weeks) and male embryo (22 weeks)
+47	ENCFF768YRQ	data/encode_rna/ENCFF768YRQ.bigWig	768	0.3	sum_sqrt	RNA:spinal cord tissue female embryo (24 weeks) and male embryo (22 weeks)
+48	ENCFF718MVN	data/encode_rna/ENCFF718MVN.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female embryo (40 weeks) and male embryo (36 weeks)
+49	ENCFF709SZT	data/encode_rna/ENCFF709SZT.bigWig	768	0.3	sum_sqrt	RNA:temporal lobe tissue female embryo (20 weeks) and female embryo (24 weeks)
+50	ENCFF844XCX	data/encode_rna/ENCFF844XCX.bigWig	768	0.3	sum_sqrt	RNA:thyroid gland tissue female embryo (37 weeks) and female embryo (40 weeks)
+51	ENCFF175KXC	data/encode_rna/ENCFF175KXC.bigWig	768	0.3	sum_sqrt	RNA:tongue tissue female embryo (20 weeks) and female embryo (24 weeks)
+52	ENCFF604YPC	data/encode_rna/ENCFF604YPC.bigWig	768	0.3	sum_sqrt	RNA:umbilical cord tissue male embryo (20 weeks) and male embryo (31 weeks)
+53	ENCFF592ZIP	data/encode_rna/ENCFF592ZIP.bigWig	768	0.3	sum_sqrt	RNA:uterus tissue female embryo (24 weeks) and female embryo (28 weeks)
+54	ENCFF676EVQ	data/encode_rna/ENCFF676EVQ.bigWig	768	0.3	sum_sqrt	RNA:camera-type eye tissue female embryo (20 weeks) and female embryo (24 weeks)
+55	ENCFF018EZY	data/encode_rna/ENCFF018EZY.bigWig	768	0.3	sum_sqrt	RNA:heart tissue male adult (34 years)
+56	ENCFF549SVZ	data/encode_rna/ENCFF549SVZ.bigWig	768	0.3	sum_sqrt	RNA:Jurkat, Clone E6-1
+57	ENCFF263CML	data/encode_rna/ENCFF263CML.bigWig	768	0.3	sum_sqrt	RNA:A549 treated with 0.1 nM dexamethasone for 1 hour
+58	ENCFF882JUS	data/encode_rna/ENCFF882JUS.bigWig	768	0.3	sum_sqrt	RNA:Ishikawa treated with 100 nM bisphenol A for 4 hours
+59	ENCFF188RIO	data/encode_rna/ENCFF188RIO.bigWig	768	0.3	sum_sqrt	RNA:Ishikawa treated with 0.02% dimethyl sulfoxide for 4 hours
+60	ENCFF165CZI	data/encode_rna/ENCFF165CZI.bigWig	768	0.3	sum_sqrt	RNA:Ishikawa treated with 10 nM estradiol for 4 hours
+61	ENCFF755HLM	data/encode_rna/ENCFF755HLM.bigWig	768	0.3	sum_sqrt	RNA:Ishikawa treated with 100 nM genistein for 4 hours
+62	ENCFF353TRR	data/encode_rna/ENCFF353TRR.bigWig	768	0.3	sum_sqrt	RNA:T47D treated with 100 nM bisphenol A for 4 hours
+63	ENCFF287DGM	data/encode_rna/ENCFF287DGM.bigWig	768	0.3	sum_sqrt	RNA:T47D treated with 0.02% dimethyl sulfoxide for 4 hours
+64	ENCFF660UBK	data/encode_rna/ENCFF660UBK.bigWig	768	0.3	sum_sqrt	RNA:T47D treated with 10 nM estradiol for 4 hours
+65	ENCFF353MIF	data/encode_rna/ENCFF353MIF.bigWig	768	0.3	sum_sqrt	RNA:T47D treated with 100 nM genistein for 4 hours
+66	ENCFF808QXI	data/encode_rna/ENCFF808QXI.bigWig	768	0.3	sum_sqrt	RNA:A549 treated with 1 nM dexamethasone for 1 hour
+67	ENCFF181YIA	data/encode_rna/ENCFF181YIA.bigWig	768	0.3	sum_sqrt	RNA:A549 treated with 0.5 nM dexamethasone for 1 hour
+68	ENCFF409JEW	data/encode_rna/ENCFF409JEW.bigWig	768	0.3	sum_sqrt	RNA:A549 treated with 5 nM dexamethasone for 1 hour
+69	ENCFF949LLY	data/encode_rna/ENCFF949LLY.bigWig	768	0.3	sum_sqrt	RNA:BE2C
+70	ENCFF038WPL	data/encode_rna/ENCFF038WPL.bigWig	768	0.3	sum_sqrt	RNA:SK-N-SH
+71	ENCFF142KMX	data/encode_rna/ENCFF142KMX.bigWig	768	0.3	sum_sqrt	RNA:Panc1
+72	ENCFF378HTE	data/encode_rna/ENCFF378HTE.bigWig	768	0.3	sum_sqrt	RNA:PFSK-1
+73	ENCFF450BGT	data/encode_rna/ENCFF450BGT.bigWig	768	0.3	sum_sqrt	RNA:U-87 MG
+74	ENCFF222BDI	data/encode_rna/ENCFF222BDI.bigWig	768	0.3	sum_sqrt	RNA:H1
+75	ENCFF516KYO	data/encode_rna/ENCFF516KYO.bigWig	768	0.3	sum_sqrt	RNA:K562 cytosolic fraction
+76	ENCFF575YME	data/encode_rna/ENCFF575YME.bigWig	768	0.3	sum_sqrt	RNA:A549
+77	ENCFF735EPI	data/encode_rna/ENCFF735EPI.bigWig	768	0.3	sum_sqrt	RNA:AG04450
+78	ENCFF829TKX	data/encode_rna/ENCFF829TKX.bigWig	768	0.3	sum_sqrt	RNA:BJ
+79	ENCFF914IXY	data/encode_rna/ENCFF914IXY.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+80	ENCFF696CDU	data/encode_rna/ENCFF696CDU.bigWig	768	0.3	sum_sqrt	RNA:GM12878 cytosolic fraction
+81	ENCFF501KFP	data/encode_rna/ENCFF501KFP.bigWig	768	0.3	sum_sqrt	RNA:H1
+82	ENCFF729MSA	data/encode_rna/ENCFF729MSA.bigWig	768	0.3	sum_sqrt	RNA:H1 cytosolic fraction
+83	ENCFF587OLO	data/encode_rna/ENCFF587OLO.bigWig	768	0.3	sum_sqrt	RNA:H1 nuclear fraction
+84	ENCFF888MQS	data/encode_rna/ENCFF888MQS.bigWig	768	0.3	sum_sqrt	RNA:mammary epithelial cell female
+85	ENCFF049VPK	data/encode_rna/ENCFF049VPK.bigWig	768	0.3	sum_sqrt	RNA:skeletal muscle myoblast
+86	ENCFF005LKD	data/encode_rna/ENCFF005LKD.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell of umbilical vein male newborn
+87	ENCFF032IMA	data/encode_rna/ENCFF032IMA.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell of umbilical vein cytosolic fraction male newborn
+88	ENCFF804BGA	data/encode_rna/ENCFF804BGA.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell of umbilical vein nuclear fraction male newborn
+89	ENCFF431NUC	data/encode_rna/ENCFF431NUC.bigWig	768	0.3	sum_sqrt	RNA:HepG2 nuclear fraction
+90	ENCFF065PJM	data/encode_rna/ENCFF065PJM.bigWig	768	0.3	sum_sqrt	RNA:HepG2
+91	ENCFF518DFP	data/encode_rna/ENCFF518DFP.bigWig	768	0.3	sum_sqrt	RNA:HepG2 cytosolic fraction
+92	ENCFF119ONM	data/encode_rna/ENCFF119ONM.bigWig	768	0.3	sum_sqrt	RNA:K562
+93	ENCFF217JSG	data/encode_rna/ENCFF217JSG.bigWig	768	0.3	sum_sqrt	RNA:keratinocyte nuclear fraction female
+94	ENCFF226FBQ	data/encode_rna/ENCFF226FBQ.bigWig	768	0.3	sum_sqrt	RNA:keratinocyte cytosolic fraction female
+95	ENCFF703WGS	data/encode_rna/ENCFF703WGS.bigWig	768	0.3	sum_sqrt	RNA:keratinocyte female
+96	ENCFF664JII	data/encode_rna/ENCFF664JII.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of lung male adult (45 years)
+97	ENCFF217KTR	data/encode_rna/ENCFF217KTR.bigWig	768	0.3	sum_sqrt	RNA:SK-N-SH treated with 6 uM all-trans-retinoic acid for 48 hours
+98	ENCFF983FMY	data/encode_rna/ENCFF983FMY.bigWig	768	0.3	sum_sqrt	RNA:GM12878 nuclear fraction
+99	ENCFF425GMM	data/encode_rna/ENCFF425GMM.bigWig	768	0.3	sum_sqrt	RNA:HeLa-S3 cytosolic fraction
+100	ENCFF515VVS	data/encode_rna/ENCFF515VVS.bigWig	768	0.3	sum_sqrt	RNA:HeLa-S3 nuclear fraction
+101	ENCFF708PAF	data/encode_rna/ENCFF708PAF.bigWig	768	0.3	sum_sqrt	RNA:HeLa-S3
+102	ENCFF669RVI	data/encode_rna/ENCFF669RVI.bigWig	768	0.3	sum_sqrt	RNA:K562 nuclear fraction
+103	ENCFF795XIC	data/encode_rna/ENCFF795XIC.bigWig	768	0.3	sum_sqrt	RNA:MCF-7
+104	ENCFF124AUH	data/encode_rna/ENCFF124AUH.bigWig	768	0.3	sum_sqrt	RNA:K562 chromatin fraction
+105	ENCFF886LMB	data/encode_rna/ENCFF886LMB.bigWig	768	0.3	sum_sqrt	RNA:K562 nucleolus fraction
+106	ENCFF246QLC	data/encode_rna/ENCFF246QLC.bigWig	768	0.3	sum_sqrt	RNA:K562 nucleoplasmic fraction
+107	ENCFF087WJT	data/encode_rna/ENCFF087WJT.bigWig	768	0.3	sum_sqrt	RNA:IMR-90
+108	ENCFF717ESE	data/encode_rna/ENCFF717ESE.bigWig	768	0.3	sum_sqrt	RNA:A549 cytosolic fraction
+109	ENCFF771QOV	data/encode_rna/ENCFF771QOV.bigWig	768	0.3	sum_sqrt	RNA:A549 nuclear fraction
+110	ENCFF096YGQ	data/encode_rna/ENCFF096YGQ.bigWig	768	0.3	sum_sqrt	RNA:IMR-90 cytosolic fraction
+111	ENCFF229AJQ	data/encode_rna/ENCFF229AJQ.bigWig	768	0.3	sum_sqrt	RNA:MCF-7 nuclear fraction
+112	ENCFF236YOT	data/encode_rna/ENCFF236YOT.bigWig	768	0.3	sum_sqrt	RNA:IMR-90 nuclear fraction
+113	ENCFF705NPF	data/encode_rna/ENCFF705NPF.bigWig	768	0.3	sum_sqrt	RNA:IMR-90
+114	ENCFF031HEW	data/encode_rna/ENCFF031HEW.bigWig	768	0.3	sum_sqrt	RNA:SK-N-SH cytosolic fraction
+115	ENCFF256CAM	data/encode_rna/ENCFF256CAM.bigWig	768	0.3	sum_sqrt	RNA:SK-N-SH nuclear fraction
+116	ENCFF601EJS	data/encode_rna/ENCFF601EJS.bigWig	768	0.3	sum_sqrt	RNA:SK-N-SH
+117	ENCFF297JKU	data/encode_rna/ENCFF297JKU.bigWig	768	0.3	sum_sqrt	RNA:MCF-7 cytosolic fraction
+118	ENCFF252DFZ	data/encode_rna/ENCFF252DFZ.bigWig	768	0.3	sum_sqrt	RNA:B cell female adult (27 years) and female adult (43 years)
+119	ENCFF779FMR	data/encode_rna/ENCFF779FMR.bigWig	768	0.3	sum_sqrt	RNA:placental pericyte female newborn and male newborn
+120	ENCFF653TAB	data/encode_rna/ENCFF653TAB.bigWig	768	0.3	sum_sqrt	RNA:mesenchymal stem cell of adipose female adult (37 years) and female adult (42 years)
+121	ENCFF841GMC	data/encode_rna/ENCFF841GMC.bigWig	768	0.3	sum_sqrt	RNA:hematopoietic multipotent progenitor cell
+122	ENCFF798NEI	data/encode_rna/ENCFF798NEI.bigWig	768	0.3	sum_sqrt	RNA:hair follicle dermal papilla cell female adult (47 years) and female adult (70 years)
+123	ENCFF023YXV	data/encode_rna/ENCFF023YXV.bigWig	768	0.3	sum_sqrt	RNA:CD14-positive monocyte female
+124	ENCFF359MTP	data/encode_rna/ENCFF359MTP.bigWig	768	0.3	sum_sqrt	RNA:mesenchymal stem cell of the bone marrow female adult (60 years) and male adult (57 years)
+125	ENCFF314QIG	data/encode_rna/ENCFF314QIG.bigWig	768	0.3	sum_sqrt	RNA:articular chondrocyte of knee joint female adult (56 years) and male adult (64 years)
+126	ENCFF953CRN	data/encode_rna/ENCFF953CRN.bigWig	768	0.3	sum_sqrt	RNA:osteoblast female adult (56 years) and male adult (62 years)
+127	ENCFF143TXA	data/encode_rna/ENCFF143TXA.bigWig	768	0.3	sum_sqrt	RNA:vein endothelial cell male adult (48 years) and male adult (52 years)
+128	ENCFF343FWG	data/encode_rna/ENCFF343FWG.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of dermis female adult (44 years) and female adult (55 years)
+129	ENCFF804YRV	data/encode_rna/ENCFF804YRV.bigWig	768	0.3	sum_sqrt	RNA:skeletal muscle satellite cell female adult (64 years) and male adult (21 years)
+130	ENCFF256ZZS	data/encode_rna/ENCFF256ZZS.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of the aortic adventitia female adult (24 years) and male adult (47 years)
+131	ENCFF805HMR	data/encode_rna/ENCFF805HMR.bigWig	768	0.3	sum_sqrt	RNA:thoracic aorta endothelial cell female adult (22 years) and male adult (55 years)
+132	ENCFF649CUP	data/encode_rna/ENCFF649CUP.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of villous mesenchyme female newborn and male newborn
+133	ENCFF233TOO	data/encode_rna/ENCFF233TOO.bigWig	768	0.3	sum_sqrt	RNA:subcutaneous preadipocyte female adult (62 years) and male adult (65 years)
+134	ENCFF096YBH	data/encode_rna/ENCFF096YBH.bigWig	768	0.3	sum_sqrt	RNA:mammary epithelial cell female adult (23 years)
+135	ENCFF492ICA	data/encode_rna/ENCFF492ICA.bigWig	768	0.3	sum_sqrt	RNA:mesenchymal stem cell of Wharton's jelly female newborn and male newborn
+136	ENCFF591NKN	data/encode_rna/ENCFF591NKN.bigWig	768	0.3	sum_sqrt	RNA:placental epithelial cell female newborn and male newborn
+137	ENCFF723WDG	data/encode_rna/ENCFF723WDG.bigWig	768	0.3	sum_sqrt	RNA:melanocyte of skin male child (1 year) and male child (3 years)
+138	ENCFF230ZSG	data/encode_rna/ENCFF230ZSG.bigWig	768	0.3	sum_sqrt	RNA:melanocyte of skin female adult (52 years) and male adult (55 years)
+139	ENCFF151XTV	data/encode_rna/ENCFF151XTV.bigWig	768	0.3	sum_sqrt	RNA:mononuclear cell female adult (52 years)
+140	ENCFF853JVS	data/encode_rna/ENCFF853JVS.bigWig	768	0.3	sum_sqrt	RNA:GM12878 nucleolus fraction
+141	ENCFF982YRZ	data/encode_rna/ENCFF982YRZ.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with Interferon gamma for 6 hours
+142	ENCFF594PZM	data/encode_rna/ENCFF594PZM.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with Interferon gamma for 30 minutes
+143	ENCFF722OTS	data/encode_rna/ENCFF722OTS.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with interferon alpha for 6 hours
+144	ENCFF311UQI	data/encode_rna/ENCFF311UQI.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with interferon alpha for 30 minutes
+145	ENCFF987SCM	data/encode_rna/ENCFF987SCM.bigWig	768	0.3	sum_sqrt	RNA:GM12891
+146	ENCFF659BXA	data/encode_rna/ENCFF659BXA.bigWig	768	0.3	sum_sqrt	RNA:GM12892
+147	ENCFF069PST	data/encode_rna/ENCFF069PST.bigWig	768	0.3	sum_sqrt	RNA:HCT116
+148	ENCFF106FBY	data/encode_rna/ENCFF106FBY.bigWig	768	0.3	sum_sqrt	RNA:skeletal muscle myoblast
+149	ENCFF543YFY	data/encode_rna/ENCFF543YFY.bigWig	768	0.3	sum_sqrt	RNA:myocyte originated from LHCN-M2
+150	ENCFF905ISC	data/encode_rna/ENCFF905ISC.bigWig	768	0.3	sum_sqrt	RNA:LHCN-M2
+151	ENCFF808PHI	data/encode_rna/ENCFF808PHI.bigWig	768	0.3	sum_sqrt	RNA:MCF-7
+152	ENCFF036JNR	data/encode_rna/ENCFF036JNR.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of lung
+153	ENCFF684NXV	data/encode_rna/ENCFF684NXV.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+154	ENCFF860AKE	data/encode_rna/ENCFF860AKE.bigWig	768	0.3	sum_sqrt	RNA:K562
+155	ENCFF687EZU	data/encode_rna/ENCFF687EZU.bigWig	768	0.3	sum_sqrt	RNA:H1
+156	ENCFF587FSZ	data/encode_rna/ENCFF587FSZ.bigWig	768	0.3	sum_sqrt	RNA:HeLa-S3
+157	ENCFF995HXY	data/encode_rna/ENCFF995HXY.bigWig	768	0.3	sum_sqrt	RNA:HepG2
+158	ENCFF618GYZ	data/encode_rna/ENCFF618GYZ.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell of umbilical vein newborn
+159	ENCFF609GRY	data/encode_rna/ENCFF609GRY.bigWig	768	0.3	sum_sqrt	RNA:keratinocyte female
+160	ENCFF155OWV	data/encode_rna/ENCFF155OWV.bigWig	768	0.3	sum_sqrt	RNA:OCI-LY7
+161	ENCFF227YIR	data/encode_rna/ENCFF227YIR.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue female adult (30 years)
+162	ENCFF775NPV	data/encode_rna/ENCFF775NPV.bigWig	768	0.3	sum_sqrt	RNA:endodermal cell originated from HUES64
+163	ENCFF357VZF	data/encode_rna/ENCFF357VZF.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female adult (47 years)
+164	ENCFF496WON	data/encode_rna/ENCFF496WON.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 100 nM GSK J4 for 4 hours
+165	ENCFF028ZKC	data/encode_rna/ENCFF028ZKC.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta memory T cell
+166	ENCFF719AYC	data/encode_rna/ENCFF719AYC.bigWig	768	0.3	sum_sqrt	RNA:left renal cortex interstitium tissue male embryo (105 days)
+167	ENCFF952CKD	data/encode_rna/ENCFF952CKD.bigWig	768	0.3	sum_sqrt	RNA:Right ventricle myocardium inferior tissue male adult (60 years)
+168	ENCFF233HJC	data/encode_rna/ENCFF233HJC.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (90 or above years)
+169	ENCFF626VIR	data/encode_rna/ENCFF626VIR.bigWig	768	0.3	sum_sqrt	RNA:HepG2 insoluble cytoplasmic fraction
+170	ENCFF401YXF	data/encode_rna/ENCFF401YXF.bigWig	768	0.3	sum_sqrt	RNA:mammary epithelial cell female
+171	ENCFF354WKE	data/encode_rna/ENCFF354WKE.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of skin of scalp male embryo (97 days)
+172	ENCFF044XSJ	data/encode_rna/ENCFF044XSJ.bigWig	768	0.3	sum_sqrt	RNA:bipolar neuron originated from GM23338 treated with 0.5 ug/mL doxycycline hyclate for 4 days
+173	ENCFF796PND	data/encode_rna/ENCFF796PND.bigWig	768	0.3	sum_sqrt	RNA:thyroid gland tissue male adult (54 years)
+174	ENCFF408WKS	data/encode_rna/ENCFF408WKS.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue female embryo (115 days)
+175	ENCFF123MLK	data/encode_rna/ENCFF123MLK.bigWig	768	0.3	sum_sqrt	RNA:left renal pelvis tissue male embryo (105 days)
+176	ENCFF182JIC	data/encode_rna/ENCFF182JIC.bigWig	768	0.3	sum_sqrt	RNA:testis tissue male adult (37 years)
+177	ENCFF579IBH	data/encode_rna/ENCFF579IBH.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta T cell male adult (20 years)
+178	ENCFF487XUM	data/encode_rna/ENCFF487XUM.bigWig	768	0.3	sum_sqrt	RNA:gastroesophageal sphincter tissue female adult (51 years)
+179	ENCFF475JUK	data/encode_rna/ENCFF475JUK.bigWig	768	0.3	sum_sqrt	RNA:with mild cognitive impairment; middle frontal area 46 tissue female adult (90 or above years)
+180	ENCFF438BUG	data/encode_rna/ENCFF438BUG.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive thymus-derived CD4-positive, alpha-beta T cell
+181	ENCFF933QBC	data/encode_rna/ENCFF933QBC.bigWig	768	0.3	sum_sqrt	RNA:K562 membrane fraction
+182	ENCFF008CRB	data/encode_rna/ENCFF008CRB.bigWig	768	0.8734908657664815	sum_sqrt	RNA:small intestine tissue female adult (30 years)
+183	ENCFF384MPW	data/encode_rna/ENCFF384MPW.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; immature natural killer cell
+184	ENCFF444LLL	data/encode_rna/ENCFF444LLL.bigWig	768	0.3	sum_sqrt	RNA:K562 nuclear fraction
+185	ENCFF411VWO	data/encode_rna/ENCFF411VWO.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (51 years)
+186	ENCFF392VPC	data/encode_rna/ENCFF392VPC.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive thymus-derived CD4-positive, alpha-beta T cell
+187	ENCFF674RUW	data/encode_rna/ENCFF674RUW.bigWig	768	0.3	sum_sqrt	RNA:neurosphere embryo (15 weeks) originated from ganglionic eminence
+188	ENCFF636VGI	data/encode_rna/ENCFF636VGI.bigWig	768	0.3	sum_sqrt	RNA:H1
+189	ENCFF789CEJ	data/encode_rna/ENCFF789CEJ.bigWig	768	0.3	sum_sqrt	RNA:right lung tissue male embryo (105 days)
+190	ENCFF905NZB	data/encode_rna/ENCFF905NZB.bigWig	768	0.3	sum_sqrt	RNA:lung tissue female adult (47 years)
+191	ENCFF096UCI	data/encode_rna/ENCFF096UCI.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (47 years)
+192	ENCFF639BWZ	data/encode_rna/ENCFF639BWZ.bigWig	768	0.3	sum_sqrt	RNA:heart tissue male embryo (120 days)
+193	ENCFF638TAY	data/encode_rna/ENCFF638TAY.bigWig	768	0.3	sum_sqrt	RNA:neurosphere embryo (15 weeks) originated from ganglionic eminence
+194	ENCFF804UGI	data/encode_rna/ENCFF804UGI.bigWig	768	0.3	sum_sqrt	RNA:chorionic villus tissue female embryo (40 weeks)
+195	ENCFF652ISB	data/encode_rna/ENCFF652ISB.bigWig	768	0.3	sum_sqrt	RNA:smooth muscle cell originated from H9
+196	ENCFF196HWN	data/encode_rna/ENCFF196HWN.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue male adult (71 years)
+197	ENCFF205IED	data/encode_rna/ENCFF205IED.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 5 uM MB-3 for 12 hours
+198	ENCFF856SMT	data/encode_rna/ENCFF856SMT.bigWig	768	0.3	sum_sqrt	RNA:HepG2 nuclear fraction
+199	ENCFF035GJD	data/encode_rna/ENCFF035GJD.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (90 or above years)
+200	ENCFF381TII	data/encode_rna/ENCFF381TII.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease, Cognitive impairment; middle frontal area 46 tissue female adult (87 years)
+201	ENCFF994NAN	data/encode_rna/ENCFF994NAN.bigWig	768	0.3	sum_sqrt	RNA:HepG2 nuclear fraction
+202	ENCFF127NDE	data/encode_rna/ENCFF127NDE.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 1% DMSO for 4 hours
+203	ENCFF639UPM	data/encode_rna/ENCFF639UPM.bigWig	768	0.3	sum_sqrt	RNA:large intestine tissue male embryo (108 days)
+204	ENCFF225USB	data/encode_rna/ENCFF225USB.bigWig	768	0.3	sum_sqrt	RNA:HT1080 nuclear fraction
+205	ENCFF840VTO	data/encode_rna/ENCFF840VTO.bigWig	768	0.3	sum_sqrt	RNA:thymus tissue male embryo (127 days)
+206	ENCFF656OUX	data/encode_rna/ENCFF656OUX.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue female child (16 years)
+207	ENCFF432ENB	data/encode_rna/ENCFF432ENB.bigWig	768	0.3	sum_sqrt	RNA:uterus tissue female adult (51 years)
+208	ENCFF906FBF	data/encode_rna/ENCFF906FBF.bigWig	768	0.3	sum_sqrt	RNA:kidney tissue male adult (41 years)
+209	ENCFF480GYV	data/encode_rna/ENCFF480GYV.bigWig	768	0.3	sum_sqrt	RNA:OCI-LY7
+210	ENCFF432CYV	data/encode_rna/ENCFF432CYV.bigWig	768	0.3	sum_sqrt	RNA:right lung tissue female embryo (98 days)
+211	ENCFF434LID	data/encode_rna/ENCFF434LID.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue male adult (26 years)
+212	ENCFF073NKN	data/encode_rna/ENCFF073NKN.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+213	ENCFF847OUD	data/encode_rna/ENCFF847OUD.bigWig	768	0.3	sum_sqrt	RNA:omental fat pad tissue male adult (54 years)
+214	ENCFF521SQI	data/encode_rna/ENCFF521SQI.bigWig	768	0.3	sum_sqrt	RNA:liver tissue male adult (18 years)
+215	ENCFF884CFC	data/encode_rna/ENCFF884CFC.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (96 days)
+216	ENCFF894JRG	data/encode_rna/ENCFF894JRG.bigWig	768	0.3	sum_sqrt	RNA:IgD-negative memory B cell
+217	ENCFF865FLR	data/encode_rna/ENCFF865FLR.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive thymus-derived CD4-positive, alpha-beta T cell
+218	ENCFF387UUZ	data/encode_rna/ENCFF387UUZ.bigWig	768	0.3	sum_sqrt	RNA:sigmoid colon tissue female adult (53 years)
+219	ENCFF430LQC	data/encode_rna/ENCFF430LQC.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue male embryo (96 days)
+220	ENCFF863UAA	data/encode_rna/ENCFF863UAA.bigWig	768	0.3	sum_sqrt	RNA:breast epithelium tissue male adult (37 years)
+221	ENCFF942QIE	data/encode_rna/ENCFF942QIE.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue female adult (61 years)
+222	ENCFF656PZD	data/encode_rna/ENCFF656PZD.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (127 days)
+223	ENCFF071TXL	data/encode_rna/ENCFF071TXL.bigWig	768	0.3	sum_sqrt	RNA:esophagus muscularis mucosa tissue female adult (53 years)
+224	ENCFF710BHJ	data/encode_rna/ENCFF710BHJ.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 1% DMSO for 24 hours
+225	ENCFF689GBG	data/encode_rna/ENCFF689GBG.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Chaetocin for 24 hours
+226	ENCFF988EBT	data/encode_rna/ENCFF988EBT.bigWig	768	0.3	sum_sqrt	RNA:esophagus tissue male adult (34 years)
+227	ENCFF056NWD	data/encode_rna/ENCFF056NWD.bigWig	768	0.3	sum_sqrt	RNA:placental basal plate tissue embryo (16 weeks)
+228	ENCFF876APW	data/encode_rna/ENCFF876APW.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Vorinostat for 12 hours
+229	ENCFF507FAA	data/encode_rna/ENCFF507FAA.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue male adult (54 years)
+230	ENCFF136YVC	data/encode_rna/ENCFF136YVC.bigWig	768	0.3	sum_sqrt	RNA:suprapubic skin tissue male adult (54 years)
+231	ENCFF478XYM	data/encode_rna/ENCFF478XYM.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD4-positive, alpha-beta T cell
+232	ENCFF944XYT	data/encode_rna/ENCFF944XYT.bigWig	768	0.3	sum_sqrt	RNA:K562
+233	ENCFF417PPZ	data/encode_rna/ENCFF417PPZ.bigWig	768	0.3	sum_sqrt	RNA:cardiac atrium fibroblast male child (2 years)
+234	ENCFF122XJD	data/encode_rna/ENCFF122XJD.bigWig	768	0.3	sum_sqrt	RNA:activated T-cell male adult (42 years) treated with 50 U/mL Interleukin-2 for 4 hours, anti-CD3 and anti-CD28 coated beads for 4 hours
+235	ENCFF823LKJ	data/encode_rna/ENCFF823LKJ.bigWig	768	0.3	sum_sqrt	RNA:uterus tissue female adult (53 years)
+236	ENCFF385SAC	data/encode_rna/ENCFF385SAC.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Vorinostat for 4 hours
+237	ENCFF132EEP	data/encode_rna/ENCFF132EEP.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Chaetocin for 48 hours
+238	ENCFF767MLU	data/encode_rna/ENCFF767MLU.bigWig	768	0.3	sum_sqrt	RNA:epithelial cell of proximal tubule
+239	ENCFF195SMK	data/encode_rna/ENCFF195SMK.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female embryo (85 days)
+240	ENCFF996KKA	data/encode_rna/ENCFF996KKA.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue male embryo (127 days)
+241	ENCFF642WCG	data/encode_rna/ENCFF642WCG.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 25 uM Galeterone for 24 hours
+242	ENCFF669XAP	data/encode_rna/ENCFF669XAP.bigWig	768	0.3	sum_sqrt	RNA:left renal cortex interstitium tissue male embryo (105 days)
+243	ENCFF962EZE	data/encode_rna/ENCFF962EZE.bigWig	768	0.3	sum_sqrt	RNA:Panc1
+244	ENCFF310GNU	data/encode_rna/ENCFF310GNU.bigWig	768	0.3	sum_sqrt	RNA:lung tissue female adult (30 years)
+245	ENCFF849ELK	data/encode_rna/ENCFF849ELK.bigWig	768	0.3	sum_sqrt	RNA:astrocyte
+246	ENCFF568EVH	data/encode_rna/ENCFF568EVH.bigWig	768	0.3	sum_sqrt	RNA:posterior vena cava tissue female adult (47 years)
+247	ENCFF198IBF	data/encode_rna/ENCFF198IBF.bigWig	768	0.3	sum_sqrt	RNA:Right ventricle myocardium superior tissue male adult (60 years)
+248	ENCFF565QRM	data/encode_rna/ENCFF565QRM.bigWig	768	0.3	sum_sqrt	RNA:right lobe of liver tissue female adult (41 years)
+249	ENCFF117HUT	data/encode_rna/ENCFF117HUT.bigWig	768	0.3	sum_sqrt	RNA:SK-N-DZ treated with dimethyl sulfoxide for 72 hours
+250	ENCFF105TXB	data/encode_rna/ENCFF105TXB.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (46 years)
+251	ENCFF688KBA	data/encode_rna/ENCFF688KBA.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (105 days)
+252	ENCFF477AQU	data/encode_rna/ENCFF477AQU.bigWig	768	0.3	sum_sqrt	RNA:vagina tissue female adult (53 years)
+253	ENCFF561SVV	data/encode_rna/ENCFF561SVV.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female adult (30 years)
+254	ENCFF769QDV	data/encode_rna/ENCFF769QDV.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (59 years)
+255	ENCFF908IDY	data/encode_rna/ENCFF908IDY.bigWig	768	0.3	sum_sqrt	RNA:HFFc6
+256	ENCFF261GFJ	data/encode_rna/ENCFF261GFJ.bigWig	768	0.3	sum_sqrt	RNA:luminal epithelial cell of mammary gland female adult (22 years)
+257	ENCFF509OMC	data/encode_rna/ENCFF509OMC.bigWig	768	0.3	sum_sqrt	RNA:posterior vena cava tissue female adult (59 years)
+258	ENCFF246RCD	data/encode_rna/ENCFF246RCD.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue female embryo (108 days)
+259	ENCFF359ATD	data/encode_rna/ENCFF359ATD.bigWig	768	0.3	sum_sqrt	RNA:subcutaneous adipose tissue tissue female adult (51 years)
+260	ENCFF535NFF	data/encode_rna/ENCFF535NFF.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta T cell male adult (21 years)
+261	ENCFF782HFV	data/encode_rna/ENCFF782HFV.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+262	ENCFF259EXX	data/encode_rna/ENCFF259EXX.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD8-positive, alpha-beta T cell
+263	ENCFF969VXC	data/encode_rna/ENCFF969VXC.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD4-positive, alpha-beta T cell male adult (43 years)
+264	ENCFF296KUU	data/encode_rna/ENCFF296KUU.bigWig	768	0.3	sum_sqrt	RNA:H1 and endodermal cell
+265	ENCFF669TRH	data/encode_rna/ENCFF669TRH.bigWig	768	0.3	sum_sqrt	RNA:omental fat pad tissue female adult (51 years)
+266	ENCFF900MLZ	data/encode_rna/ENCFF900MLZ.bigWig	768	0.3	sum_sqrt	RNA:thymus tissue female embryo (98 days)
+267	ENCFF664RDQ	data/encode_rna/ENCFF664RDQ.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive thymus-derived CD8-positive, alpha-beta T cell
+268	ENCFF881ITI	data/encode_rna/ENCFF881ITI.bigWig	768	0.3	sum_sqrt	RNA:left renal pelvis tissue male embryo (105 days)
+269	ENCFF219KLR	data/encode_rna/ENCFF219KLR.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 5 uM MB-3 for 24 hours
+270	ENCFF695GPR	data/encode_rna/ENCFF695GPR.bigWig	768	0.3	sum_sqrt	RNA:NCI-H460
+271	ENCFF179DDD	data/encode_rna/ENCFF179DDD.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 5 uM MB-3 for 4 hours
+272	ENCFF013IKJ	data/encode_rna/ENCFF013IKJ.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue female adult (61 years)
+273	ENCFF681MQA	data/encode_rna/ENCFF681MQA.bigWig	768	0.3	sum_sqrt	RNA:WTC11 genetically modified (insertion) using TALEN inserting M. musculus Neurog2
+274	ENCFF686YTX	data/encode_rna/ENCFF686YTX.bigWig	768	0.3	sum_sqrt	RNA:HT1080 cytosolic fraction
+275	ENCFF995NEF	data/encode_rna/ENCFF995NEF.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD8-positive, alpha-beta T cell
+276	ENCFF992HAP	data/encode_rna/ENCFF992HAP.bigWig	768	0.3	sum_sqrt	RNA:mesothelial cell of epicardium
+277	ENCFF154TLD	data/encode_rna/ENCFF154TLD.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (113 days)
+278	ENCFF199BDG	data/encode_rna/ENCFF199BDG.bigWig	768	0.3	sum_sqrt	RNA:thymus tissue male embryo (97 days)
+279	ENCFF060EGL	data/encode_rna/ENCFF060EGL.bigWig	768	0.3	sum_sqrt	RNA:trophoblast tissue male embryo (38 weeks)
+280	ENCFF817FWU	data/encode_rna/ENCFF817FWU.bigWig	768	0.3	sum_sqrt	RNA:right lung tissue male embryo (96 days)
+281	ENCFF014YFU	data/encode_rna/ENCFF014YFU.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta memory T cell male adult (43 years)
+282	ENCFF581ZGH	data/encode_rna/ENCFF581ZGH.bigWig	768	0.3	sum_sqrt	RNA:HepG2
+283	ENCFF741HPN	data/encode_rna/ENCFF741HPN.bigWig	768	0.3	sum_sqrt	RNA:esophagus muscularis mucosa tissue male adult (37 years)
+284	ENCFF837ZJA	data/encode_rna/ENCFF837ZJA.bigWig	768	0.3	sum_sqrt	RNA:mucosa of descending colon tissue female adult (61 years)
+285	ENCFF542TGZ	data/encode_rna/ENCFF542TGZ.bigWig	768	0.3	sum_sqrt	RNA:aorta tissue female adult (41 years)
+286	ENCFF371QSS	data/encode_rna/ENCFF371QSS.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue female adult (51 years)
+287	ENCFF574YPE	data/encode_rna/ENCFF574YPE.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 5 uM JQ1 for 12 hours
+288	ENCFF424DIT	data/encode_rna/ENCFF424DIT.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (90 or above years)
+289	ENCFF346QDJ	data/encode_rna/ENCFF346QDJ.bigWig	768	0.3	sum_sqrt	RNA:mesangial cell NONE and female embryo (21 weeks)
+290	ENCFF117JSP	data/encode_rna/ENCFF117JSP.bigWig	768	0.3	sum_sqrt	RNA:SK-MEL-5 nuclear fraction
+291	ENCFF290PRJ	data/encode_rna/ENCFF290PRJ.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female child (16 years)
+292	ENCFF767NPP	data/encode_rna/ENCFF767NPP.bigWig	768	0.3	sum_sqrt	RNA:colonic mucosa tissue female adult (41 years)
+293	ENCFF693TJD	data/encode_rna/ENCFF693TJD.bigWig	768	0.3	sum_sqrt	RNA:renal pelvis tissue female embryo (105 days)
+294	ENCFF117CTU	data/encode_rna/ENCFF117CTU.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 25 uM Galeterone for 4 hours
+295	ENCFF259TIE	data/encode_rna/ENCFF259TIE.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive thymus-derived CD8-positive, alpha-beta T cell
+296	ENCFF064TTU	data/encode_rna/ENCFF064TTU.bigWig	768	0.3	sum_sqrt	RNA:kidney tissue female embryo (105 days)
+297	ENCFF772RIQ	data/encode_rna/ENCFF772RIQ.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, CD25-positive, alpha-beta regulatory T cell
+298	ENCFF648RBX	data/encode_rna/ENCFF648RBX.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue male embryo (96 days)
+299	ENCFF057IIF	data/encode_rna/ENCFF057IIF.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Bortezomib for 48 hours
+300	ENCFF470OCI	data/encode_rna/ENCFF470OCI.bigWig	768	0.3	sum_sqrt	RNA:myoepithelial cell of mammary gland female adult (22 years)
+301	ENCFF103EZF	data/encode_rna/ENCFF103EZF.bigWig	768	0.3	sum_sqrt	RNA:right lobe of liver tissue female adult (53 years)
+302	ENCFF367DUO	data/encode_rna/ENCFF367DUO.bigWig	768	0.3	sum_sqrt	RNA:thymus tissue female embryo (113 days)
+303	ENCFF128YXB	data/encode_rna/ENCFF128YXB.bigWig	768	0.3	sum_sqrt	RNA:right lobe of liver tissue female child (16 years)
+304	ENCFF401TVK	data/encode_rna/ENCFF401TVK.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD8-positive, alpha-beta T cell
+305	ENCFF155PJH	data/encode_rna/ENCFF155PJH.bigWig	768	0.3	sum_sqrt	RNA:astrocyte
+306	ENCFF625DRX	data/encode_rna/ENCFF625DRX.bigWig	768	0.3	sum_sqrt	RNA:adipose tissue tissue female adult (63 years)
+307	ENCFF312VKB	data/encode_rna/ENCFF312VKB.bigWig	768	0.3	sum_sqrt	RNA:smooth muscle cell originated from H9
+308	ENCFF837FLM	data/encode_rna/ENCFF837FLM.bigWig	768	0.3	sum_sqrt	RNA:thyroid gland tissue female adult (53 years)
+309	ENCFF641YCY	data/encode_rna/ENCFF641YCY.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue female embryo (85 days)
+310	ENCFF008UXK	data/encode_rna/ENCFF008UXK.bigWig	768	0.3	sum_sqrt	RNA:activated CD8-positive, alpha-beta memory T cell male adult (30 years)
+311	ENCFF503NGO	data/encode_rna/ENCFF503NGO.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue male embryo
+312	ENCFF403DKN	data/encode_rna/ENCFF403DKN.bigWig	768	0.3	sum_sqrt	RNA:neural progenitor cell originated from H9
+313	ENCFF908VIH	data/encode_rna/ENCFF908VIH.bigWig	768	0.3	sum_sqrt	RNA:HepG2
+314	ENCFF381OQK	data/encode_rna/ENCFF381OQK.bigWig	768	0.3	sum_sqrt	RNA:chorion tissue embryo (16 weeks)
+315	ENCFF645AYP	data/encode_rna/ENCFF645AYP.bigWig	768	0.3	sum_sqrt	RNA:heart right ventricle tissue female adult (46 years)
+316	ENCFF196LHX	data/encode_rna/ENCFF196LHX.bigWig	768	0.3	sum_sqrt	RNA:Daoy
+317	ENCFF770TOE	data/encode_rna/ENCFF770TOE.bigWig	768	0.3	sum_sqrt	RNA:SK-N-DZ nuclear fraction
+318	ENCFF615IJV	data/encode_rna/ENCFF615IJV.bigWig	768	0.3	sum_sqrt	RNA:neurosphere embryo (15 weeks) originated from cortex
+319	ENCFF666KUJ	data/encode_rna/ENCFF666KUJ.bigWig	768	0.3	sum_sqrt	RNA:Peyer's patch tissue male adult (54 years)
+320	ENCFF239BUM	data/encode_rna/ENCFF239BUM.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue female adult (59 years)
+321	ENCFF744TRY	data/encode_rna/ENCFF744TRY.bigWig	768	0.3	sum_sqrt	RNA:foreskin fibroblast male newborn
+322	ENCFF583FIC	data/encode_rna/ENCFF583FIC.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 uM AR-42 for 4 hours
+323	ENCFF946ZPT	data/encode_rna/ENCFF946ZPT.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD14-positive monocyte
+324	ENCFF393ZMQ	data/encode_rna/ENCFF393ZMQ.bigWig	768	0.3	sum_sqrt	RNA:activated CD8-positive, alpha-beta T cell male adult (21 years) treated with anti-CD3 and anti-CD28 coated beads
+325	ENCFF315BLU	data/encode_rna/ENCFF315BLU.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue embryo (112 days)
+326	ENCFF313KNT	data/encode_rna/ENCFF313KNT.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta memory T cell
+327	ENCFF474WFJ	data/encode_rna/ENCFF474WFJ.bigWig	768	0.3	sum_sqrt	RNA:right cardiac atrium tissue female adult (46 years)
+328	ENCFF670MHR	data/encode_rna/ENCFF670MHR.bigWig	768	0.3	sum_sqrt	RNA:endodermal cell
+329	ENCFF864IDH	data/encode_rna/ENCFF864IDH.bigWig	768	0.3	sum_sqrt	RNA:sigmoid colon tissue male adult (21 years)
+330	ENCFF506SFB	data/encode_rna/ENCFF506SFB.bigWig	768	0.3	sum_sqrt	RNA:keratinocyte female
+331	ENCFF533JTF	data/encode_rna/ENCFF533JTF.bigWig	768	0.3	sum_sqrt	RNA:endocrine pancreas tissue adult (59 years)
+332	ENCFF281UGH	data/encode_rna/ENCFF281UGH.bigWig	768	0.3	sum_sqrt	RNA:tibial nerve tissue female adult (51 years)
+333	ENCFF637ZBG	data/encode_rna/ENCFF637ZBG.bigWig	768	0.3	sum_sqrt	RNA:brain tissue female adult (66 years)
+334	ENCFF587USA	data/encode_rna/ENCFF587USA.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease, Cognitive impairment; middle frontal area 46 tissue male adult (73 years)
+335	ENCFF392DAR	data/encode_rna/ENCFF392DAR.bigWig	768	0.3	sum_sqrt	RNA:mesenchymal stem cell originated from H1
+336	ENCFF037OMX	data/encode_rna/ENCFF037OMX.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue male adult (37 years)
+337	ENCFF565FPI	data/encode_rna/ENCFF565FPI.bigWig	768	0.3	sum_sqrt	RNA:lung tissue male child (3 years)
+338	ENCFF496QEP	data/encode_rna/ENCFF496QEP.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta memory T cell
+339	ENCFF547YEW	data/encode_rna/ENCFF547YEW.bigWig	768	0.3	sum_sqrt	RNA:stimulated activated CD8-positive, alpha-beta T cell male adult (21 years) treated with 10 ng/mL Interleukin-2, anti-CD3 and anti-CD28 coated beads
+340	ENCFF295JCA	data/encode_rna/ENCFF295JCA.bigWig	768	0.3	sum_sqrt	RNA:large intestine tissue male embryo (115 days)
+341	ENCFF719RAL	data/encode_rna/ENCFF719RAL.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Bortezomib for 12 hours
+342	ENCFF189MNY	data/encode_rna/ENCFF189MNY.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue male embryo
+343	ENCFF634JRF	data/encode_rna/ENCFF634JRF.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (79 years)
+344	ENCFF960QLH	data/encode_rna/ENCFF960QLH.bigWig	768	0.3	sum_sqrt	RNA:SK-MEL-5 cytosolic fraction
+345	ENCFF185NBE	data/encode_rna/ENCFF185NBE.bigWig	768	0.3	sum_sqrt	RNA:endodermal cell
+346	ENCFF986WTF	data/encode_rna/ENCFF986WTF.bigWig	768	0.3	sum_sqrt	RNA:neural cell originated from H1
+347	ENCFF030JXK	data/encode_rna/ENCFF030JXK.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue female adult (90 or above years)
+348	ENCFF713REM	data/encode_rna/ENCFF713REM.bigWig	768	0.3	sum_sqrt	RNA:cardiac muscle cell originated from RUES2
+349	ENCFF151AEP	data/encode_rna/ENCFF151AEP.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta memory T cell
+350	ENCFF145OAS	data/encode_rna/ENCFF145OAS.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue male adult (54 years)
+351	ENCFF430DVF	data/encode_rna/ENCFF430DVF.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta memory T cell male adult (43 years)
+352	ENCFF047KOP	data/encode_rna/ENCFF047KOP.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+353	ENCFF557CLI	data/encode_rna/ENCFF557CLI.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Panobinostat for 48 hours
+354	ENCFF119XJG	data/encode_rna/ENCFF119XJG.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue male embryo (127 days)
+355	ENCFF624DSV	data/encode_rna/ENCFF624DSV.bigWig	768	0.3	sum_sqrt	RNA:T-cell male adult (42 years)
+356	ENCFF560YUT	data/encode_rna/ENCFF560YUT.bigWig	768	0.3	sum_sqrt	RNA:naive B cell
+357	ENCFF597XJZ	data/encode_rna/ENCFF597XJZ.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue male embryo
+358	ENCFF138GLV	data/encode_rna/ENCFF138GLV.bigWig	768	0.3	sum_sqrt	RNA:upper lobe of left lung tissue male adult (37 years)
+359	ENCFF816BKU	data/encode_rna/ENCFF816BKU.bigWig	768	0.3	sum_sqrt	RNA:peripheral blood mononuclear cell female adult (28 years)
+360	ENCFF505JCK	data/encode_rna/ENCFF505JCK.bigWig	768	0.3	sum_sqrt	RNA:Karpas-422
+361	ENCFF359ITR	data/encode_rna/ENCFF359ITR.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue female embryo (98 days)
+362	ENCFF629XGV	data/encode_rna/ENCFF629XGV.bigWig	768	0.3	sum_sqrt	RNA:RPMI7951
+363	ENCFF649MKX	data/encode_rna/ENCFF649MKX.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (41 years)
+364	ENCFF596HNR	data/encode_rna/ENCFF596HNR.bigWig	768	0.3	sum_sqrt	RNA:lower leg skin tissue male adult (37 years)
+365	ENCFF990MDC	data/encode_rna/ENCFF990MDC.bigWig	768	0.3	sum_sqrt	RNA:left renal pelvis tissue male embryo (105 days)
+366	ENCFF119SVC	data/encode_rna/ENCFF119SVC.bigWig	768	0.3	sum_sqrt	RNA:right lobe of liver tissue female adult (47 years)
+367	ENCFF206GMC	data/encode_rna/ENCFF206GMC.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 25 uM Galeterone for 48 hours
+368	ENCFF724LSN	data/encode_rna/ENCFF724LSN.bigWig	768	0.3	sum_sqrt	RNA:renal cortex interstitium tissue male embryo (91 days)
+369	ENCFF801PRP	data/encode_rna/ENCFF801PRP.bigWig	768	0.3	sum_sqrt	RNA:HepG2
+370	ENCFF643UKE	data/encode_rna/ENCFF643UKE.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue male adult (37 years)
+371	ENCFF197PAV	data/encode_rna/ENCFF197PAV.bigWig	768	0.3	sum_sqrt	RNA:LHCN-M2
+372	ENCFF956BZU	data/encode_rna/ENCFF956BZU.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue male embryo (105 days)
+373	ENCFF080VEH	data/encode_rna/ENCFF080VEH.bigWig	768	0.3	sum_sqrt	RNA:spinal cord tissue male embryo (105 days)
+374	ENCFF319AAP	data/encode_rna/ENCFF319AAP.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue male embryo (101 days)
+375	ENCFF994HKO	data/encode_rna/ENCFF994HKO.bigWig	768	0.3	sum_sqrt	RNA:T-cell female adult (33 years)
+376	ENCFF702CEO	data/encode_rna/ENCFF702CEO.bigWig	768	0.3	sum_sqrt	RNA:chorion tissue male embryo (38 weeks)
+377	ENCFF010PER	data/encode_rna/ENCFF010PER.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta memory T cell
+378	ENCFF629NUI	data/encode_rna/ENCFF629NUI.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue female adult (89 years)
+379	ENCFF893RLE	data/encode_rna/ENCFF893RLE.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 uM AR-42 for 12 hours
+380	ENCFF905ARA	data/encode_rna/ENCFF905ARA.bigWig	768	0.3	sum_sqrt	RNA:mucosa of gallbladder tissue female child (16 years)
+381	ENCFF333KHL	data/encode_rna/ENCFF333KHL.bigWig	768	0.3	sum_sqrt	RNA:testis tissue male adult (54 years)
+382	ENCFF022QBF	data/encode_rna/ENCFF022QBF.bigWig	768	0.3	sum_sqrt	RNA:HUES64
+383	ENCFF166OEV	data/encode_rna/ENCFF166OEV.bigWig	768	0.3	sum_sqrt	RNA:IgD-negative memory B cell
+384	ENCFF766JPS	data/encode_rna/ENCFF766JPS.bigWig	768	0.3	sum_sqrt	RNA:esophagus squamous epithelium tissue female adult (53 years)
+385	ENCFF679YQA	data/encode_rna/ENCFF679YQA.bigWig	768	0.3	sum_sqrt	RNA:right renal pelvis tissue male embryo (105 days)
+386	ENCFF995AUL	data/encode_rna/ENCFF995AUL.bigWig	768	0.3	sum_sqrt	RNA:type B pancreatic cell
+387	ENCFF187QYU	data/encode_rna/ENCFF187QYU.bigWig	768	0.3	sum_sqrt	RNA:esophagus squamous epithelium tissue male adult (37 years)
+388	ENCFF301XEH	data/encode_rna/ENCFF301XEH.bigWig	768	0.3	sum_sqrt	RNA:MCF-7
+389	ENCFF253SBE	data/encode_rna/ENCFF253SBE.bigWig	768	0.3	sum_sqrt	RNA:left lobe of liver tissue male adult (45 years)
+390	ENCFF410ISM	data/encode_rna/ENCFF410ISM.bigWig	768	0.3	sum_sqrt	RNA:natural killer cell male adult (37 years)
+391	ENCFF032EUU	data/encode_rna/ENCFF032EUU.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of skin of abdomen male embryo (97 days)
+392	ENCFF462KTY	data/encode_rna/ENCFF462KTY.bigWig	768	0.3	sum_sqrt	RNA:pericardium fibroblast NONE and female embryo (20 weeks)
+393	ENCFF932VPS	data/encode_rna/ENCFF932VPS.bigWig	768	0.3	sum_sqrt	RNA:large intestine tissue female embryo (105 days)
+394	ENCFF228OVL	data/encode_rna/ENCFF228OVL.bigWig	768	0.3	sum_sqrt	RNA:naive B cell
+395	ENCFF144GMK	data/encode_rna/ENCFF144GMK.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue female embryo (120 days)
+396	ENCFF987VHA	data/encode_rna/ENCFF987VHA.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (90 or above years)
+397	ENCFF759YTG	data/encode_rna/ENCFF759YTG.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue female adult (88 years)
+398	ENCFF482YAE	data/encode_rna/ENCFF482YAE.bigWig	768	0.3	sum_sqrt	RNA:thymus tissue male embryo (108 days)
+399	ENCFF119GRF	data/encode_rna/ENCFF119GRF.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (61 years)
+400	ENCFF856KPS	data/encode_rna/ENCFF856KPS.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 5 uM JQ1 for 4 hours
+401	ENCFF287LRZ	data/encode_rna/ENCFF287LRZ.bigWig	768	0.3	sum_sqrt	RNA:cardiac ventricle fibroblast NONE and male adult (18 years)
+402	ENCFF610DVT	data/encode_rna/ENCFF610DVT.bigWig	768	0.3	sum_sqrt	RNA:myometrial cell female adult (34 years)
+403	ENCFF635XGR	data/encode_rna/ENCFF635XGR.bigWig	768	0.3	sum_sqrt	RNA:kidney epithelial cell male embryo (22 weeks) and male newborn
+404	ENCFF197PEN	data/encode_rna/ENCFF197PEN.bigWig	768	0.3	sum_sqrt	RNA:aorta tissue female adult (59 years)
+405	ENCFF368ZGL	data/encode_rna/ENCFF368ZGL.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD4-positive, alpha-beta memory T cell
+406	ENCFF290WID	data/encode_rna/ENCFF290WID.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 5 uM MB-3 for 48 hours
+407	ENCFF527SQU	data/encode_rna/ENCFF527SQU.bigWig	768	0.3	sum_sqrt	RNA:GM23338
+408	ENCFF205VDK	data/encode_rna/ENCFF205VDK.bigWig	768	0.3	sum_sqrt	RNA:cardiac muscle cell originated from RUES2
+409	ENCFF358XLV	data/encode_rna/ENCFF358XLV.bigWig	768	0.3	sum_sqrt	RNA:HFFc6
+410	ENCFF081XYH	data/encode_rna/ENCFF081XYH.bigWig	768	0.3	sum_sqrt	RNA:ectodermal cell originated from HUES64
+411	ENCFF853SNW	data/encode_rna/ENCFF853SNW.bigWig	768	0.3	sum_sqrt	RNA:CD14-positive monocyte
+412	ENCFF136ZVX	data/encode_rna/ENCFF136ZVX.bigWig	768	0.3	sum_sqrt	RNA:K562 cytosolic fraction
+413	ENCFF362PNM	data/encode_rna/ENCFF362PNM.bigWig	768	0.3	sum_sqrt	RNA:activated CD4-positive, alpha-beta T cell male adult (20 years) treated with anti-CD3 and anti-CD28 coated beads
+414	ENCFF167XOI	data/encode_rna/ENCFF167XOI.bigWig	768	0.3	sum_sqrt	RNA:liver tissue female child (4 years) and with nonobstructive coronary artery disease; liver tissue male adult (32 years)
+415	ENCFF248QVA	data/encode_rna/ENCFF248QVA.bigWig	768	0.3	sum_sqrt	RNA:heart left ventricle tissue female adult (53 years)
+416	ENCFF733YEJ	data/encode_rna/ENCFF733YEJ.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue male adult (87 years)
+417	ENCFF939BQK	data/encode_rna/ENCFF939BQK.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue male adult (87 years)
+418	ENCFF123PSX	data/encode_rna/ENCFF123PSX.bigWig	768	0.3	sum_sqrt	RNA:sigmoid colon tissue male child (3 years)
+419	ENCFF367NBV	data/encode_rna/ENCFF367NBV.bigWig	768	0.3	sum_sqrt	RNA:right renal cortex interstitium tissue male embryo (105 days)
+420	ENCFF330EUN	data/encode_rna/ENCFF330EUN.bigWig	768	0.3	sum_sqrt	RNA:activated CD4-positive, alpha-beta memory T cell male adult (43 years)
+421	ENCFF807KQZ	data/encode_rna/ENCFF807KQZ.bigWig	768	0.3	sum_sqrt	RNA:transverse colon tissue female adult (51 years)
+422	ENCFF493OET	data/encode_rna/ENCFF493OET.bigWig	768	0.3	sum_sqrt	RNA:upper lobe of left lung tissue female adult (53 years)
+423	ENCFF309YCI	data/encode_rna/ENCFF309YCI.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue male embryo (91 days)
+424	ENCFF251CIC	data/encode_rna/ENCFF251CIC.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD8-positive, alpha-beta T cell male adult (30 years)
+425	ENCFF563MLL	data/encode_rna/ENCFF563MLL.bigWig	768	0.3	sum_sqrt	RNA:left renal pelvis tissue male embryo (120 days)
+426	ENCFF808KRP	data/encode_rna/ENCFF808KRP.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue female child (16 years)
+427	ENCFF515TIF	data/encode_rna/ENCFF515TIF.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta T cell male adult (20 years)
+428	ENCFF251HQX	data/encode_rna/ENCFF251HQX.bigWig	768	0.3	sum_sqrt	RNA:left renal cortex interstitium tissue male embryo (105 days)
+429	ENCFF092QIW	data/encode_rna/ENCFF092QIW.bigWig	768	0.3	sum_sqrt	RNA:osteocyte
+430	ENCFF474MDU	data/encode_rna/ENCFF474MDU.bigWig	768	0.3	sum_sqrt	RNA:activated CD8-positive, alpha-beta memory T cell male adult (30 years)
+431	ENCFF743FLM	data/encode_rna/ENCFF743FLM.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive B cell
+432	ENCFF737SYB	data/encode_rna/ENCFF737SYB.bigWig	768	0.3	sum_sqrt	RNA:PC-3
+433	ENCFF581PRF	data/encode_rna/ENCFF581PRF.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue female embryo
+434	ENCFF035NBN	data/encode_rna/ENCFF035NBN.bigWig	768	0.3	sum_sqrt	RNA:HFFc6
+435	ENCFF110RPH	data/encode_rna/ENCFF110RPH.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue male embryo (97 days)
+436	ENCFF188MTB	data/encode_rna/ENCFF188MTB.bigWig	768	0.3	sum_sqrt	RNA:IMR-90
+437	ENCFF391XHF	data/encode_rna/ENCFF391XHF.bigWig	768	0.3	sum_sqrt	RNA:renal pelvis tissue male embryo (91 days)
+438	ENCFF520NHF	data/encode_rna/ENCFF520NHF.bigWig	768	0.3	sum_sqrt	RNA:upper lobe of left lung tissue female adult (51 years)
+439	ENCFF121ZPH	data/encode_rna/ENCFF121ZPH.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell
+440	ENCFF833YCY	data/encode_rna/ENCFF833YCY.bigWig	768	0.3	sum_sqrt	RNA:thoracic aorta tissue male adult (37 years)
+441	ENCFF210MJF	data/encode_rna/ENCFF210MJF.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue female adult (59 years)
+442	ENCFF103NIX	data/encode_rna/ENCFF103NIX.bigWig	768	0.3	sum_sqrt	RNA:mesodermal cell originated from HUES64
+443	ENCFF774PKK	data/encode_rna/ENCFF774PKK.bigWig	768	0.3	sum_sqrt	RNA:heart right ventricle tissue male adult (34 years)
+444	ENCFF261LJW	data/encode_rna/ENCFF261LJW.bigWig	768	0.3	sum_sqrt	RNA:mammary stem cell female adult (22 years)
+445	ENCFF169FHE	data/encode_rna/ENCFF169FHE.bigWig	768	0.3	sum_sqrt	RNA:breast epithelium tissue female adult (53 years)
+446	ENCFF472LKR	data/encode_rna/ENCFF472LKR.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD4-positive, CD25-positive, alpha-beta regulatory T cell
+447	ENCFF671DKT	data/encode_rna/ENCFF671DKT.bigWig	768	0.3	sum_sqrt	RNA:heart left ventricle tissue female adult (51 years)
+448	ENCFF957KMU	data/encode_rna/ENCFF957KMU.bigWig	768	0.3	sum_sqrt	RNA:renal cortex interstitium tissue male embryo (97 days)
+449	ENCFF237QNH	data/encode_rna/ENCFF237QNH.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD8-positive, alpha-beta T cell male adult (30 years)
+450	ENCFF603PIL	data/encode_rna/ENCFF603PIL.bigWig	768	0.3	sum_sqrt	RNA:breast epithelium tissue female adult (51 years)
+451	ENCFF841CUM	data/encode_rna/ENCFF841CUM.bigWig	768	0.3	sum_sqrt	RNA:heart right ventricle tissue male child (3 years)
+452	ENCFF485JGG	data/encode_rna/ENCFF485JGG.bigWig	768	0.3	sum_sqrt	RNA:skeletal muscle myoblast
+453	ENCFF030XBO	data/encode_rna/ENCFF030XBO.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta memory T cell male adult (30 years)
+454	ENCFF224GPU	data/encode_rna/ENCFF224GPU.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue male embryo (91 days)
+455	ENCFF846ZCR	data/encode_rna/ENCFF846ZCR.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (101 days)
+456	ENCFF327YQU	data/encode_rna/ENCFF327YQU.bigWig	768	0.3	sum_sqrt	RNA:lower lobe of left lung tissue male adult (60 years)
+457	ENCFF214DTC	data/encode_rna/ENCFF214DTC.bigWig	768	0.3	sum_sqrt	RNA:urinary bladder tissue male child (3 years)
+458	ENCFF804LUI	data/encode_rna/ENCFF804LUI.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue female adult (30 years)
+459	ENCFF011JWL	data/encode_rna/ENCFF011JWL.bigWig	768	0.3	sum_sqrt	RNA:B cell male adult (37 years)
+460	ENCFF542BVY	data/encode_rna/ENCFF542BVY.bigWig	768	0.3	sum_sqrt	RNA:Peyer's patch tissue female adult (51 years)
+461	ENCFF498TQF	data/encode_rna/ENCFF498TQF.bigWig	768	0.3	sum_sqrt	RNA:suprapubic skin tissue female adult (53 years)
+462	ENCFF634WOM	data/encode_rna/ENCFF634WOM.bigWig	768	0.3	sum_sqrt	RNA:WTC11
+463	ENCFF436OWO	data/encode_rna/ENCFF436OWO.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 50 uM C646 for 12 hours
+464	ENCFF283IQC	data/encode_rna/ENCFF283IQC.bigWig	768	0.3	sum_sqrt	RNA:foreskin keratinocyte male newborn
+465	ENCFF263KEJ	data/encode_rna/ENCFF263KEJ.bigWig	768	0.3	sum_sqrt	RNA:right atrium auricular region tissue female adult (51 years)
+466	ENCFF286TKQ	data/encode_rna/ENCFF286TKQ.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD4-positive, alpha-beta T cell male adult (43 years)
+467	ENCFF318EJE	data/encode_rna/ENCFF318EJE.bigWig	768	0.3	sum_sqrt	RNA:lower leg skin tissue male adult (54 years)
+468	ENCFF223MUU	data/encode_rna/ENCFF223MUU.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta T cell male adult (37 years)
+469	ENCFF992XOR	data/encode_rna/ENCFF992XOR.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue male embryo
+470	ENCFF064BKZ	data/encode_rna/ENCFF064BKZ.bigWig	768	0.3	sum_sqrt	RNA:chorion tissue female embryo (40 weeks)
+471	ENCFF735XXE	data/encode_rna/ENCFF735XXE.bigWig	768	0.3	sum_sqrt	RNA:CD14-positive monocyte
+472	ENCFF884TVR	data/encode_rna/ENCFF884TVR.bigWig	768	0.3	sum_sqrt	RNA:thymus tissue male embryo (113 days)
+473	ENCFF144BNP	data/encode_rna/ENCFF144BNP.bigWig	768	0.3	sum_sqrt	RNA:Caco-2
+474	ENCFF163BTT	data/encode_rna/ENCFF163BTT.bigWig	768	0.3	sum_sqrt	RNA:cerebellum tissue male embryo (20 weeks)
+475	ENCFF561TMR	data/encode_rna/ENCFF561TMR.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue male adult (37 years)
+476	ENCFF911JBW	data/encode_rna/ENCFF911JBW.bigWig	768	0.3	sum_sqrt	RNA:endodermal cell originated from HUES64
+477	ENCFF291GNY	data/encode_rna/ENCFF291GNY.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD8-positive, alpha-beta T cell male adult (30 years)
+478	ENCFF213LRI	data/encode_rna/ENCFF213LRI.bigWig	768	0.3	sum_sqrt	RNA:esophagus squamous epithelium tissue male adult (54 years)
+479	ENCFF400CHK	data/encode_rna/ENCFF400CHK.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue male embryo
+480	ENCFF685FCX	data/encode_rna/ENCFF685FCX.bigWig	768	0.3	sum_sqrt	RNA:suprapubic skin tissue female adult (51 years)
+481	ENCFF947KGU	data/encode_rna/ENCFF947KGU.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue male embryo (108 days)
+482	ENCFF715SXQ	data/encode_rna/ENCFF715SXQ.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue female adult (90 or above years)
+483	ENCFF697OAU	data/encode_rna/ENCFF697OAU.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue embryo
+484	ENCFF263ZRO	data/encode_rna/ENCFF263ZRO.bigWig	768	0.3	sum_sqrt	RNA:gastroesophageal sphincter tissue male adult (54 years)
+485	ENCFF181QTI	data/encode_rna/ENCFF181QTI.bigWig	768	0.3	sum_sqrt	RNA:H7
+486	ENCFF470HTA	data/encode_rna/ENCFF470HTA.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD8-positive, alpha-beta memory T cell
+487	ENCFF952UWM	data/encode_rna/ENCFF952UWM.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Chaetocin for 4 hours
+488	ENCFF535TIX	data/encode_rna/ENCFF535TIX.bigWig	768	0.3	sum_sqrt	RNA:prostate gland tissue male adult (37 years)
+489	ENCFF143EWZ	data/encode_rna/ENCFF143EWZ.bigWig	768	0.3	sum_sqrt	RNA:kidney tissue female embryo (108 days)
+490	ENCFF089GUP	data/encode_rna/ENCFF089GUP.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue female embryo (105 days)
+491	ENCFF849BKN	data/encode_rna/ENCFF849BKN.bigWig	768	0.3	sum_sqrt	RNA:upper lobe of left lung tissue male adult (60 years)
+492	ENCFF388QFN	data/encode_rna/ENCFF388QFN.bigWig	768	0.3	sum_sqrt	RNA:mesodermal cell originated from HUES64
+493	ENCFF845DJW	data/encode_rna/ENCFF845DJW.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta T cell male adult (21 years)
+494	ENCFF754ZRA	data/encode_rna/ENCFF754ZRA.bigWig	768	0.3	sum_sqrt	RNA:psoas muscle tissue female adult (30 years)
+495	ENCFF560FVE	data/encode_rna/ENCFF560FVE.bigWig	768	0.3	sum_sqrt	RNA:subcutaneous adipose tissue tissue female adult (53 years)
+496	ENCFF672AXQ	data/encode_rna/ENCFF672AXQ.bigWig	768	0.3	sum_sqrt	RNA:right lobe of liver tissue female adult (53 years)
+497	ENCFF280YRS	data/encode_rna/ENCFF280YRS.bigWig	768	0.3	sum_sqrt	RNA:A375
+498	ENCFF833QMT	data/encode_rna/ENCFF833QMT.bigWig	768	0.3	sum_sqrt	RNA:esophagus squamous epithelium tissue female adult (51 years)
+499	ENCFF089SDX	data/encode_rna/ENCFF089SDX.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue female adult (30 years)
+500	ENCFF693XEN	data/encode_rna/ENCFF693XEN.bigWig	768	0.3	sum_sqrt	RNA:GM23248
+501	ENCFF672RNN	data/encode_rna/ENCFF672RNN.bigWig	768	0.3	sum_sqrt	RNA:colonic mucosa tissue female child (16 years)
+502	ENCFF709QRA	data/encode_rna/ENCFF709QRA.bigWig	768	0.3	sum_sqrt	RNA:left ventricle myocardium inferior tissue male adult (60 years)
+503	ENCFF481CMO	data/encode_rna/ENCFF481CMO.bigWig	768	0.3	sum_sqrt	RNA:hindlimb muscle tissue male embryo (120 days)
+504	ENCFF344YVW	data/encode_rna/ENCFF344YVW.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 uM Crizotinib for 4 hours
+505	ENCFF670XJQ	data/encode_rna/ENCFF670XJQ.bigWig	768	0.3	sum_sqrt	RNA:endocrine pancreas tissue male adult (45 years)
+506	ENCFF027CXS	data/encode_rna/ENCFF027CXS.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue male embryo (101 days)
+507	ENCFF849FLT	data/encode_rna/ENCFF849FLT.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue female embryo (120 days)
+508	ENCFF901ATL	data/encode_rna/ENCFF901ATL.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue female adult (47 years)
+509	ENCFF069OIK	data/encode_rna/ENCFF069OIK.bigWig	768	0.3	sum_sqrt	RNA:gastroesophageal sphincter tissue male adult (37 years)
+510	ENCFF113MGH	data/encode_rna/ENCFF113MGH.bigWig	768	0.3	sum_sqrt	RNA:K562 nuclear fraction
+511	ENCFF007LJG	data/encode_rna/ENCFF007LJG.bigWig	768	0.3	sum_sqrt	RNA:muscle of trunk tissue female embryo (120 days)
+512	ENCFF101SYV	data/encode_rna/ENCFF101SYV.bigWig	768	0.3	sum_sqrt	RNA:thyroid gland tissue male adult (37 years)
+513	ENCFF646ZZQ	data/encode_rna/ENCFF646ZZQ.bigWig	768	0.3	sum_sqrt	RNA:activated CD8-positive, alpha-beta T cell male adult (21 years) treated with anti-CD3 and anti-CD28 coated beads
+514	ENCFF298CPL	data/encode_rna/ENCFF298CPL.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue female embryo (98 days)
+515	ENCFF636BRP	data/encode_rna/ENCFF636BRP.bigWig	768	0.3	sum_sqrt	RNA:amnion tissue female embryo (40 weeks)
+516	ENCFF790DEA	data/encode_rna/ENCFF790DEA.bigWig	768	0.3	sum_sqrt	RNA:HT1080
+517	ENCFF709BGZ	data/encode_rna/ENCFF709BGZ.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; IgD-negative memory B cell
+518	ENCFF257QQB	data/encode_rna/ENCFF257QQB.bigWig	768	0.3	sum_sqrt	RNA:H1
+519	ENCFF982JPV	data/encode_rna/ENCFF982JPV.bigWig	768	0.3	sum_sqrt	RNA:activated CD8-positive, alpha-beta memory T cell male adult (30 years)
+520	ENCFF808EKP	data/encode_rna/ENCFF808EKP.bigWig	768	0.3	sum_sqrt	RNA:HepG2 membrane fraction
+521	ENCFF595DZY	data/encode_rna/ENCFF595DZY.bigWig	768	0.3	sum_sqrt	RNA:spinal cord tissue female embryo (113 days)
+522	ENCFF876MLB	data/encode_rna/ENCFF876MLB.bigWig	768	0.3	sum_sqrt	RNA:right renal pelvis tissue male embryo (120 days)
+523	ENCFF684FER	data/encode_rna/ENCFF684FER.bigWig	768	0.3	sum_sqrt	RNA:Peyer's patch tissue female adult (53 years)
+524	ENCFF089BOJ	data/encode_rna/ENCFF089BOJ.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta T cell male adult (21 years)
+525	ENCFF844CIZ	data/encode_rna/ENCFF844CIZ.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (97 days)
+526	ENCFF713ZMW	data/encode_rna/ENCFF713ZMW.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue male embryo (96 days)
+527	ENCFF728QLF	data/encode_rna/ENCFF728QLF.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female embryo (108 days)
+528	ENCFF410QZX	data/encode_rna/ENCFF410QZX.bigWig	768	0.3	sum_sqrt	RNA:lower leg skin tissue female adult (51 years)
+529	ENCFF150UWD	data/encode_rna/ENCFF150UWD.bigWig	768	0.3	sum_sqrt	RNA:HeLa-S3
+530	ENCFF707WTD	data/encode_rna/ENCFF707WTD.bigWig	768	0.3	sum_sqrt	RNA:stimulated activated CD8-positive, alpha-beta T cell male adult (21 years) treated with 10 ng/mL Interleukin-2, anti-CD3 and anti-CD28 coated beads
+531	ENCFF146DMX	data/encode_rna/ENCFF146DMX.bigWig	768	0.3	sum_sqrt	RNA:right renal pelvis tissue male embryo (105 days)
+532	ENCFF085JXX	data/encode_rna/ENCFF085JXX.bigWig	768	0.3	sum_sqrt	RNA:right lung tissue female embryo (108 days)
+533	ENCFF489SFV	data/encode_rna/ENCFF489SFV.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue embryo (96 days)
+534	ENCFF866JMO	data/encode_rna/ENCFF866JMO.bigWig	768	0.3	sum_sqrt	RNA:amnion tissue embryo (16 weeks)
+535	ENCFF274TDF	data/encode_rna/ENCFF274TDF.bigWig	768	0.3	sum_sqrt	RNA:A673
+536	ENCFF565XVW	data/encode_rna/ENCFF565XVW.bigWig	768	0.3	sum_sqrt	RNA:endodermal cell originated from H1
+537	ENCFF744BTD	data/encode_rna/ENCFF744BTD.bigWig	768	0.3	sum_sqrt	RNA:chorionic villus tissue male embryo (16 weeks)
+538	ENCFF488KNY	data/encode_rna/ENCFF488KNY.bigWig	768	0.3	sum_sqrt	RNA:right lung tissue female embryo (105 days)
+539	ENCFF917RKL	data/encode_rna/ENCFF917RKL.bigWig	768	0.3	sum_sqrt	RNA:HepG2
+540	ENCFF951UGT	data/encode_rna/ENCFF951UGT.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (97 days)
+541	ENCFF104NDB	data/encode_rna/ENCFF104NDB.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (90 or above years)
+542	ENCFF233HOM	data/encode_rna/ENCFF233HOM.bigWig	768	0.3	sum_sqrt	RNA:psoas muscle tissue female adult (61 years)
+543	ENCFF047ADC	data/encode_rna/ENCFF047ADC.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Bortezomib for 4 hours
+544	ENCFF637ANZ	data/encode_rna/ENCFF637ANZ.bigWig	768	0.3	sum_sqrt	RNA:SJCRH30
+545	ENCFF218MMR	data/encode_rna/ENCFF218MMR.bigWig	768	0.3	sum_sqrt	RNA:SK-N-DZ cytosolic fraction
+546	ENCFF898IHN	data/encode_rna/ENCFF898IHN.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue female adult (30 years)
+547	ENCFF212QRL	data/encode_rna/ENCFF212QRL.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female embryo (110 days)
+548	ENCFF025THJ	data/encode_rna/ENCFF025THJ.bigWig	768	0.3	sum_sqrt	RNA:right atrium auricular region tissue female adult (53 years)
+549	ENCFF231VPQ	data/encode_rna/ENCFF231VPQ.bigWig	768	0.3	sum_sqrt	RNA:neuronal stem cell originated from H1
+550	ENCFF387SJN	data/encode_rna/ENCFF387SJN.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue male embryo (105 days)
+551	ENCFF462KBX	data/encode_rna/ENCFF462KBX.bigWig	768	0.3	sum_sqrt	RNA:psoas muscle tissue female adult (41 years)
+552	ENCFF254PWG	data/encode_rna/ENCFF254PWG.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue male embryo (120 days)
+553	ENCFF470VWE	data/encode_rna/ENCFF470VWE.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue male embryo (97 days)
+554	ENCFF788FRD	data/encode_rna/ENCFF788FRD.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue female adult (41 years)
+555	ENCFF228AHT	data/encode_rna/ENCFF228AHT.bigWig	768	0.3	sum_sqrt	RNA:A172
+556	ENCFF591XND	data/encode_rna/ENCFF591XND.bigWig	768	0.3	sum_sqrt	RNA:Caki2
+557	ENCFF201RLE	data/encode_rna/ENCFF201RLE.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive thymus-derived CD8-positive, alpha-beta T cell
+558	ENCFF304TWT	data/encode_rna/ENCFF304TWT.bigWig	768	0.3	sum_sqrt	RNA:NCI-H460 cytosolic fraction
+559	ENCFF731FYT	data/encode_rna/ENCFF731FYT.bigWig	768	0.3	sum_sqrt	RNA:body of pancreas tissue female adult (53 years)
+560	ENCFF520RFL	data/encode_rna/ENCFF520RFL.bigWig	768	0.3	sum_sqrt	RNA:H1
+561	ENCFF568PWV	data/encode_rna/ENCFF568PWV.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, alpha-beta memory T cell
+562	ENCFF034RBU	data/encode_rna/ENCFF034RBU.bigWig	768	0.3	sum_sqrt	RNA:upper lobe of left lung tissue female adult (61 years)
+563	ENCFF426JDT	data/encode_rna/ENCFF426JDT.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue female embryo (98 days)
+564	ENCFF086SRN	data/encode_rna/ENCFF086SRN.bigWig	768	0.3	sum_sqrt	RNA:ectodermal cell originated from HUES64
+565	ENCFF827UHC	data/encode_rna/ENCFF827UHC.bigWig	768	0.3	sum_sqrt	RNA:stimulated activated CD4-positive, alpha-beta T cell male adult (20 years) treated with 10 ng/mL Interleukin-2, anti-CD3 and anti-CD28 coated beads
+566	ENCFF199MXA	data/encode_rna/ENCFF199MXA.bigWig	768	0.3	sum_sqrt	RNA:K562 insoluble cytoplasmic fraction
+567	ENCFF694EBG	data/encode_rna/ENCFF694EBG.bigWig	768	0.3	sum_sqrt	RNA:excitatory neuron genetically modified (insertion) using TALEN inserting M. musculus Neurog2 originated from WTC11
+568	ENCFF407ZDP	data/encode_rna/ENCFF407ZDP.bigWig	768	0.3	sum_sqrt	RNA:K562 membrane fraction
+569	ENCFF018NXB	data/encode_rna/ENCFF018NXB.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD4-positive, alpha-beta T cell
+570	ENCFF455CDH	data/encode_rna/ENCFF455CDH.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue female adult (90 or above years)
+571	ENCFF297NQG	data/encode_rna/ENCFF297NQG.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue male adult (34 years)
+572	ENCFF065NBH	data/encode_rna/ENCFF065NBH.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 1% DMSO for 12 hours
+573	ENCFF007ZBY	data/encode_rna/ENCFF007ZBY.bigWig	768	0.3	sum_sqrt	RNA:gastrocnemius medialis tissue female adult (51 years)
+574	ENCFF097CWH	data/encode_rna/ENCFF097CWH.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue female adult (30 years)
+575	ENCFF585HTZ	data/encode_rna/ENCFF585HTZ.bigWig	768	0.3	sum_sqrt	RNA:K562
+576	ENCFF458QQU	data/encode_rna/ENCFF458QQU.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue male child (3 years)
+577	ENCFF973BSN	data/encode_rna/ENCFF973BSN.bigWig	768	0.3	sum_sqrt	RNA:esophagus muscularis mucosa tissue female adult (51 years)
+578	ENCFF383RPD	data/encode_rna/ENCFF383RPD.bigWig	768	0.3	sum_sqrt	RNA:bronchus fibroblast of lung
+579	ENCFF824QUG	data/encode_rna/ENCFF824QUG.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue female embryo (105 days)
+580	ENCFF592XZA	data/encode_rna/ENCFF592XZA.bigWig	768	0.3	sum_sqrt	RNA:small intestine tissue male embryo (115 days)
+581	ENCFF733JPK	data/encode_rna/ENCFF733JPK.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue female adult (41 years)
+582	ENCFF808SDN	data/encode_rna/ENCFF808SDN.bigWig	768	0.3	sum_sqrt	RNA:right cardiac atrium tissue female adult (59 years)
+583	ENCFF086IIB	data/encode_rna/ENCFF086IIB.bigWig	768	0.3	sum_sqrt	RNA:NCI-H460 nuclear fraction
+584	ENCFF091AGW	data/encode_rna/ENCFF091AGW.bigWig	768	0.3	sum_sqrt	RNA:pancreas tissue male adult (34 years)
+585	ENCFF672VYQ	data/encode_rna/ENCFF672VYQ.bigWig	768	0.3	sum_sqrt	RNA:transverse colon tissue male adult (54 years)
+586	ENCFF983RQU	data/encode_rna/ENCFF983RQU.bigWig	768	0.3	sum_sqrt	RNA:T-cell male adult (38 years)
+587	ENCFF296HLN	data/encode_rna/ENCFF296HLN.bigWig	768	0.3	sum_sqrt	RNA:sciatic nerve tissue female adult (41 years)
+588	ENCFF482BDQ	data/encode_rna/ENCFF482BDQ.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (90 or above years)
+589	ENCFF814YUZ	data/encode_rna/ENCFF814YUZ.bigWig	768	0.3	sum_sqrt	RNA:foreskin melanocyte male newborn
+590	ENCFF045ZHZ	data/encode_rna/ENCFF045ZHZ.bigWig	768	0.3	sum_sqrt	RNA:heart tissue female adult (30 years)
+591	ENCFF275DKR	data/encode_rna/ENCFF275DKR.bigWig	768	0.3	sum_sqrt	RNA:HFFc6
+592	ENCFF365LTY	data/encode_rna/ENCFF365LTY.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of skin of back male embryo (97 days)
+593	ENCFF544ZDA	data/encode_rna/ENCFF544ZDA.bigWig	768	0.3	sum_sqrt	RNA:K562
+594	ENCFF848ZVQ	data/encode_rna/ENCFF848ZVQ.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD14-positive monocyte
+595	ENCFF368FFC	data/encode_rna/ENCFF368FFC.bigWig	768	0.3	sum_sqrt	RNA:H1
+596	ENCFF889JRS	data/encode_rna/ENCFF889JRS.bigWig	768	0.3	sum_sqrt	RNA:omental fat pad tissue female adult (53 years)
+597	ENCFF857GII	data/encode_rna/ENCFF857GII.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue female adult (90 or above years)
+598	ENCFF702XYL	data/encode_rna/ENCFF702XYL.bigWig	768	0.3	sum_sqrt	RNA:PC-3
+599	ENCFF304ZAM	data/encode_rna/ENCFF304ZAM.bigWig	768	0.3	sum_sqrt	RNA:tibial nerve tissue male adult (54 years)
+600	ENCFF196UHI	data/encode_rna/ENCFF196UHI.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue female embryo
+601	ENCFF519CVR	data/encode_rna/ENCFF519CVR.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue male embryo (105 days)
+602	ENCFF185FBE	data/encode_rna/ENCFF185FBE.bigWig	768	0.3	sum_sqrt	RNA:left cardiac atrium tissue female adult (59 years)
+603	ENCFF125TVD	data/encode_rna/ENCFF125TVD.bigWig	768	0.3	sum_sqrt	RNA:G401
+604	ENCFF844TIV	data/encode_rna/ENCFF844TIV.bigWig	768	0.312421875	sum_sqrt	RNA:transverse colon tissue male adult (37 years)
+605	ENCFF443EQZ	data/encode_rna/ENCFF443EQZ.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell of umbilical vein newborn
+606	ENCFF893OBW	data/encode_rna/ENCFF893OBW.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of skin of back male embryo (97 days)
+607	ENCFF168WRO	data/encode_rna/ENCFF168WRO.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue male child (3 years)
+608	ENCFF807FQZ	data/encode_rna/ENCFF807FQZ.bigWig	768	0.3	sum_sqrt	RNA:mesenchymal stem cell originated from H1
+609	ENCFF497DVM	data/encode_rna/ENCFF497DVM.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, CD25-positive, alpha-beta regulatory T cell
+610	ENCFF492KPL	data/encode_rna/ENCFF492KPL.bigWig	768	0.3	sum_sqrt	RNA:SK-MEL-5
+611	ENCFF190ZWO	data/encode_rna/ENCFF190ZWO.bigWig	768	0.3	sum_sqrt	RNA:H1
+612	ENCFF784RHW	data/encode_rna/ENCFF784RHW.bigWig	768	0.3	sum_sqrt	RNA:body of pancreas tissue female adult (51 years)
+613	ENCFF402SEK	data/encode_rna/ENCFF402SEK.bigWig	768	0.3	sum_sqrt	RNA:subcutaneous adipose tissue tissue male adult (54 years)
+614	ENCFF851BGA	data/encode_rna/ENCFF851BGA.bigWig	768	0.3	sum_sqrt	RNA:foreskin keratinocyte male newborn
+615	ENCFF940DUI	data/encode_rna/ENCFF940DUI.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Chaetocin for 12 hours
+616	ENCFF325GTZ	data/encode_rna/ENCFF325GTZ.bigWig	768	0.3	sum_sqrt	RNA:immature natural killer cell
+617	ENCFF248FOA	data/encode_rna/ENCFF248FOA.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD4-positive, alpha-beta memory T cell
+618	ENCFF118IXU	data/encode_rna/ENCFF118IXU.bigWig	768	0.3	sum_sqrt	RNA:WTC11
+619	ENCFF985BPB	data/encode_rna/ENCFF985BPB.bigWig	768	0.3	sum_sqrt	RNA:mucosa of descending colon tissue male adult (40 years)
+620	ENCFF643ZAD	data/encode_rna/ENCFF643ZAD.bigWig	768	0.3	sum_sqrt	RNA:right cardiac atrium tissue male adult (34 years)
+621	ENCFF565FOF	data/encode_rna/ENCFF565FOF.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue embryo (101 days)
+622	ENCFF532MCC	data/encode_rna/ENCFF532MCC.bigWig	768	0.3	sum_sqrt	RNA:IgD-negative memory B cell
+623	ENCFF340TAG	data/encode_rna/ENCFF340TAG.bigWig	768	0.3	sum_sqrt	RNA:gastrocnemius medialis tissue female adult (53 years)
+624	ENCFF064KKA	data/encode_rna/ENCFF064KKA.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue male adult (21 years)
+625	ENCFF544MJM	data/encode_rna/ENCFF544MJM.bigWig	768	0.3	sum_sqrt	RNA:hair follicular keratinocyte male adult (55 years)
+626	ENCFF838WFU	data/encode_rna/ENCFF838WFU.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of skin of abdomen male embryo (97 days)
+627	ENCFF267DQT	data/encode_rna/ENCFF267DQT.bigWig	768	0.3	sum_sqrt	RNA:adipose tissue tissue female adult (30 years)
+628	ENCFF166WWA	data/encode_rna/ENCFF166WWA.bigWig	768	0.3	sum_sqrt	RNA:thyroid gland tissue female adult (51 years)
+629	ENCFF662LZH	data/encode_rna/ENCFF662LZH.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue male embryo (108 days)
+630	ENCFF082CYK	data/encode_rna/ENCFF082CYK.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 uM AR-42 for 24 hours
+631	ENCFF334KVA	data/encode_rna/ENCFF334KVA.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD8-positive, alpha-beta T cell male adult (30 years)
+632	ENCFF205MJV	data/encode_rna/ENCFF205MJV.bigWig	768	0.3	sum_sqrt	RNA:heart left ventricle tissue male child (3 years)
+633	ENCFF134ALH	data/encode_rna/ENCFF134ALH.bigWig	768	0.3	sum_sqrt	RNA:testis tissue male adult (44 years)
+634	ENCFF652PJM	data/encode_rna/ENCFF652PJM.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 100 nM GSK J4 for 24 hours
+635	ENCFF927ANS	data/encode_rna/ENCFF927ANS.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue female adult (86 years)
+636	ENCFF632MAZ	data/encode_rna/ENCFF632MAZ.bigWig	768	0.3	sum_sqrt	RNA:activated CD4-positive, alpha-beta memory T cell male adult (43 years)
+637	ENCFF940PJY	data/encode_rna/ENCFF940PJY.bigWig	768	0.3	sum_sqrt	RNA:M059J
+638	ENCFF221JZR	data/encode_rna/ENCFF221JZR.bigWig	768	0.3	sum_sqrt	RNA:K562 insoluble cytoplasmic fraction
+639	ENCFF730BTN	data/encode_rna/ENCFF730BTN.bigWig	768	0.3	sum_sqrt	RNA:foreskin melanocyte male newborn
+640	ENCFF087ORU	data/encode_rna/ENCFF087ORU.bigWig	768	0.3	sum_sqrt	RNA:HCT116
+641	ENCFF594TMO	data/encode_rna/ENCFF594TMO.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue female embryo (113 days)
+642	ENCFF101ASV	data/encode_rna/ENCFF101ASV.bigWig	768	0.3	sum_sqrt	RNA:mesendoderm originated from H1
+643	ENCFF610OAY	data/encode_rna/ENCFF610OAY.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue male embryo (120 days)
+644	ENCFF930CLZ	data/encode_rna/ENCFF930CLZ.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; immature natural killer cell
+645	ENCFF854EBH	data/encode_rna/ENCFF854EBH.bigWig	768	0.3	sum_sqrt	RNA:prostate gland tissue male adult (54 years)
+646	ENCFF633OPC	data/encode_rna/ENCFF633OPC.bigWig	768	0.3	sum_sqrt	RNA:trophoblast tissue embryo (22 weeks)
+647	ENCFF759QTQ	data/encode_rna/ENCFF759QTQ.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female embryo (107 days)
+648	ENCFF629GCT	data/encode_rna/ENCFF629GCT.bigWig	768	0.3	sum_sqrt	RNA:left kidney tissue male embryo (96 days)
+649	ENCFF777ZZR	data/encode_rna/ENCFF777ZZR.bigWig	768	0.3	sum_sqrt	RNA:placental basal plate tissue male embryo (16 weeks)
+650	ENCFF911IWQ	data/encode_rna/ENCFF911IWQ.bigWig	768	0.3	sum_sqrt	RNA:subcutaneous adipose tissue tissue male adult (37 years)
+651	ENCFF771JBV	data/encode_rna/ENCFF771JBV.bigWig	768	0.3	sum_sqrt	RNA:forelimb muscle tissue female embryo (108 days)
+652	ENCFF920HIF	data/encode_rna/ENCFF920HIF.bigWig	768	0.3	sum_sqrt	RNA:H9
+653	ENCFF811FXS	data/encode_rna/ENCFF811FXS.bigWig	768	0.3	sum_sqrt	RNA:H1
+654	ENCFF970CQA	data/encode_rna/ENCFF970CQA.bigWig	768	0.3	sum_sqrt	RNA:IgD-negative memory B cell
+655	ENCFF112IXW	data/encode_rna/ENCFF112IXW.bigWig	768	0.3	sum_sqrt	RNA:liver tissue male child (3 years)
+656	ENCFF155PWD	data/encode_rna/ENCFF155PWD.bigWig	768	0.3	sum_sqrt	RNA:mole tissue female
+657	ENCFF697OJB	data/encode_rna/ENCFF697OJB.bigWig	768	0.3	sum_sqrt	RNA:adipose tissue tissue male child (3 years)
+658	ENCFF350OVE	data/encode_rna/ENCFF350OVE.bigWig	768	0.3	sum_sqrt	RNA:lower lobe of left lung tissue female adult (59 years)
+659	ENCFF481AMD	data/encode_rna/ENCFF481AMD.bigWig	768	0.6390034863451481	sum_sqrt	RNA:small intestine tissue male adult (34 years)
+660	ENCFF597SVD	data/encode_rna/ENCFF597SVD.bigWig	768	0.3	sum_sqrt	RNA:ascending aorta tissue female adult (53 years)
+661	ENCFF504JQU	data/encode_rna/ENCFF504JQU.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue male adult (34 years)
+662	ENCFF751PQP	data/encode_rna/ENCFF751PQP.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (30 years)
+663	ENCFF753LZJ	data/encode_rna/ENCFF753LZJ.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female embryo
+664	ENCFF900XSJ	data/encode_rna/ENCFF900XSJ.bigWig	768	0.3	sum_sqrt	RNA:omental fat pad tissue male adult (37 years)
+665	ENCFF590WBY	data/encode_rna/ENCFF590WBY.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue male embryo (91 days)
+666	ENCFF225CYB	data/encode_rna/ENCFF225CYB.bigWig	768	0.3	sum_sqrt	RNA:progenitor cell of endocrine pancreas
+667	ENCFF457QEG	data/encode_rna/ENCFF457QEG.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue male embryo (91 days)
+668	ENCFF817LFV	data/encode_rna/ENCFF817LFV.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Panobinostat for 24 hours
+669	ENCFF381OAF	data/encode_rna/ENCFF381OAF.bigWig	768	0.3	sum_sqrt	RNA:HFFc6
+670	ENCFF629VCP	data/encode_rna/ENCFF629VCP.bigWig	768	0.3	sum_sqrt	RNA:HUES64
+671	ENCFF274KQB	data/encode_rna/ENCFF274KQB.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 uM Crizotinib for 12 hours
+672	ENCFF558ZAJ	data/encode_rna/ENCFF558ZAJ.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female embryo (108 days)
+673	ENCFF553LFH	data/encode_rna/ENCFF553LFH.bigWig	768	0.3	sum_sqrt	RNA:gastroesophageal sphincter tissue female adult (53 years)
+674	ENCFF056UVT	data/encode_rna/ENCFF056UVT.bigWig	768	0.3	sum_sqrt	RNA:chorion tissue male embryo (16 weeks)
+675	ENCFF206OGU	data/encode_rna/ENCFF206OGU.bigWig	768	0.3480142405063291	sum_sqrt	RNA:adipose tissue tissue male adult (34 years)
+676	ENCFF682NDW	data/encode_rna/ENCFF682NDW.bigWig	768	0.3	sum_sqrt	RNA:PC-9
+677	ENCFF689BPI	data/encode_rna/ENCFF689BPI.bigWig	768	0.3	sum_sqrt	RNA:GM23338 originated from GM23248
+678	ENCFF008POE	data/encode_rna/ENCFF008POE.bigWig	768	0.3	sum_sqrt	RNA:esophagus muscularis mucosa tissue male adult (54 years)
+679	ENCFF056FRZ	data/encode_rna/ENCFF056FRZ.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female adult (53 years)
+680	ENCFF349IKE	data/encode_rna/ENCFF349IKE.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female adult (53 years)
+681	ENCFF012MMA	data/encode_rna/ENCFF012MMA.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD4-positive, alpha-beta T cell
+682	ENCFF193HUI	data/encode_rna/ENCFF193HUI.bigWig	768	0.3	sum_sqrt	RNA:testis tissue male embryo
+683	ENCFF988LZV	data/encode_rna/ENCFF988LZV.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 50 uM C646 for 4 hours
+684	ENCFF541ZMB	data/encode_rna/ENCFF541ZMB.bigWig	768	0.3	sum_sqrt	RNA:left colon tissue female adult (59 years)
+685	ENCFF099RCL	data/encode_rna/ENCFF099RCL.bigWig	768	0.3	sum_sqrt	RNA:left renal cortex interstitium tissue male embryo (120 days)
+686	ENCFF024MEB	data/encode_rna/ENCFF024MEB.bigWig	768	0.3	sum_sqrt	RNA:neural crest cell
+687	ENCFF498CLL	data/encode_rna/ENCFF498CLL.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD4-positive, CD25-positive, alpha-beta regulatory T cell
+688	ENCFF382VRE	data/encode_rna/ENCFF382VRE.bigWig	768	0.3	sum_sqrt	RNA:trophoblast cell originated from H1
+689	ENCFF805SZS	data/encode_rna/ENCFF805SZS.bigWig	768	0.3	sum_sqrt	RNA:T-cell male adult (37 years)
+690	ENCFF386YGS	data/encode_rna/ENCFF386YGS.bigWig	768	0.4277421236872812	sum_sqrt	RNA:aorta tissue male adult (34 years)
+691	ENCFF133LYJ	data/encode_rna/ENCFF133LYJ.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female adult (41 years)
+692	ENCFF343JCX	data/encode_rna/ENCFF343JCX.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD8-positive, alpha-beta memory T cell
+693	ENCFF366WMR	data/encode_rna/ENCFF366WMR.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; immature natural killer cell
+694	ENCFF851XAJ	data/encode_rna/ENCFF851XAJ.bigWig	768	0.3	sum_sqrt	RNA:heart left ventricle tissue male adult (34 years)
+695	ENCFF270YAA	data/encode_rna/ENCFF270YAA.bigWig	768	0.3	sum_sqrt	RNA:left colon tissue female adult (46 years)
+696	ENCFF958WEW	data/encode_rna/ENCFF958WEW.bigWig	768	0.3	sum_sqrt	RNA:chondrocyte
+697	ENCFF295UWT	data/encode_rna/ENCFF295UWT.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue embryo (101 days)
+698	ENCFF502RUV	data/encode_rna/ENCFF502RUV.bigWig	768	0.3	sum_sqrt	RNA:thymus tissue male child (3 years)
+699	ENCFF259EZH	data/encode_rna/ENCFF259EZH.bigWig	768	0.3	sum_sqrt	RNA:large intestine tissue male embryo (91 days)
+700	ENCFF462CKY	data/encode_rna/ENCFF462CKY.bigWig	768	0.3	sum_sqrt	RNA:activated CD4-positive, alpha-beta memory T cell male adult (43 years)
+701	ENCFF813JFQ	data/encode_rna/ENCFF813JFQ.bigWig	768	0.3	sum_sqrt	RNA:trophoblast tissue male embryo (16 weeks)
+702	ENCFF333ENA	data/encode_rna/ENCFF333ENA.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female embryo (98 days)
+703	ENCFF924CJI	data/encode_rna/ENCFF924CJI.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive B cell
+704	ENCFF734UPN	data/encode_rna/ENCFF734UPN.bigWig	768	0.3	sum_sqrt	RNA:amnion tissue male embryo (16 weeks)
+705	ENCFF050ROK	data/encode_rna/ENCFF050ROK.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue female embryo (85 days)
+706	ENCFF312ZLI	data/encode_rna/ENCFF312ZLI.bigWig	768	0.3	sum_sqrt	RNA:K562
+707	ENCFF794ZUR	data/encode_rna/ENCFF794ZUR.bigWig	768	0.3	sum_sqrt	RNA:placental basal plate tissue male embryo (38 weeks)
+708	ENCFF145JTX	data/encode_rna/ENCFF145JTX.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (85 years)
+709	ENCFF532KPO	data/encode_rna/ENCFF532KPO.bigWig	768	0.3	sum_sqrt	RNA:tibial nerve tissue male adult (37 years)
+710	ENCFF321EHO	data/encode_rna/ENCFF321EHO.bigWig	768	0.3	sum_sqrt	RNA:GM23248
+711	ENCFF722TDX	data/encode_rna/ENCFF722TDX.bigWig	768	0.3	sum_sqrt	RNA:IMR-90
+712	ENCFF542OVF	data/encode_rna/ENCFF542OVF.bigWig	768	0.3	sum_sqrt	RNA:transverse colon tissue female adult (53 years)
+713	ENCFF718DUW	data/encode_rna/ENCFF718DUW.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue female adult (51 years)
+714	ENCFF980FZG	data/encode_rna/ENCFF980FZG.bigWig	768	0.3	sum_sqrt	RNA:Peyer's patch tissue male adult (37 years)
+715	ENCFF875RMF	data/encode_rna/ENCFF875RMF.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; naive B cell
+716	ENCFF483IQJ	data/encode_rna/ENCFF483IQJ.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue female embryo (98 days)
+717	ENCFF466NAU	data/encode_rna/ENCFF466NAU.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 100 nM GSK J4 for 12 hours
+718	ENCFF347OLB	data/encode_rna/ENCFF347OLB.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 5 uM JQ1 for 24 hours
+719	ENCFF372DGR	data/encode_rna/ENCFF372DGR.bigWig	768	0.3	sum_sqrt	RNA:sigmoid colon tissue male adult (54 years)
+720	ENCFF495AAX	data/encode_rna/ENCFF495AAX.bigWig	768	0.3	sum_sqrt	RNA:HepG2 insoluble cytoplasmic fraction
+721	ENCFF458ASG	data/encode_rna/ENCFF458ASG.bigWig	768	0.3	sum_sqrt	RNA:MCF 10A
+722	ENCFF818BRP	data/encode_rna/ENCFF818BRP.bigWig	768	0.3	sum_sqrt	RNA:mammary microvascular endothelial cell female adult (26 years)
+723	ENCFF573JBK	data/encode_rna/ENCFF573JBK.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue male adult (40 years)
+724	ENCFF740HBZ	data/encode_rna/ENCFF740HBZ.bigWig	768	0.3	sum_sqrt	RNA:upper lobe of right lung tissue male adult (60 years)
+725	ENCFF903PTH	data/encode_rna/ENCFF903PTH.bigWig	768	0.3	sum_sqrt	RNA:CD4-positive, CD25-positive, alpha-beta regulatory T cell
+726	ENCFF711RSC	data/encode_rna/ENCFF711RSC.bigWig	768	0.3	sum_sqrt	RNA:psoas muscle tissue male child (3 years)
+727	ENCFF840DDQ	data/encode_rna/ENCFF840DDQ.bigWig	768	0.3	sum_sqrt	RNA:activated CD8-positive, alpha-beta memory T cell male adult (30 years)
+728	ENCFF403PZE	data/encode_rna/ENCFF403PZE.bigWig	768	0.3	sum_sqrt	RNA:cardiac septum tissue female adult (41 years)
+729	ENCFF045JED	data/encode_rna/ENCFF045JED.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD8-positive, alpha-beta T cell male adult (30 years)
+730	ENCFF509KPQ	data/encode_rna/ENCFF509KPQ.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+731	ENCFF745TWT	data/encode_rna/ENCFF745TWT.bigWig	768	0.3	sum_sqrt	RNA:right renal cortex interstitium tissue male embryo (105 days)
+732	ENCFF595CZA	data/encode_rna/ENCFF595CZA.bigWig	768	0.3	sum_sqrt	RNA:airway epithelial cell
+733	ENCFF929RPC	data/encode_rna/ENCFF929RPC.bigWig	768	2.003142076502732	sum_sqrt	RNA:sigmoid colon tissue female adult (30 years)
+734	ENCFF577ZXA	data/encode_rna/ENCFF577ZXA.bigWig	768	0.3	sum_sqrt	RNA:lower lobe of right lung tissue male adult (60 years)
+735	ENCFF118XUB	data/encode_rna/ENCFF118XUB.bigWig	768	0.3	sum_sqrt	RNA:sigmoid colon tissue female adult (51 years)
+736	ENCFF589DYO	data/encode_rna/ENCFF589DYO.bigWig	768	0.3	sum_sqrt	RNA:myotube originated from skeletal muscle myoblast
+737	ENCFF333QAU	data/encode_rna/ENCFF333QAU.bigWig	768	0.3	sum_sqrt	RNA:common myeloid progenitor, CD34-positive female adult (33 years)
+738	ENCFF553FQR	data/encode_rna/ENCFF553FQR.bigWig	768	0.3	sum_sqrt	RNA:heart left ventricle tissue female adult (46 years)
+739	ENCFF512AIP	data/encode_rna/ENCFF512AIP.bigWig	768	0.3	sum_sqrt	RNA:thoracic aorta tissue male adult (54 years)
+740	ENCFF668DGV	data/encode_rna/ENCFF668DGV.bigWig	768	0.3	sum_sqrt	RNA:mesenteric fat pad tissue female adult (59 years)
+741	ENCFF237XXC	data/encode_rna/ENCFF237XXC.bigWig	768	0.3	sum_sqrt	RNA:upper lobe of left lung tissue male adult (54 years)
+742	ENCFF368TTD	data/encode_rna/ENCFF368TTD.bigWig	768	0.3	sum_sqrt	RNA:ovary tissue female adult (53 years)
+743	ENCFF863HRX	data/encode_rna/ENCFF863HRX.bigWig	768	0.3	sum_sqrt	RNA:HFFc6
+744	ENCFF999ARF	data/encode_rna/ENCFF999ARF.bigWig	768	0.3	sum_sqrt	RNA:psoas muscle tissue male adult (34 years)
+745	ENCFF463TDW	data/encode_rna/ENCFF463TDW.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+746	ENCFF685VLN	data/encode_rna/ENCFF685VLN.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Vorinostat for 24 hours
+747	ENCFF203UBD	data/encode_rna/ENCFF203UBD.bigWig	768	0.3	sum_sqrt	RNA:activated T-cell male adult (38 years) treated with 50 U/mL Interleukin-2 for 4 hours, anti-CD3 and anti-CD28 coated beads for 4 hours
+748	ENCFF918AOG	data/encode_rna/ENCFF918AOG.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD8-positive, alpha-beta memory T cell
+749	ENCFF255CRM	data/encode_rna/ENCFF255CRM.bigWig	768	0.3	sum_sqrt	RNA:ectodermal cell originated from HUES64
+750	ENCFF734OLC	data/encode_rna/ENCFF734OLC.bigWig	768	0.3	sum_sqrt	RNA:foreskin fibroblast male newborn
+751	ENCFF563AJC	data/encode_rna/ENCFF563AJC.bigWig	768	0.3	sum_sqrt	RNA:gastrocnemius medialis tissue male adult (37 years)
+752	ENCFF756IDW	data/encode_rna/ENCFF756IDW.bigWig	768	0.3	sum_sqrt	RNA:right cardiac atrium tissue male adult (60 years)
+753	ENCFF818TKM	data/encode_rna/ENCFF818TKM.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female adult (51 years)
+754	ENCFF918QTH	data/encode_rna/ENCFF918QTH.bigWig	768	0.3	sum_sqrt	RNA:activated CD4-positive, alpha-beta memory T cell male adult (43 years)
+755	ENCFF444MUM	data/encode_rna/ENCFF444MUM.bigWig	768	0.3	sum_sqrt	RNA:large intestine tissue female embryo (98 days)
+756	ENCFF593EJA	data/encode_rna/ENCFF593EJA.bigWig	768	0.3	sum_sqrt	RNA:sigmoid colon tissue male adult (37 years)
+757	ENCFF108RDF	data/encode_rna/ENCFF108RDF.bigWig	768	0.3	sum_sqrt	RNA:tibial nerve tissue female adult (53 years)
+758	ENCFF238NVT	data/encode_rna/ENCFF238NVT.bigWig	768	0.3	sum_sqrt	RNA:hepatocyte originated from H9
+759	ENCFF946QQD	data/encode_rna/ENCFF946QQD.bigWig	768	0.3	sum_sqrt	RNA:large intestine tissue female embryo (85 days)
+760	ENCFF490SYS	data/encode_rna/ENCFF490SYS.bigWig	768	0.3	sum_sqrt	RNA:muscle of leg tissue male embryo (96 days)
+761	ENCFF837YDW	data/encode_rna/ENCFF837YDW.bigWig	768	0.3	sum_sqrt	RNA:K562 cytosolic fraction
+762	ENCFF300QBN	data/encode_rna/ENCFF300QBN.bigWig	768	0.3	sum_sqrt	RNA:mammary epithelial cell female adult (17 years)
+763	ENCFF104DTS	data/encode_rna/ENCFF104DTS.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta T cell male adult (37 years)
+764	ENCFF551UCO	data/encode_rna/ENCFF551UCO.bigWig	768	0.3	sum_sqrt	RNA:left lung tissue female embryo (108 days)
+765	ENCFF853VJV	data/encode_rna/ENCFF853VJV.bigWig	768	0.3	sum_sqrt	RNA:HepG2 cytosolic fraction
+766	ENCFF726WTR	data/encode_rna/ENCFF726WTR.bigWig	768	0.3	sum_sqrt	RNA:suprapubic skin tissue male adult (37 years)
+767	ENCFF458XQS	data/encode_rna/ENCFF458XQS.bigWig	768	0.3	sum_sqrt	RNA:heart tissue female embryo (91 days)
+768	ENCFF193HXZ	data/encode_rna/ENCFF193HXZ.bigWig	768	0.3	sum_sqrt	RNA:middle frontal area 46 tissue female adult (88 years)
+769	ENCFF289VET	data/encode_rna/ENCFF289VET.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Panobinostat for 4 hours
+770	ENCFF858QRQ	data/encode_rna/ENCFF858QRQ.bigWig	768	0.3	sum_sqrt	RNA:right cardiac atrium tissue male adult (40 years)
+771	ENCFF096CZT	data/encode_rna/ENCFF096CZT.bigWig	768	0.3	sum_sqrt	RNA:ectodermal cell originated from HUES64
+772	ENCFF701JUX	data/encode_rna/ENCFF701JUX.bigWig	768	0.3	sum_sqrt	RNA:with Alzheimer's disease; middle frontal area 46 tissue male adult (90 or above years)
+773	ENCFF571AFR	data/encode_rna/ENCFF571AFR.bigWig	768	0.3	sum_sqrt	RNA:left ventricle myocardium superior tissue male adult (60 years)
+774	ENCFF163AGZ	data/encode_rna/ENCFF163AGZ.bigWig	768	0.3	sum_sqrt	RNA:excitatory neuron
+775	ENCFF863JIL	data/encode_rna/ENCFF863JIL.bigWig	768	0.3	sum_sqrt	RNA:glomerular endothelial cell female embryo (22 weeks) and male embryo (22 weeks)
+776	ENCFF318MTJ	data/encode_rna/ENCFF318MTJ.bigWig	768	0.3	sum_sqrt	RNA:SJSA1
+777	ENCFF107LVE	data/encode_rna/ENCFF107LVE.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue female embryo (113 days)
+778	ENCFF432UNL	data/encode_rna/ENCFF432UNL.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 50 uM C646 for 24 hours
+779	ENCFF717QBH	data/encode_rna/ENCFF717QBH.bigWig	768	0.3	sum_sqrt	RNA:right renal cortex interstitium tissue male embryo (120 days)
+780	ENCFF278EZT	data/encode_rna/ENCFF278EZT.bigWig	768	0.3	sum_sqrt	RNA:K562
+781	ENCFF990JTR	data/encode_rna/ENCFF990JTR.bigWig	768	0.3	sum_sqrt	RNA:HepG2 membrane fraction
+782	ENCFF279MVV	data/encode_rna/ENCFF279MVV.bigWig	768	0.3	sum_sqrt	RNA:GM12878
+783	ENCFF343WYY	data/encode_rna/ENCFF343WYY.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue male embryo (127 days)
+784	ENCFF649RYB	data/encode_rna/ENCFF649RYB.bigWig	768	0.3	sum_sqrt	RNA:kidney tissue female adult (47 years)
+785	ENCFF982WYX	data/encode_rna/ENCFF982WYX.bigWig	768	0.3	sum_sqrt	RNA:myocyte originated from LHCN-M2
+786	ENCFF031QGE	data/encode_rna/ENCFF031QGE.bigWig	768	0.3	sum_sqrt	RNA:H1
+787	ENCFF168RPD	data/encode_rna/ENCFF168RPD.bigWig	768	0.3	sum_sqrt	RNA:kidney tissue female embryo (85 days)
+788	ENCFF873UUS	data/encode_rna/ENCFF873UUS.bigWig	768	0.3	sum_sqrt	RNA:Calu3
+789	ENCFF734VZN	data/encode_rna/ENCFF734VZN.bigWig	768	0.3	sum_sqrt	RNA:epithelial cell of alveolus of lung NONE and female embryo (21 weeks)
+790	ENCFF801IUE	data/encode_rna/ENCFF801IUE.bigWig	768	0.3	sum_sqrt	RNA:stimulated activated CD4-positive, alpha-beta T cell male adult (20 years) treated with 10 ng/mL Interleukin-2, anti-CD3 and anti-CD28 coated beads
+791	ENCFF473FLK	data/encode_rna/ENCFF473FLK.bigWig	768	0.3	sum_sqrt	RNA:spinal cord tissue male embryo (96 days)
+792	ENCFF297UUV	data/encode_rna/ENCFF297UUV.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue female embryo
+793	ENCFF860TYK	data/encode_rna/ENCFF860TYK.bigWig	768	0.3	sum_sqrt	RNA:renal cortex interstitium tissue female embryo (120 days)
+794	ENCFF544TFG	data/encode_rna/ENCFF544TFG.bigWig	768	0.3	sum_sqrt	RNA:activated T-cell female adult (33 years) treated with 50 U/mL Interleukin-2 for 4 hours, anti-CD3 and anti-CD28 coated beads for 4 hours
+795	ENCFF353PFR	data/encode_rna/ENCFF353PFR.bigWig	768	0.3	sum_sqrt	RNA:heart left ventricle tissue female adult (59 years)
+796	ENCFF496TSR	data/encode_rna/ENCFF496TSR.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 10 nM Bortezomib for 24 hours
+797	ENCFF726SGF	data/encode_rna/ENCFF726SGF.bigWig	768	0.3	sum_sqrt	RNA:Purkinje cell male child (6 years)
+798	ENCFF359MDK	data/encode_rna/ENCFF359MDK.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue female adult (53 years)
+799	ENCFF430NYX	data/encode_rna/ENCFF430NYX.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue female embryo
+800	ENCFF926QTW	data/encode_rna/ENCFF926QTW.bigWig	768	0.3	sum_sqrt	RNA:CD14-positive monocyte male adult (37 years)
+801	ENCFF318UAJ	data/encode_rna/ENCFF318UAJ.bigWig	768	0.3	sum_sqrt	RNA:muscle of trunk tissue female embryo (113 days)
+802	ENCFF880GSS	data/encode_rna/ENCFF880GSS.bigWig	768	0.3	sum_sqrt	RNA:kidney tissue male embryo (87 days)
+803	ENCFF358IQV	data/encode_rna/ENCFF358IQV.bigWig	768	0.3	sum_sqrt	RNA:hepatocyte originated from H9
+804	ENCFF426XDX	data/encode_rna/ENCFF426XDX.bigWig	768	0.3	sum_sqrt	RNA:spleen tissue male adult (34 years)
+805	ENCFF107LSA	data/encode_rna/ENCFF107LSA.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD4-positive, alpha-beta T cell male adult (43 years)
+806	ENCFF043VUO	data/encode_rna/ENCFF043VUO.bigWig	768	0.3	sum_sqrt	RNA:heart right ventricle tissue male adult (40 years)
+807	ENCFF124RPC	data/encode_rna/ENCFF124RPC.bigWig	768	0.3	sum_sqrt	RNA:lung tissue female adult (30 years)
+808	ENCFF403HKJ	data/encode_rna/ENCFF403HKJ.bigWig	768	0.3	sum_sqrt	RNA:endometrial microvascular endothelial cells female adult (34 years)
+809	ENCFF965MBA	data/encode_rna/ENCFF965MBA.bigWig	768	0.3	sum_sqrt	RNA:H4
+810	ENCFF891ALA	data/encode_rna/ENCFF891ALA.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue male child (3 years)
+811	ENCFF974VUT	data/encode_rna/ENCFF974VUT.bigWig	768	0.3	sum_sqrt	RNA:heart left ventricle tissue male adult (40 years)
+812	ENCFF150XAC	data/encode_rna/ENCFF150XAC.bigWig	768	0.3	sum_sqrt	RNA:activated CD4-positive, alpha-beta T cell male adult (20 years) treated with anti-CD3 and anti-CD28 coated beads
+813	ENCFF046NXJ	data/encode_rna/ENCFF046NXJ.bigWig	768	0.3	sum_sqrt	RNA:right renal pelvis tissue male embryo (105 days)
+814	ENCFF688MII	data/encode_rna/ENCFF688MII.bigWig	768	0.3	sum_sqrt	RNA:renal pelvis tissue male embryo (97 days)
+815	ENCFF604EYK	data/encode_rna/ENCFF604EYK.bigWig	768	0.3	sum_sqrt	RNA:large intestine tissue female embryo (120 days)
+816	ENCFF831HGM	data/encode_rna/ENCFF831HGM.bigWig	768	0.3	sum_sqrt	RNA:HepG2 cytosolic fraction
+817	ENCFF484JKA	data/encode_rna/ENCFF484JKA.bigWig	768	0.3	sum_sqrt	RNA:naive B cell
+818	ENCFF850SIL	data/encode_rna/ENCFF850SIL.bigWig	768	0.3	sum_sqrt	RNA:GM23338 originated from GM23248
+819	ENCFF956EIE	data/encode_rna/ENCFF956EIE.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD4-positive, CD25-positive, alpha-beta regulatory T cell
+820	ENCFF413WXI	data/encode_rna/ENCFF413WXI.bigWig	768	0.3	sum_sqrt	RNA:placenta tissue male embryo
+821	ENCFF315ODV	data/encode_rna/ENCFF315ODV.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta T cell male adult (21 years)
+822	ENCFF526ILL	data/encode_rna/ENCFF526ILL.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD4-positive, alpha-beta T cell male adult (43 years)
+823	ENCFF346AHI	data/encode_rna/ENCFF346AHI.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 25 uM Galeterone for 12 hours
+824	ENCFF568QQJ	data/encode_rna/ENCFF568QQJ.bigWig	768	0.3	sum_sqrt	RNA:with mild cognitive impairment; middle frontal area 46 tissue female adult (83 years)
+825	ENCFF333PSK	data/encode_rna/ENCFF333PSK.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Vorinostat for 48 hours
+826	ENCFF480XQC	data/encode_rna/ENCFF480XQC.bigWig	768	0.3	sum_sqrt	RNA:stomach tissue female embryo (105 days)
+827	ENCFF496YJK	data/encode_rna/ENCFF496YJK.bigWig	768	0.3	sum_sqrt	RNA:adrenal gland tissue male adult (54 years)
+828	ENCFF095UOA	data/encode_rna/ENCFF095UOA.bigWig	768	0.3	sum_sqrt	RNA:naive thymus-derived CD4-positive, alpha-beta T cell male adult (43 years)
+829	ENCFF366NWQ	data/encode_rna/ENCFF366NWQ.bigWig	768	0.3	sum_sqrt	RNA:K562 treated with 7.5 nM Panobinostat for 12 hours
+830	ENCFF995SOX	data/encode_rna/ENCFF995SOX.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD8-positive, alpha-beta T cell male adult (30 years)
+831	ENCFF238RLU	data/encode_rna/ENCFF238RLU.bigWig	768	0.3	sum_sqrt	RNA:H1
+832	ENCFF882KEH	data/encode_rna/ENCFF882KEH.bigWig	768	0.3	sum_sqrt	RNA:immature natural killer cell
+833	ENCFF314QAJ	data/encode_rna/ENCFF314QAJ.bigWig	768	0.3	sum_sqrt	RNA:chorionic villus tissue embryo (16 weeks)
+834	ENCFF497QCQ	data/encode_rna/ENCFF497QCQ.bigWig	768	0.3	sum_sqrt	RNA:gastrocnemius medialis tissue male adult (54 years)
+835	ENCFF623LHV	data/encode_rna/ENCFF623LHV.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD14-positive monocyte
+836	ENCFF825QDH	data/encode_rna/ENCFF825QDH.bigWig	768	0.3	sum_sqrt	RNA:bipolar neuron originated from GM23338 treated with 0.5 ug/mL doxycycline hyclate for 4 days
+837	ENCFF874FQG	data/encode_rna/ENCFF874FQG.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; CD4-positive, alpha-beta memory T cell
+838	ENCFF045DIU	data/encode_rna/ENCFF045DIU.bigWig	768	0.3	sum_sqrt	RNA:HT-29
+839	ENCFF974CXF	data/encode_rna/ENCFF974CXF.bigWig	768	0.3	sum_sqrt	RNA:MG63
+840	ENCFF937GHU	data/encode_rna/ENCFF937GHU.bigWig	768	0.3	sum_sqrt	RNA:immature natural killer cell
+841	ENCFF050OBT	data/encode_rna/ENCFF050OBT.bigWig	768	0.3	sum_sqrt	RNA:with multiple sclerosis; IgD-negative memory B cell
+842	ENCFF373WQE	data/encode_rna/ENCFF373WQE.bigWig	768	0.3	sum_sqrt	RNA:mesendoderm originated from H1
+843	ENCFF599BTC	data/encode_rna/ENCFF599BTC.bigWig	768	0.3	sum_sqrt	RNA:neuronal stem cell originated from H1
+844	ENCFF279XJK	data/encode_rna/ENCFF279XJK.bigWig	768	0.5493131868131869	sum_sqrt	RNA:stomach tissue female adult (30 years)
+845	ENCFF301WLH	data/encode_rna/ENCFF301WLH.bigWig	768	0.3	sum_sqrt	RNA:fibroblast of skin of scalp male embryo (97 days)
+846	ENCFF696GRP	data/encode_rna/ENCFF696GRP.bigWig	768	0.3	sum_sqrt	RNA:HepG2
+847	ENCFF684CHN	data/encode_rna/ENCFF684CHN.bigWig	768	0.3	sum_sqrt	RNA:CD8-positive, alpha-beta memory T cell male adult (30 years)
+848	ENCFF304RDA	data/encode_rna/ENCFF304RDA.bigWig	768	0.3	sum_sqrt	RNA:muscle of arm tissue male embryo (96 days)
+849	ENCFF057TXE	data/encode_rna/ENCFF057TXE.bigWig	768	0.3	sum_sqrt	RNA:lower leg skin tissue female adult (53 years)
+850	ENCFF004DOF	data/encode_rna/ENCFF004DOF.bigWig	768	0.3	sum_sqrt	RNA:CD14-positive monocyte
+851	ENCFF573WTP	data/encode_rna/ENCFF573WTP.bigWig	768	0.3	sum_sqrt	RNA:left cardiac atrium tissue male adult (60 years)
+852	ENCFF118SVL	data/encode_rna/ENCFF118SVL.bigWig	768	0.3	sum_sqrt	RNA:endothelial cell of umbilical vein newborn
+853	ENCFF915WBG	data/encode_rna/ENCFF915WBG.bigWig	768	0.3	sum_sqrt	RNA:esophagus tissue female adult (30 years)
+854	ENCFF137BCU	data/encode_rna/ENCFF137BCU.bigWig	768	0.3	sum_sqrt	RNA:aorta tissue female adult (30 years)
+855	ENCFF630CTN	data/encode_rna/ENCFF630CTN.bigWig	768	0.3	sum_sqrt	RNA:muscle of back tissue female embryo (105 days)
+856	ENCFF098OUC	data/encode_rna/ENCFF098OUC.bigWig	768	0.3	sum_sqrt	RNA:activated naive CD4-positive, alpha-beta T cell male adult (43 years)
+857	ENCFF895JFS	data/encode_rna/ENCFF895JFS.bigWig	768	0.3	sum_sqrt	RNA:heart right ventricle tissue female adult (59 years)
+858	ENCFF487HBP	data/encode_rna/ENCFF487HBP.bigWig	768	0.3	sum_sqrt	RNA:placental basal plate tissue female embryo (40 weeks)
+859	ENCFF304GQR	data/encode_rna/ENCFF304GQR.bigWig	768	0.7307142857142858	sum_sqrt	RNA:sigmoid colon tissue male adult (34 years)

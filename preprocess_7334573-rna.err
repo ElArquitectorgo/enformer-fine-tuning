@@ -1,0 +1,1026 @@
+13:4: not a valid test operator: (
+13:4: not a valid test operator: 470.141.03
+Skipping existing data/human/seqs_cov/0.h5
+Skipping existing data/human/seqs_cov/1.h5
+Skipping existing data/human/seqs_cov/2.h5
+Skipping existing data/human/seqs_cov/3.h5
+Skipping existing data/human/seqs_cov/4.h5
+Skipping existing data/human/seqs_cov/5.h5
+Skipping existing data/human/seqs_cov/6.h5
+Skipping existing data/human/seqs_cov/7.h5
+Skipping existing data/human/seqs_cov/8.h5
+Skipping existing data/human/seqs_cov/9.h5
+Skipping existing data/human/seqs_cov/10.h5
+Skipping existing data/human/seqs_cov/11.h5
+Skipping existing data/human/seqs_cov/12.h5
+Skipping existing data/human/seqs_cov/13.h5
+Skipping existing data/human/seqs_cov/14.h5
+Skipping existing data/human/seqs_cov/15.h5
+Skipping existing data/human/seqs_cov/16.h5
+Skipping existing data/human/seqs_cov/17.h5
+Skipping existing data/human/seqs_cov/18.h5
+Skipping existing data/human/seqs_cov/19.h5
+Skipping existing data/human/seqs_cov/20.h5
+Skipping existing data/human/seqs_cov/21.h5
+Skipping existing data/human/seqs_cov/22.h5
+Skipping existing data/human/seqs_cov/23.h5
+Skipping existing data/human/seqs_cov/24.h5
+Skipping existing data/human/seqs_cov/25.h5
+Skipping existing data/human/seqs_cov/26.h5
+Skipping existing data/human/seqs_cov/27.h5
+Skipping existing data/human/seqs_cov/28.h5
+Skipping existing data/human/seqs_cov/29.h5
+Skipping existing data/human/seqs_cov/30.h5
+Skipping existing data/human/seqs_cov/31.h5
+Skipping existing data/human/seqs_cov/32.h5
+Skipping existing data/human/seqs_cov/33.h5
+Skipping existing data/human/seqs_cov/34.h5
+Skipping existing data/human/seqs_cov/35.h5
+Skipping existing data/human/seqs_cov/36.h5
+Skipping existing data/human/seqs_cov/37.h5
+Skipping existing data/human/seqs_cov/38.h5
+Skipping existing data/human/seqs_cov/39.h5
+Skipping existing data/human/seqs_cov/40.h5
+Skipping existing data/human/seqs_cov/41.h5
+Skipping existing data/human/seqs_cov/42.h5
+Skipping existing data/human/seqs_cov/43.h5
+Skipping existing data/human/seqs_cov/44.h5
+Skipping existing data/human/seqs_cov/45.h5
+Skipping existing data/human/seqs_cov/46.h5
+Skipping existing data/human/seqs_cov/47.h5
+Skipping existing data/human/seqs_cov/48.h5
+Skipping existing data/human/seqs_cov/49.h5
+Skipping existing data/human/seqs_cov/50.h5
+Skipping existing data/human/seqs_cov/51.h5
+Skipping existing data/human/seqs_cov/52.h5
+Skipping existing data/human/seqs_cov/53.h5
+Skipping existing data/human/seqs_cov/54.h5
+Skipping existing data/human/seqs_cov/55.h5
+Skipping existing data/human/seqs_cov/56.h5
+Skipping existing data/human/seqs_cov/57.h5
+Skipping existing data/human/seqs_cov/58.h5
+Skipping existing data/human/seqs_cov/59.h5
+Skipping existing data/human/seqs_cov/60.h5
+Skipping existing data/human/seqs_cov/61.h5
+Skipping existing data/human/seqs_cov/62.h5
+Skipping existing data/human/seqs_cov/63.h5
+Skipping existing data/human/seqs_cov/64.h5
+Skipping existing data/human/seqs_cov/65.h5
+Skipping existing data/human/seqs_cov/66.h5
+Skipping existing data/human/seqs_cov/67.h5
+Skipping existing data/human/seqs_cov/68.h5
+Skipping existing data/human/seqs_cov/69.h5
+Skipping existing data/human/seqs_cov/70.h5
+Skipping existing data/human/seqs_cov/71.h5
+Skipping existing data/human/seqs_cov/72.h5
+Skipping existing data/human/seqs_cov/73.h5
+Skipping existing data/human/seqs_cov/74.h5
+Skipping existing data/human/seqs_cov/75.h5
+Skipping existing data/human/seqs_cov/76.h5
+Skipping existing data/human/seqs_cov/77.h5
+Skipping existing data/human/seqs_cov/78.h5
+Skipping existing data/human/seqs_cov/79.h5
+Skipping existing data/human/seqs_cov/80.h5
+Skipping existing data/human/seqs_cov/81.h5
+Skipping existing data/human/seqs_cov/82.h5
+Skipping existing data/human/seqs_cov/83.h5
+Skipping existing data/human/seqs_cov/84.h5
+Skipping existing data/human/seqs_cov/85.h5
+Skipping existing data/human/seqs_cov/86.h5
+Skipping existing data/human/seqs_cov/87.h5
+Skipping existing data/human/seqs_cov/88.h5
+Skipping existing data/human/seqs_cov/89.h5
+Skipping existing data/human/seqs_cov/90.h5
+Skipping existing data/human/seqs_cov/91.h5
+Skipping existing data/human/seqs_cov/92.h5
+Skipping existing data/human/seqs_cov/93.h5
+Skipping existing data/human/seqs_cov/94.h5
+Skipping existing data/human/seqs_cov/95.h5
+Skipping existing data/human/seqs_cov/96.h5
+Skipping existing data/human/seqs_cov/97.h5
+Skipping existing data/human/seqs_cov/98.h5
+Skipping existing data/human/seqs_cov/99.h5
+Skipping existing data/human/seqs_cov/100.h5
+Skipping existing data/human/seqs_cov/101.h5
+Skipping existing data/human/seqs_cov/102.h5
+Skipping existing data/human/seqs_cov/103.h5
+Skipping existing data/human/seqs_cov/104.h5
+Skipping existing data/human/seqs_cov/105.h5
+Skipping existing data/human/seqs_cov/106.h5
+Skipping existing data/human/seqs_cov/107.h5
+Skipping existing data/human/seqs_cov/108.h5
+Skipping existing data/human/seqs_cov/109.h5
+Skipping existing data/human/seqs_cov/110.h5
+Skipping existing data/human/seqs_cov/111.h5
+Skipping existing data/human/seqs_cov/112.h5
+Skipping existing data/human/seqs_cov/113.h5
+Skipping existing data/human/seqs_cov/114.h5
+Skipping existing data/human/seqs_cov/115.h5
+Skipping existing data/human/seqs_cov/116.h5
+Skipping existing data/human/seqs_cov/117.h5
+Skipping existing data/human/seqs_cov/118.h5
+Skipping existing data/human/seqs_cov/119.h5
+Skipping existing data/human/seqs_cov/120.h5
+Skipping existing data/human/seqs_cov/121.h5
+Skipping existing data/human/seqs_cov/122.h5
+Skipping existing data/human/seqs_cov/123.h5
+Skipping existing data/human/seqs_cov/124.h5
+Skipping existing data/human/seqs_cov/125.h5
+Skipping existing data/human/seqs_cov/126.h5
+Skipping existing data/human/seqs_cov/127.h5
+Skipping existing data/human/seqs_cov/128.h5
+Skipping existing data/human/seqs_cov/129.h5
+Skipping existing data/human/seqs_cov/130.h5
+Skipping existing data/human/seqs_cov/131.h5
+Skipping existing data/human/seqs_cov/132.h5
+Skipping existing data/human/seqs_cov/133.h5
+Skipping existing data/human/seqs_cov/134.h5
+Skipping existing data/human/seqs_cov/135.h5
+Skipping existing data/human/seqs_cov/136.h5
+Skipping existing data/human/seqs_cov/137.h5
+Skipping existing data/human/seqs_cov/138.h5
+Skipping existing data/human/seqs_cov/139.h5
+Skipping existing data/human/seqs_cov/140.h5
+Skipping existing data/human/seqs_cov/141.h5
+Skipping existing data/human/seqs_cov/142.h5
+Skipping existing data/human/seqs_cov/143.h5
+Skipping existing data/human/seqs_cov/144.h5
+Skipping existing data/human/seqs_cov/145.h5
+Skipping existing data/human/seqs_cov/146.h5
+Skipping existing data/human/seqs_cov/147.h5
+Skipping existing data/human/seqs_cov/148.h5
+Skipping existing data/human/seqs_cov/149.h5
+Skipping existing data/human/seqs_cov/150.h5
+Skipping existing data/human/seqs_cov/151.h5
+Skipping existing data/human/seqs_cov/152.h5
+Skipping existing data/human/seqs_cov/153.h5
+Skipping existing data/human/seqs_cov/154.h5
+Skipping existing data/human/seqs_cov/155.h5
+Skipping existing data/human/seqs_cov/156.h5
+Skipping existing data/human/seqs_cov/157.h5
+Skipping existing data/human/seqs_cov/158.h5
+Skipping existing data/human/seqs_cov/159.h5
+Skipping existing data/human/seqs_cov/160.h5
+Skipping existing data/human/seqs_cov/161.h5
+Skipping existing data/human/seqs_cov/162.h5
+Skipping existing data/human/seqs_cov/163.h5
+Skipping existing data/human/seqs_cov/164.h5
+Skipping existing data/human/seqs_cov/165.h5
+Skipping existing data/human/seqs_cov/166.h5
+Skipping existing data/human/seqs_cov/167.h5
+Skipping existing data/human/seqs_cov/168.h5
+Skipping existing data/human/seqs_cov/169.h5
+Skipping existing data/human/seqs_cov/170.h5
+Skipping existing data/human/seqs_cov/171.h5
+Skipping existing data/human/seqs_cov/172.h5
+Skipping existing data/human/seqs_cov/173.h5
+Skipping existing data/human/seqs_cov/174.h5
+Skipping existing data/human/seqs_cov/175.h5
+Skipping existing data/human/seqs_cov/176.h5
+Skipping existing data/human/seqs_cov/177.h5
+Skipping existing data/human/seqs_cov/178.h5
+Skipping existing data/human/seqs_cov/179.h5
+Skipping existing data/human/seqs_cov/180.h5
+Skipping existing data/human/seqs_cov/181.h5
+Skipping existing data/human/seqs_cov/182.h5
+Skipping existing data/human/seqs_cov/183.h5
+Skipping existing data/human/seqs_cov/184.h5
+Skipping existing data/human/seqs_cov/185.h5
+Skipping existing data/human/seqs_cov/186.h5
+Skipping existing data/human/seqs_cov/187.h5
+Skipping existing data/human/seqs_cov/188.h5
+Skipping existing data/human/seqs_cov/189.h5
+Skipping existing data/human/seqs_cov/190.h5
+Skipping existing data/human/seqs_cov/191.h5
+Skipping existing data/human/seqs_cov/192.h5
+Skipping existing data/human/seqs_cov/193.h5
+Skipping existing data/human/seqs_cov/194.h5
+Skipping existing data/human/seqs_cov/195.h5
+Skipping existing data/human/seqs_cov/196.h5
+Skipping existing data/human/seqs_cov/197.h5
+Skipping existing data/human/seqs_cov/198.h5
+Skipping existing data/human/seqs_cov/199.h5
+Skipping existing data/human/seqs_cov/200.h5
+Skipping existing data/human/seqs_cov/201.h5
+Skipping existing data/human/seqs_cov/202.h5
+Skipping existing data/human/seqs_cov/203.h5
+Skipping existing data/human/seqs_cov/204.h5
+Skipping existing data/human/seqs_cov/205.h5
+Skipping existing data/human/seqs_cov/206.h5
+Skipping existing data/human/seqs_cov/207.h5
+Skipping existing data/human/seqs_cov/208.h5
+Skipping existing data/human/seqs_cov/209.h5
+Skipping existing data/human/seqs_cov/210.h5
+Skipping existing data/human/seqs_cov/211.h5
+Skipping existing data/human/seqs_cov/212.h5
+Skipping existing data/human/seqs_cov/213.h5
+Skipping existing data/human/seqs_cov/214.h5
+Skipping existing data/human/seqs_cov/215.h5
+Skipping existing data/human/seqs_cov/216.h5
+Skipping existing data/human/seqs_cov/217.h5
+Skipping existing data/human/seqs_cov/218.h5
+Skipping existing data/human/seqs_cov/219.h5
+Skipping existing data/human/seqs_cov/220.h5
+Skipping existing data/human/seqs_cov/221.h5
+Skipping existing data/human/seqs_cov/222.h5
+Skipping existing data/human/seqs_cov/223.h5
+Skipping existing data/human/seqs_cov/224.h5
+Skipping existing data/human/seqs_cov/225.h5
+Skipping existing data/human/seqs_cov/226.h5
+Skipping existing data/human/seqs_cov/227.h5
+Skipping existing data/human/seqs_cov/228.h5
+Skipping existing data/human/seqs_cov/229.h5
+Skipping existing data/human/seqs_cov/230.h5
+Skipping existing data/human/seqs_cov/231.h5
+Skipping existing data/human/seqs_cov/232.h5
+Skipping existing data/human/seqs_cov/233.h5
+Skipping existing data/human/seqs_cov/234.h5
+Skipping existing data/human/seqs_cov/235.h5
+Skipping existing data/human/seqs_cov/236.h5
+Skipping existing data/human/seqs_cov/237.h5
+Skipping existing data/human/seqs_cov/238.h5
+Skipping existing data/human/seqs_cov/239.h5
+Skipping existing data/human/seqs_cov/240.h5
+Skipping existing data/human/seqs_cov/241.h5
+Skipping existing data/human/seqs_cov/242.h5
+Skipping existing data/human/seqs_cov/243.h5
+Skipping existing data/human/seqs_cov/244.h5
+Skipping existing data/human/seqs_cov/245.h5
+Skipping existing data/human/seqs_cov/246.h5
+Skipping existing data/human/seqs_cov/247.h5
+Skipping existing data/human/seqs_cov/248.h5
+Skipping existing data/human/seqs_cov/249.h5
+Skipping existing data/human/seqs_cov/250.h5
+Skipping existing data/human/seqs_cov/251.h5
+Skipping existing data/human/seqs_cov/252.h5
+Skipping existing data/human/seqs_cov/253.h5
+Skipping existing data/human/seqs_cov/254.h5
+Skipping existing data/human/seqs_cov/255.h5
+Skipping existing data/human/seqs_cov/256.h5
+Skipping existing data/human/seqs_cov/257.h5
+Skipping existing data/human/seqs_cov/258.h5
+Skipping existing data/human/seqs_cov/259.h5
+Skipping existing data/human/seqs_cov/260.h5
+Skipping existing data/human/seqs_cov/261.h5
+Skipping existing data/human/seqs_cov/262.h5
+Skipping existing data/human/seqs_cov/263.h5
+Skipping existing data/human/seqs_cov/264.h5
+Skipping existing data/human/seqs_cov/265.h5
+Skipping existing data/human/seqs_cov/266.h5
+Skipping existing data/human/seqs_cov/267.h5
+Skipping existing data/human/seqs_cov/268.h5
+Skipping existing data/human/seqs_cov/269.h5
+Skipping existing data/human/seqs_cov/270.h5
+Skipping existing data/human/seqs_cov/271.h5
+Skipping existing data/human/seqs_cov/272.h5
+Skipping existing data/human/seqs_cov/273.h5
+Skipping existing data/human/seqs_cov/274.h5
+Skipping existing data/human/seqs_cov/275.h5
+Skipping existing data/human/seqs_cov/276.h5
+Skipping existing data/human/seqs_cov/277.h5
+Skipping existing data/human/seqs_cov/278.h5
+Skipping existing data/human/seqs_cov/279.h5
+Skipping existing data/human/seqs_cov/280.h5
+Skipping existing data/human/seqs_cov/281.h5
+Skipping existing data/human/seqs_cov/282.h5
+Skipping existing data/human/seqs_cov/283.h5
+Skipping existing data/human/seqs_cov/284.h5
+Skipping existing data/human/seqs_cov/285.h5
+Skipping existing data/human/seqs_cov/286.h5
+Skipping existing data/human/seqs_cov/287.h5
+Skipping existing data/human/seqs_cov/288.h5
+Skipping existing data/human/seqs_cov/289.h5
+Skipping existing data/human/seqs_cov/290.h5
+Skipping existing data/human/seqs_cov/291.h5
+Skipping existing data/human/seqs_cov/292.h5
+Skipping existing data/human/seqs_cov/293.h5
+Skipping existing data/human/seqs_cov/294.h5
+Skipping existing data/human/seqs_cov/295.h5
+Skipping existing data/human/seqs_cov/296.h5
+Skipping existing data/human/seqs_cov/297.h5
+Skipping existing data/human/seqs_cov/298.h5
+Skipping existing data/human/seqs_cov/299.h5
+Skipping existing data/human/seqs_cov/300.h5
+Skipping existing data/human/seqs_cov/301.h5
+Skipping existing data/human/seqs_cov/302.h5
+Skipping existing data/human/seqs_cov/303.h5
+Skipping existing data/human/seqs_cov/304.h5
+Skipping existing data/human/seqs_cov/305.h5
+Skipping existing data/human/seqs_cov/306.h5
+Skipping existing data/human/seqs_cov/307.h5
+Skipping existing data/human/seqs_cov/308.h5
+Skipping existing data/human/seqs_cov/309.h5
+Skipping existing data/human/seqs_cov/310.h5
+Skipping existing data/human/seqs_cov/311.h5
+Skipping existing data/human/seqs_cov/312.h5
+Skipping existing data/human/seqs_cov/313.h5
+Skipping existing data/human/seqs_cov/314.h5
+Skipping existing data/human/seqs_cov/315.h5
+Skipping existing data/human/seqs_cov/316.h5
+Skipping existing data/human/seqs_cov/317.h5
+Skipping existing data/human/seqs_cov/318.h5
+Skipping existing data/human/seqs_cov/319.h5
+Skipping existing data/human/seqs_cov/320.h5
+Skipping existing data/human/seqs_cov/321.h5
+Skipping existing data/human/seqs_cov/322.h5
+Skipping existing data/human/seqs_cov/323.h5
+Skipping existing data/human/seqs_cov/324.h5
+Skipping existing data/human/seqs_cov/325.h5
+Skipping existing data/human/seqs_cov/326.h5
+Skipping existing data/human/seqs_cov/327.h5
+Skipping existing data/human/seqs_cov/328.h5
+Skipping existing data/human/seqs_cov/329.h5
+Skipping existing data/human/seqs_cov/330.h5
+Skipping existing data/human/seqs_cov/331.h5
+Skipping existing data/human/seqs_cov/332.h5
+Skipping existing data/human/seqs_cov/333.h5
+Skipping existing data/human/seqs_cov/334.h5
+Skipping existing data/human/seqs_cov/335.h5
+Skipping existing data/human/seqs_cov/336.h5
+Skipping existing data/human/seqs_cov/337.h5
+Skipping existing data/human/seqs_cov/338.h5
+Skipping existing data/human/seqs_cov/339.h5
+Skipping existing data/human/seqs_cov/340.h5
+Skipping existing data/human/seqs_cov/341.h5
+Skipping existing data/human/seqs_cov/342.h5
+Skipping existing data/human/seqs_cov/343.h5
+Skipping existing data/human/seqs_cov/344.h5
+Skipping existing data/human/seqs_cov/345.h5
+Skipping existing data/human/seqs_cov/346.h5
+Skipping existing data/human/seqs_cov/347.h5
+Skipping existing data/human/seqs_cov/348.h5
+Skipping existing data/human/seqs_cov/349.h5
+Skipping existing data/human/seqs_cov/350.h5
+Skipping existing data/human/seqs_cov/351.h5
+Skipping existing data/human/seqs_cov/352.h5
+Skipping existing data/human/seqs_cov/353.h5
+Skipping existing data/human/seqs_cov/354.h5
+Skipping existing data/human/seqs_cov/355.h5
+Skipping existing data/human/seqs_cov/356.h5
+Skipping existing data/human/seqs_cov/357.h5
+Skipping existing data/human/seqs_cov/358.h5
+Skipping existing data/human/seqs_cov/359.h5
+Skipping existing data/human/seqs_cov/360.h5
+Skipping existing data/human/seqs_cov/361.h5
+Skipping existing data/human/seqs_cov/362.h5
+Skipping existing data/human/seqs_cov/363.h5
+Skipping existing data/human/seqs_cov/364.h5
+Skipping existing data/human/seqs_cov/365.h5
+Skipping existing data/human/seqs_cov/366.h5
+Skipping existing data/human/seqs_cov/367.h5
+Skipping existing data/human/seqs_cov/368.h5
+Skipping existing data/human/seqs_cov/369.h5
+Skipping existing data/human/seqs_cov/370.h5
+Skipping existing data/human/seqs_cov/371.h5
+Skipping existing data/human/seqs_cov/372.h5
+Skipping existing data/human/seqs_cov/373.h5
+Skipping existing data/human/seqs_cov/374.h5
+Skipping existing data/human/seqs_cov/375.h5
+Skipping existing data/human/seqs_cov/376.h5
+Skipping existing data/human/seqs_cov/377.h5
+Skipping existing data/human/seqs_cov/378.h5
+Skipping existing data/human/seqs_cov/379.h5
+Skipping existing data/human/seqs_cov/380.h5
+Skipping existing data/human/seqs_cov/381.h5
+Skipping existing data/human/seqs_cov/382.h5
+Skipping existing data/human/seqs_cov/383.h5
+Skipping existing data/human/seqs_cov/384.h5
+Skipping existing data/human/seqs_cov/385.h5
+Skipping existing data/human/seqs_cov/386.h5
+Skipping existing data/human/seqs_cov/387.h5
+Skipping existing data/human/seqs_cov/388.h5
+Skipping existing data/human/seqs_cov/389.h5
+Skipping existing data/human/seqs_cov/390.h5
+Skipping existing data/human/seqs_cov/391.h5
+Skipping existing data/human/seqs_cov/392.h5
+Skipping existing data/human/seqs_cov/393.h5
+Skipping existing data/human/seqs_cov/394.h5
+Skipping existing data/human/seqs_cov/395.h5
+Skipping existing data/human/seqs_cov/396.h5
+Skipping existing data/human/seqs_cov/397.h5
+Skipping existing data/human/seqs_cov/398.h5
+Skipping existing data/human/seqs_cov/399.h5
+Skipping existing data/human/seqs_cov/400.h5
+Skipping existing data/human/seqs_cov/401.h5
+Skipping existing data/human/seqs_cov/402.h5
+Skipping existing data/human/seqs_cov/403.h5
+Skipping existing data/human/seqs_cov/404.h5
+Skipping existing data/human/seqs_cov/405.h5
+Skipping existing data/human/seqs_cov/406.h5
+Skipping existing data/human/seqs_cov/407.h5
+Skipping existing data/human/seqs_cov/408.h5
+Skipping existing data/human/seqs_cov/409.h5
+Skipping existing data/human/seqs_cov/410.h5
+Skipping existing data/human/seqs_cov/411.h5
+Skipping existing data/human/seqs_cov/412.h5
+Skipping existing data/human/seqs_cov/413.h5
+Skipping existing data/human/seqs_cov/414.h5
+Skipping existing data/human/seqs_cov/415.h5
+Skipping existing data/human/seqs_cov/416.h5
+Skipping existing data/human/seqs_cov/417.h5
+Skipping existing data/human/seqs_cov/418.h5
+Skipping existing data/human/seqs_cov/419.h5
+Skipping existing data/human/seqs_cov/420.h5
+Skipping existing data/human/seqs_cov/421.h5
+Skipping existing data/human/seqs_cov/422.h5
+Skipping existing data/human/seqs_cov/423.h5
+Skipping existing data/human/seqs_cov/424.h5
+Skipping existing data/human/seqs_cov/425.h5
+Skipping existing data/human/seqs_cov/426.h5
+Skipping existing data/human/seqs_cov/427.h5
+Skipping existing data/human/seqs_cov/428.h5
+Skipping existing data/human/seqs_cov/429.h5
+Skipping existing data/human/seqs_cov/430.h5
+Skipping existing data/human/seqs_cov/431.h5
+Skipping existing data/human/seqs_cov/432.h5
+Skipping existing data/human/seqs_cov/433.h5
+Skipping existing data/human/seqs_cov/434.h5
+Skipping existing data/human/seqs_cov/435.h5
+Skipping existing data/human/seqs_cov/436.h5
+Skipping existing data/human/seqs_cov/437.h5
+Skipping existing data/human/seqs_cov/438.h5
+Skipping existing data/human/seqs_cov/439.h5
+Skipping existing data/human/seqs_cov/440.h5
+Skipping existing data/human/seqs_cov/441.h5
+Skipping existing data/human/seqs_cov/442.h5
+Skipping existing data/human/seqs_cov/443.h5
+Skipping existing data/human/seqs_cov/444.h5
+Skipping existing data/human/seqs_cov/445.h5
+Skipping existing data/human/seqs_cov/446.h5
+Skipping existing data/human/seqs_cov/447.h5
+Skipping existing data/human/seqs_cov/448.h5
+Skipping existing data/human/seqs_cov/449.h5
+Skipping existing data/human/seqs_cov/450.h5
+Skipping existing data/human/seqs_cov/451.h5
+Skipping existing data/human/seqs_cov/452.h5
+Skipping existing data/human/seqs_cov/453.h5
+Skipping existing data/human/seqs_cov/454.h5
+Skipping existing data/human/seqs_cov/455.h5
+Skipping existing data/human/seqs_cov/456.h5
+Skipping existing data/human/seqs_cov/457.h5
+Skipping existing data/human/seqs_cov/458.h5
+Skipping existing data/human/seqs_cov/459.h5
+Skipping existing data/human/seqs_cov/460.h5
+Skipping existing data/human/seqs_cov/461.h5
+Skipping existing data/human/seqs_cov/462.h5
+Skipping existing data/human/seqs_cov/463.h5
+Skipping existing data/human/seqs_cov/464.h5
+Skipping existing data/human/seqs_cov/465.h5
+Skipping existing data/human/seqs_cov/466.h5
+Skipping existing data/human/seqs_cov/467.h5
+Skipping existing data/human/seqs_cov/468.h5
+Skipping existing data/human/seqs_cov/469.h5
+Skipping existing data/human/seqs_cov/470.h5
+Skipping existing data/human/seqs_cov/471.h5
+Skipping existing data/human/seqs_cov/472.h5
+Skipping existing data/human/seqs_cov/473.h5
+Skipping existing data/human/seqs_cov/474.h5
+Skipping existing data/human/seqs_cov/475.h5
+Skipping existing data/human/seqs_cov/476.h5
+Skipping existing data/human/seqs_cov/477.h5
+Skipping existing data/human/seqs_cov/478.h5
+Skipping existing data/human/seqs_cov/479.h5
+Skipping existing data/human/seqs_cov/480.h5
+Skipping existing data/human/seqs_cov/481.h5
+Skipping existing data/human/seqs_cov/482.h5
+Skipping existing data/human/seqs_cov/483.h5
+Skipping existing data/human/seqs_cov/484.h5
+Skipping existing data/human/seqs_cov/485.h5
+Skipping existing data/human/seqs_cov/486.h5
+Skipping existing data/human/seqs_cov/487.h5
+Skipping existing data/human/seqs_cov/488.h5
+Skipping existing data/human/seqs_cov/489.h5
+Skipping existing data/human/seqs_cov/490.h5
+Skipping existing data/human/seqs_cov/491.h5
+Skipping existing data/human/seqs_cov/492.h5
+Skipping existing data/human/seqs_cov/493.h5
+Skipping existing data/human/seqs_cov/494.h5
+Skipping existing data/human/seqs_cov/495.h5
+Skipping existing data/human/seqs_cov/496.h5
+Skipping existing data/human/seqs_cov/497.h5
+Skipping existing data/human/seqs_cov/498.h5
+Skipping existing data/human/seqs_cov/499.h5
+Skipping existing data/human/seqs_cov/500.h5
+Skipping existing data/human/seqs_cov/501.h5
+Skipping existing data/human/seqs_cov/502.h5
+Skipping existing data/human/seqs_cov/503.h5
+Skipping existing data/human/seqs_cov/504.h5
+Skipping existing data/human/seqs_cov/505.h5
+Skipping existing data/human/seqs_cov/506.h5
+Skipping existing data/human/seqs_cov/507.h5
+Skipping existing data/human/seqs_cov/508.h5
+Skipping existing data/human/seqs_cov/509.h5
+Skipping existing data/human/seqs_cov/510.h5
+Skipping existing data/human/seqs_cov/511.h5
+Skipping existing data/human/seqs_cov/512.h5
+Skipping existing data/human/seqs_cov/513.h5
+Skipping existing data/human/seqs_cov/514.h5
+Skipping existing data/human/seqs_cov/515.h5
+Skipping existing data/human/seqs_cov/516.h5
+Skipping existing data/human/seqs_cov/517.h5
+Skipping existing data/human/seqs_cov/518.h5
+Skipping existing data/human/seqs_cov/519.h5
+Skipping existing data/human/seqs_cov/520.h5
+Skipping existing data/human/seqs_cov/521.h5
+Skipping existing data/human/seqs_cov/522.h5
+Skipping existing data/human/seqs_cov/523.h5
+Skipping existing data/human/seqs_cov/524.h5
+Skipping existing data/human/seqs_cov/525.h5
+Skipping existing data/human/seqs_cov/526.h5
+Skipping existing data/human/seqs_cov/527.h5
+Skipping existing data/human/seqs_cov/528.h5
+Skipping existing data/human/seqs_cov/529.h5
+Skipping existing data/human/seqs_cov/530.h5
+Skipping existing data/human/seqs_cov/531.h5
+Skipping existing data/human/seqs_cov/532.h5
+Skipping existing data/human/seqs_cov/533.h5
+Skipping existing data/human/seqs_cov/534.h5
+Skipping existing data/human/seqs_cov/535.h5
+Skipping existing data/human/seqs_cov/536.h5
+Skipping existing data/human/seqs_cov/537.h5
+Skipping existing data/human/seqs_cov/538.h5
+Skipping existing data/human/seqs_cov/539.h5
+Skipping existing data/human/seqs_cov/540.h5
+Skipping existing data/human/seqs_cov/541.h5
+Skipping existing data/human/seqs_cov/542.h5
+Skipping existing data/human/seqs_cov/543.h5
+Skipping existing data/human/seqs_cov/544.h5
+Skipping existing data/human/seqs_cov/545.h5
+Skipping existing data/human/seqs_cov/546.h5
+Skipping existing data/human/seqs_cov/547.h5
+Skipping existing data/human/seqs_cov/548.h5
+Skipping existing data/human/seqs_cov/549.h5
+Skipping existing data/human/seqs_cov/550.h5
+Skipping existing data/human/seqs_cov/551.h5
+Skipping existing data/human/seqs_cov/552.h5
+Skipping existing data/human/seqs_cov/553.h5
+Skipping existing data/human/seqs_cov/554.h5
+Skipping existing data/human/seqs_cov/555.h5
+Skipping existing data/human/seqs_cov/556.h5
+Skipping existing data/human/seqs_cov/557.h5
+Skipping existing data/human/seqs_cov/558.h5
+Skipping existing data/human/seqs_cov/559.h5
+Skipping existing data/human/seqs_cov/560.h5
+Skipping existing data/human/seqs_cov/561.h5
+Skipping existing data/human/seqs_cov/562.h5
+Skipping existing data/human/seqs_cov/563.h5
+Skipping existing data/human/seqs_cov/564.h5
+Skipping existing data/human/seqs_cov/565.h5
+Skipping existing data/human/seqs_cov/566.h5
+Skipping existing data/human/seqs_cov/567.h5
+Skipping existing data/human/seqs_cov/568.h5
+Skipping existing data/human/seqs_cov/569.h5
+Skipping existing data/human/seqs_cov/570.h5
+Skipping existing data/human/seqs_cov/571.h5
+Skipping existing data/human/seqs_cov/572.h5
+Skipping existing data/human/seqs_cov/573.h5
+Skipping existing data/human/seqs_cov/574.h5
+Skipping existing data/human/seqs_cov/575.h5
+Skipping existing data/human/seqs_cov/576.h5
+Skipping existing data/human/seqs_cov/577.h5
+Skipping existing data/human/seqs_cov/578.h5
+Skipping existing data/human/seqs_cov/579.h5
+Skipping existing data/human/seqs_cov/580.h5
+Skipping existing data/human/seqs_cov/581.h5
+Skipping existing data/human/seqs_cov/582.h5
+Skipping existing data/human/seqs_cov/583.h5
+Skipping existing data/human/seqs_cov/584.h5
+Skipping existing data/human/seqs_cov/585.h5
+Skipping existing data/human/seqs_cov/586.h5
+Skipping existing data/human/seqs_cov/587.h5
+Skipping existing data/human/seqs_cov/588.h5
+Skipping existing data/human/seqs_cov/589.h5
+Skipping existing data/human/seqs_cov/590.h5
+Skipping existing data/human/seqs_cov/591.h5
+Skipping existing data/human/seqs_cov/592.h5
+Skipping existing data/human/seqs_cov/593.h5
+Skipping existing data/human/seqs_cov/594.h5
+Skipping existing data/human/seqs_cov/595.h5
+Skipping existing data/human/seqs_cov/596.h5
+Skipping existing data/human/seqs_cov/597.h5
+Skipping existing data/human/seqs_cov/598.h5
+Skipping existing data/human/seqs_cov/599.h5
+Skipping existing data/human/seqs_cov/600.h5
+Skipping existing data/human/seqs_cov/601.h5
+Skipping existing data/human/seqs_cov/602.h5
+Skipping existing data/human/seqs_cov/603.h5
+Skipping existing data/human/seqs_cov/604.h5
+Skipping existing data/human/seqs_cov/605.h5
+Skipping existing data/human/seqs_cov/606.h5
+Skipping existing data/human/seqs_cov/607.h5
+Skipping existing data/human/seqs_cov/608.h5
+Skipping existing data/human/seqs_cov/609.h5
+Skipping existing data/human/seqs_cov/610.h5
+Skipping existing data/human/seqs_cov/611.h5
+Skipping existing data/human/seqs_cov/612.h5
+Skipping existing data/human/seqs_cov/613.h5
+Skipping existing data/human/seqs_cov/614.h5
+Skipping existing data/human/seqs_cov/615.h5
+Skipping existing data/human/seqs_cov/616.h5
+Skipping existing data/human/seqs_cov/617.h5
+Skipping existing data/human/seqs_cov/618.h5
+Skipping existing data/human/seqs_cov/619.h5
+Skipping existing data/human/seqs_cov/620.h5
+Skipping existing data/human/seqs_cov/621.h5
+Skipping existing data/human/seqs_cov/622.h5
+Skipping existing data/human/seqs_cov/623.h5
+Skipping existing data/human/seqs_cov/624.h5
+Skipping existing data/human/seqs_cov/625.h5
+Skipping existing data/human/seqs_cov/626.h5
+Skipping existing data/human/seqs_cov/627.h5
+Skipping existing data/human/seqs_cov/628.h5
+Skipping existing data/human/seqs_cov/629.h5
+Skipping existing data/human/seqs_cov/630.h5
+Skipping existing data/human/seqs_cov/631.h5
+Skipping existing data/human/seqs_cov/632.h5
+Skipping existing data/human/seqs_cov/633.h5
+Skipping existing data/human/seqs_cov/634.h5
+Skipping existing data/human/seqs_cov/635.h5
+Skipping existing data/human/seqs_cov/636.h5
+Skipping existing data/human/seqs_cov/637.h5
+Skipping existing data/human/seqs_cov/638.h5
+Skipping existing data/human/seqs_cov/639.h5
+Skipping existing data/human/seqs_cov/640.h5
+Skipping existing data/human/seqs_cov/641.h5
+Skipping existing data/human/seqs_cov/643.h5
+Skipping existing data/human/seqs_cov/644.h5
+Skipping existing data/human/seqs_cov/645.h5
+Skipping existing data/human/seqs_cov/646.h5
+Skipping existing data/human/seqs_cov/647.h5
+Skipping existing data/human/seqs_cov/648.h5
+Skipping existing data/human/seqs_cov/649.h5
+Skipping existing data/human/seqs_cov/650.h5
+Skipping existing data/human/seqs_cov/651.h5
+Skipping existing data/human/seqs_cov/652.h5
+Skipping existing data/human/seqs_cov/653.h5
+Skipping existing data/human/seqs_cov/654.h5
+Skipping existing data/human/seqs_cov/655.h5
+Skipping existing data/human/seqs_cov/656.h5
+Skipping existing data/human/seqs_cov/657.h5
+Skipping existing data/human/seqs_cov/658.h5
+Skipping existing data/human/seqs_cov/659.h5
+Skipping existing data/human/seqs_cov/660.h5
+Skipping existing data/human/seqs_cov/661.h5
+Skipping existing data/human/seqs_cov/662.h5
+Skipping existing data/human/seqs_cov/663.h5
+Skipping existing data/human/seqs_cov/664.h5
+Skipping existing data/human/seqs_cov/665.h5
+Skipping existing data/human/seqs_cov/666.h5
+Skipping existing data/human/seqs_cov/667.h5
+Skipping existing data/human/seqs_cov/668.h5
+Skipping existing data/human/seqs_cov/669.h5
+Skipping existing data/human/seqs_cov/670.h5
+Skipping existing data/human/seqs_cov/671.h5
+Skipping existing data/human/seqs_cov/672.h5
+Skipping existing data/human/seqs_cov/673.h5
+Skipping existing data/human/seqs_cov/674.h5
+Skipping existing data/human/seqs_cov/675.h5
+Skipping existing data/human/seqs_cov/676.h5
+Skipping existing data/human/seqs_cov/677.h5
+Skipping existing data/human/seqs_cov/678.h5
+Skipping existing data/human/seqs_cov/679.h5
+Skipping existing data/human/seqs_cov/680.h5
+Skipping existing data/human/seqs_cov/681.h5
+Skipping existing data/human/seqs_cov/682.h5
+Skipping existing data/human/seqs_cov/683.h5
+Skipping existing data/human/seqs_cov/684.h5
+Skipping existing data/human/seqs_cov/685.h5
+Skipping existing data/human/seqs_cov/686.h5
+Skipping existing data/human/seqs_cov/687.h5
+Skipping existing data/human/seqs_cov/688.h5
+Skipping existing data/human/seqs_cov/689.h5
+Skipping existing data/human/seqs_cov/690.h5
+Skipping existing data/human/seqs_cov/691.h5
+Skipping existing data/human/seqs_cov/692.h5
+Skipping existing data/human/seqs_cov/693.h5
+Skipping existing data/human/seqs_cov/694.h5
+Skipping existing data/human/seqs_cov/695.h5
+Skipping existing data/human/seqs_cov/696.h5
+Skipping existing data/human/seqs_cov/697.h5
+Skipping existing data/human/seqs_cov/698.h5
+Skipping existing data/human/seqs_cov/699.h5
+Skipping existing data/human/seqs_cov/700.h5
+Skipping existing data/human/seqs_cov/701.h5
+Skipping existing data/human/seqs_cov/702.h5
+Skipping existing data/human/seqs_cov/703.h5
+Skipping existing data/human/seqs_cov/704.h5
+Skipping existing data/human/seqs_cov/705.h5
+Skipping existing data/human/seqs_cov/706.h5
+Skipping existing data/human/seqs_cov/707.h5
+Skipping existing data/human/seqs_cov/708.h5
+Skipping existing data/human/seqs_cov/709.h5
+Skipping existing data/human/seqs_cov/710.h5
+Skipping existing data/human/seqs_cov/711.h5
+Skipping existing data/human/seqs_cov/712.h5
+Skipping existing data/human/seqs_cov/713.h5
+Skipping existing data/human/seqs_cov/714.h5
+Skipping existing data/human/seqs_cov/715.h5
+Skipping existing data/human/seqs_cov/716.h5
+Skipping existing data/human/seqs_cov/717.h5
+Skipping existing data/human/seqs_cov/718.h5
+Skipping existing data/human/seqs_cov/719.h5
+Skipping existing data/human/seqs_cov/720.h5
+Skipping existing data/human/seqs_cov/721.h5
+Skipping existing data/human/seqs_cov/722.h5
+Skipping existing data/human/seqs_cov/723.h5
+Skipping existing data/human/seqs_cov/724.h5
+Skipping existing data/human/seqs_cov/725.h5
+Skipping existing data/human/seqs_cov/726.h5
+Skipping existing data/human/seqs_cov/727.h5
+Skipping existing data/human/seqs_cov/728.h5
+Skipping existing data/human/seqs_cov/729.h5
+Skipping existing data/human/seqs_cov/730.h5
+Skipping existing data/human/seqs_cov/731.h5
+Skipping existing data/human/seqs_cov/732.h5
+Skipping existing data/human/seqs_cov/733.h5
+Skipping existing data/human/seqs_cov/734.h5
+Skipping existing data/human/seqs_cov/735.h5
+Skipping existing data/human/seqs_cov/736.h5
+Skipping existing data/human/seqs_cov/737.h5
+Skipping existing data/human/seqs_cov/738.h5
+Skipping existing data/human/seqs_cov/739.h5
+Skipping existing data/human/seqs_cov/740.h5
+Skipping existing data/human/seqs_cov/741.h5
+Skipping existing data/human/seqs_cov/742.h5
+Skipping existing data/human/seqs_cov/743.h5
+Skipping existing data/human/seqs_cov/744.h5
+Skipping existing data/human/seqs_cov/745.h5
+Skipping existing data/human/seqs_cov/746.h5
+Skipping existing data/human/seqs_cov/747.h5
+Skipping existing data/human/seqs_cov/748.h5
+Skipping existing data/human/seqs_cov/749.h5
+Skipping existing data/human/seqs_cov/751.h5
+Skipping existing data/human/seqs_cov/752.h5
+Skipping existing data/human/seqs_cov/753.h5
+Skipping existing data/human/seqs_cov/754.h5
+Skipping existing data/human/seqs_cov/755.h5
+Skipping existing data/human/seqs_cov/756.h5
+Skipping existing data/human/seqs_cov/757.h5
+Skipping existing data/human/seqs_cov/758.h5
+Skipping existing data/human/seqs_cov/759.h5
+Skipping existing data/human/seqs_cov/760.h5
+Skipping existing data/human/seqs_cov/761.h5
+Skipping existing data/human/seqs_cov/762.h5
+Skipping existing data/human/seqs_cov/763.h5
+Skipping existing data/human/seqs_cov/764.h5
+Skipping existing data/human/seqs_cov/765.h5
+Skipping existing data/human/seqs_cov/766.h5
+Skipping existing data/human/seqs_cov/767.h5
+Skipping existing data/human/seqs_cov/768.h5
+Skipping existing data/human/seqs_cov/769.h5
+Skipping existing data/human/seqs_cov/770.h5
+Skipping existing data/human/seqs_cov/771.h5
+Skipping existing data/human/seqs_cov/772.h5
+Skipping existing data/human/seqs_cov/773.h5
+Skipping existing data/human/seqs_cov/774.h5
+Skipping existing data/human/seqs_cov/775.h5
+Skipping existing data/human/seqs_cov/776.h5
+Skipping existing data/human/seqs_cov/777.h5
+Skipping existing data/human/seqs_cov/778.h5
+Skipping existing data/human/seqs_cov/779.h5
+Skipping existing data/human/seqs_cov/780.h5
+Skipping existing data/human/seqs_cov/781.h5
+Skipping existing data/human/seqs_cov/782.h5
+Skipping existing data/human/seqs_cov/783.h5
+Skipping existing data/human/seqs_cov/784.h5
+Skipping existing data/human/seqs_cov/785.h5
+Skipping existing data/human/seqs_cov/786.h5
+Skipping existing data/human/seqs_cov/787.h5
+Skipping existing data/human/seqs_cov/788.h5
+Skipping existing data/human/seqs_cov/789.h5
+Skipping existing data/human/seqs_cov/790.h5
+Skipping existing data/human/seqs_cov/791.h5
+Skipping existing data/human/seqs_cov/792.h5
+Skipping existing data/human/seqs_cov/793.h5
+Skipping existing data/human/seqs_cov/794.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF101ASV.bigWig data/human/sequences.bed data/human/seqs_cov/642.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF734OLC.bigWig data/human/sequences.bed data/human/seqs_cov/750.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF353PFR.bigWig data/human/sequences.bed data/human/seqs_cov/795.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF496TSR.bigWig data/human/sequences.bed data/human/seqs_cov/796.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF726SGF.bigWig data/human/sequences.bed data/human/seqs_cov/797.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF359MDK.bigWig data/human/sequences.bed data/human/seqs_cov/798.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF430NYX.bigWig data/human/sequences.bed data/human/seqs_cov/799.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF926QTW.bigWig data/human/sequences.bed data/human/seqs_cov/800.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF318UAJ.bigWig data/human/sequences.bed data/human/seqs_cov/801.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF880GSS.bigWig data/human/sequences.bed data/human/seqs_cov/802.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF358IQV.bigWig data/human/sequences.bed data/human/seqs_cov/803.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF426XDX.bigWig data/human/sequences.bed data/human/seqs_cov/804.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF107LSA.bigWig data/human/sequences.bed data/human/seqs_cov/805.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF043VUO.bigWig data/human/sequences.bed data/human/seqs_cov/806.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF124RPC.bigWig data/human/sequences.bed data/human/seqs_cov/807.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF403HKJ.bigWig data/human/sequences.bed data/human/seqs_cov/808.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF965MBA.bigWig data/human/sequences.bed data/human/seqs_cov/809.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF891ALA.bigWig data/human/sequences.bed data/human/seqs_cov/810.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF974VUT.bigWig data/human/sequences.bed data/human/seqs_cov/811.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF150XAC.bigWig data/human/sequences.bed data/human/seqs_cov/812.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF046NXJ.bigWig data/human/sequences.bed data/human/seqs_cov/813.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF688MII.bigWig data/human/sequences.bed data/human/seqs_cov/814.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF604EYK.bigWig data/human/sequences.bed data/human/seqs_cov/815.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF831HGM.bigWig data/human/sequences.bed data/human/seqs_cov/816.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF484JKA.bigWig data/human/sequences.bed data/human/seqs_cov/817.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF850SIL.bigWig data/human/sequences.bed data/human/seqs_cov/818.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF956EIE.bigWig data/human/sequences.bed data/human/seqs_cov/819.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF413WXI.bigWig data/human/sequences.bed data/human/seqs_cov/820.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF315ODV.bigWig data/human/sequences.bed data/human/seqs_cov/821.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF526ILL.bigWig data/human/sequences.bed data/human/seqs_cov/822.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF346AHI.bigWig data/human/sequences.bed data/human/seqs_cov/823.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF568QQJ.bigWig data/human/sequences.bed data/human/seqs_cov/824.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF333PSK.bigWig data/human/sequences.bed data/human/seqs_cov/825.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF480XQC.bigWig data/human/sequences.bed data/human/seqs_cov/826.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF496YJK.bigWig data/human/sequences.bed data/human/seqs_cov/827.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF095UOA.bigWig data/human/sequences.bed data/human/seqs_cov/828.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF366NWQ.bigWig data/human/sequences.bed data/human/seqs_cov/829.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF995SOX.bigWig data/human/sequences.bed data/human/seqs_cov/830.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF238RLU.bigWig data/human/sequences.bed data/human/seqs_cov/831.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF882KEH.bigWig data/human/sequences.bed data/human/seqs_cov/832.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF314QAJ.bigWig data/human/sequences.bed data/human/seqs_cov/833.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF497QCQ.bigWig data/human/sequences.bed data/human/seqs_cov/834.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF623LHV.bigWig data/human/sequences.bed data/human/seqs_cov/835.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF825QDH.bigWig data/human/sequences.bed data/human/seqs_cov/836.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF874FQG.bigWig data/human/sequences.bed data/human/seqs_cov/837.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF045DIU.bigWig data/human/sequences.bed data/human/seqs_cov/838.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF974CXF.bigWig data/human/sequences.bed data/human/seqs_cov/839.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF937GHU.bigWig data/human/sequences.bed data/human/seqs_cov/840.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF050OBT.bigWig data/human/sequences.bed data/human/seqs_cov/841.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF373WQE.bigWig data/human/sequences.bed data/human/seqs_cov/842.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF599BTC.bigWig data/human/sequences.bed data/human/seqs_cov/843.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.549313 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF279XJK.bigWig data/human/sequences.bed data/human/seqs_cov/844.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF301WLH.bigWig data/human/sequences.bed data/human/seqs_cov/845.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF696GRP.bigWig data/human/sequences.bed data/human/seqs_cov/846.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF684CHN.bigWig data/human/sequences.bed data/human/seqs_cov/847.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF304RDA.bigWig data/human/sequences.bed data/human/seqs_cov/848.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF057TXE.bigWig data/human/sequences.bed data/human/seqs_cov/849.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF004DOF.bigWig data/human/sequences.bed data/human/seqs_cov/850.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF573WTP.bigWig data/human/sequences.bed data/human/seqs_cov/851.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF118SVL.bigWig data/human/sequences.bed data/human/seqs_cov/852.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF915WBG.bigWig data/human/sequences.bed data/human/seqs_cov/853.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF137BCU.bigWig data/human/sequences.bed data/human/seqs_cov/854.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF630CTN.bigWig data/human/sequences.bed data/human/seqs_cov/855.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF098OUC.bigWig data/human/sequences.bed data/human/seqs_cov/856.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF895JFS.bigWig data/human/sequences.bed data/human/seqs_cov/857.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF487HBP.bigWig data/human/sequences.bed data/human/seqs_cov/858.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.730714 -b data/hg38.blacklist.rep.bed data/encode_rna/ENCFF304GQR.bigWig data/human/sequences.bed data/human/seqs_cov/859.h5
+python bin/basenji_data_write.py -s 0 -e 256 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-0.tfr
+python bin/basenji_data_write.py -s 256 -e 512 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-1.tfr
+python bin/basenji_data_write.py -s 512 -e 768 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-2.tfr
+python bin/basenji_data_write.py -s 768 -e 1024 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-3.tfr
+python bin/basenji_data_write.py -s 1024 -e 1280 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-4.tfr
+python bin/basenji_data_write.py -s 1280 -e 1536 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-5.tfr
+python bin/basenji_data_write.py -s 1536 -e 1792 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-6.tfr
+python bin/basenji_data_write.py -s 1792 -e 2048 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-7.tfr
+python bin/basenji_data_write.py -s 2048 -e 2304 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-8.tfr
+python bin/basenji_data_write.py -s 2304 -e 2560 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-9.tfr
+python bin/basenji_data_write.py -s 2560 -e 2816 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-10.tfr
+python bin/basenji_data_write.py -s 2816 -e 3072 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-11.tfr
+python bin/basenji_data_write.py -s 3072 -e 3328 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-12.tfr
+python bin/basenji_data_write.py -s 3328 -e 3584 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-13.tfr
+python bin/basenji_data_write.py -s 3584 -e 3840 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-14.tfr
+python bin/basenji_data_write.py -s 3840 -e 4096 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-15.tfr
+python bin/basenji_data_write.py -s 4096 -e 4352 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-16.tfr
+python bin/basenji_data_write.py -s 4352 -e 4608 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-17.tfr
+python bin/basenji_data_write.py -s 4608 -e 4864 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-18.tfr
+python bin/basenji_data_write.py -s 4864 -e 5120 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-19.tfr
+python bin/basenji_data_write.py -s 5120 -e 5376 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-20.tfr
+python bin/basenji_data_write.py -s 5376 -e 5632 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-21.tfr
+python bin/basenji_data_write.py -s 5632 -e 5888 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-22.tfr
+python bin/basenji_data_write.py -s 5888 -e 6144 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-23.tfr
+python bin/basenji_data_write.py -s 6144 -e 6400 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-24.tfr
+python bin/basenji_data_write.py -s 6400 -e 6656 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-25.tfr
+python bin/basenji_data_write.py -s 6656 -e 6912 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-26.tfr
+python bin/basenji_data_write.py -s 6912 -e 7168 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-27.tfr
+python bin/basenji_data_write.py -s 7168 -e 7424 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-28.tfr
+python bin/basenji_data_write.py -s 7424 -e 7680 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-29.tfr
+python bin/basenji_data_write.py -s 7680 -e 7936 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-30.tfr
+python bin/basenji_data_write.py -s 7936 -e 8192 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-31.tfr
+python bin/basenji_data_write.py -s 8192 -e 8448 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-32.tfr
+python bin/basenji_data_write.py -s 8448 -e 8704 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-33.tfr
+python bin/basenji_data_write.py -s 8704 -e 8960 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-34.tfr
+python bin/basenji_data_write.py -s 8960 -e 9216 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-35.tfr
+python bin/basenji_data_write.py -s 9216 -e 9472 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-36.tfr
+python bin/basenji_data_write.py -s 9472 -e 9728 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-37.tfr
+python bin/basenji_data_write.py -s 9728 -e 9984 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-38.tfr
+python bin/basenji_data_write.py -s 9984 -e 10240 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-39.tfr
+python bin/basenji_data_write.py -s 10240 -e 10496 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-40.tfr
+python bin/basenji_data_write.py -s 10496 -e 10752 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-41.tfr
+python bin/basenji_data_write.py -s 10752 -e 11008 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-42.tfr
+python bin/basenji_data_write.py -s 11008 -e 11047 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/train-43.tfr
+python bin/basenji_data_write.py -s 11047 -e 11303 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/valid-0.tfr
+python bin/basenji_data_write.py -s 11303 -e 11559 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/valid-1.tfr
+python bin/basenji_data_write.py -s 11559 -e 11815 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/valid-2.tfr
+python bin/basenji_data_write.py -s 11815 -e 12071 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/valid-3.tfr
+python bin/basenji_data_write.py -s 12071 -e 12192 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/valid-4.tfr
+python bin/basenji_data_write.py -s 12192 -e 12448 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/test-0.tfr
+python bin/basenji_data_write.py -s 12448 -e 12704 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/test-1.tfr
+python bin/basenji_data_write.py -s 12704 -e 12749 --umap_clip 1.000000 -x 0 data/genome.fa data/human/sequences.bed data/human/seqs_cov data/human/tfrecords/test-2.tfr
+2024-05-22 15:32:46.480663: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.480824: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.480809: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.480894: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.480962: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.480941: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.480973: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481025: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481063: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481489: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481517: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481561: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481898: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481910: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481908: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482008: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481975: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.481985: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482468: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482009: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482496: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482006: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482057: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482054: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482590: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482075: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482096: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482796: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482137: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482153: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482846: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482601: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482865: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482628: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482901: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482641: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482655: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482700: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482708: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483302: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482726: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482901: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483362: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482933: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.482925: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483103: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483451: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483248: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483470: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483508: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483538: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-05-22 15:32:46.483540: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+
+real	11m10.493s
+user	361m37.733s
+sys	12m56.068s
+
+real	11m10.506s
+user	361m37.735s
+sys	12m56.079s

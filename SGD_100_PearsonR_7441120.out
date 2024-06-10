@@ -1,0 +1,323 @@
+Sat 01 Jun 2024 12:33:40 PM CEST
+exa01
+
+================
+== TensorFlow ==
+================
+
+NVIDIA Release 23.09-tf2 (build 68583340)
+TensorFlow Version 2.13.0
+
+Container image Copyright (c) 2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+Copyright 2017-2023 The TensorFlow Authors.  All rights reserved.
+
+Various files include modifications (c) NVIDIA CORPORATION & AFFILIATES.  All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+NOTE: CUDA Forward Compatibility mode ENABLED.
+  Using CUDA 12.2 driver version 535.86.10 with kernel driver version 470.141.03.
+  See https://docs.nvidia.com/deploy/cuda-compatibility/ for details.
+
+
+Epoch 0, loss_human: 0.6981012225151062, learning_rate 1.0000000656873453e-05
+Epoch 0, validation PearsonR: 0.01110917329788208
+
+Epoch 1, loss_human: 0.811372697353363, learning_rate 2.0000001313746907e-05
+Epoch 1, validation PearsonR: 0.01101649273186922
+
+Epoch 2, loss_human: 0.7440018653869629, learning_rate 3.000000106112566e-05
+Epoch 2, validation PearsonR: 0.010654265061020851
+
+Epoch 3, loss_human: 0.7332918643951416, learning_rate 4.0000002627493814e-05
+Epoch 3, validation PearsonR: 0.010952558368444443
+
+Epoch 4, loss_human: 0.8048760294914246, learning_rate 5.0000002374872565e-05
+Epoch 4, validation PearsonR: 0.010515798814594746
+
+Epoch 5, loss_human: 0.7304447293281555, learning_rate 6.000000212225132e-05
+Epoch 5, validation PearsonR: 0.011033778078854084
+
+Epoch 6, loss_human: 0.7404330372810364, learning_rate 7.000000186963007e-05
+Epoch 6, validation PearsonR: 0.01107564102858305
+
+Epoch 7, loss_human: 0.7020738124847412, learning_rate 8.000000525498763e-05
+Epoch 7, validation PearsonR: 0.011042585596442223
+
+Epoch 8, loss_human: 0.6969952583312988, learning_rate 9.000000864034519e-05
+Epoch 8, validation PearsonR: 0.01015257928520441
+
+Epoch 9, loss_human: 0.6987681984901428, learning_rate 0.00010000000474974513
+Epoch 9, validation PearsonR: 0.011021211743354797
+
+Epoch 10, loss_human: 0.7501580119132996, learning_rate 0.00011000000813510269
+Epoch 10, validation PearsonR: 0.010546750389039516
+
+Epoch 11, loss_human: 0.8290022015571594, learning_rate 0.00012000000424450263
+Epoch 11, validation PearsonR: 0.011752640828490257
+
+Epoch 12, loss_human: 0.7150165438652039, learning_rate 0.00013000000035390258
+Epoch 12, validation PearsonR: 0.010497200302779675
+
+Epoch 13, loss_human: 0.7342661023139954, learning_rate 0.00014000000373926014
+Epoch 13, validation PearsonR: 0.011305264197289944
+
+Epoch 14, loss_human: 0.755446195602417, learning_rate 0.0001500000071246177
+Epoch 14, validation PearsonR: 0.011033954098820686
+
+Epoch 15, loss_human: 0.7090990543365479, learning_rate 0.00016000001050997525
+Epoch 15, validation PearsonR: 0.011173327453434467
+
+Epoch 16, loss_human: 0.7314620614051819, learning_rate 0.0001700000138953328
+Epoch 16, validation PearsonR: 0.011614957824349403
+
+Epoch 17, loss_human: 0.76048344373703, learning_rate 0.00018000001728069037
+Epoch 17, validation PearsonR: 0.010285476222634315
+
+Epoch 18, loss_human: 0.7032840251922607, learning_rate 0.0001900000061141327
+Epoch 18, validation PearsonR: 0.011258433572947979
+
+Epoch 19, loss_human: 0.6967456936836243, learning_rate 0.00020000000949949026
+Epoch 19, validation PearsonR: 0.01159917376935482
+
+Epoch 20, loss_human: 0.6966149806976318, learning_rate 0.0002099999983329326
+Epoch 20, validation PearsonR: 0.012064103968441486
+
+Epoch 21, loss_human: 0.7015421986579895, learning_rate 0.00022000001627020538
+Epoch 21, validation PearsonR: 0.011773256585001945
+
+Epoch 22, loss_human: 0.8899751305580139, learning_rate 0.00023000001965556294
+Epoch 22, validation PearsonR: 0.011891213245689869
+
+Epoch 23, loss_human: 0.7036172747612, learning_rate 0.00024000000848900527
+Epoch 23, validation PearsonR: 0.0114983469247818
+
+Epoch 24, loss_human: 0.7569472193717957, learning_rate 0.0002500000118743628
+Epoch 24, validation PearsonR: 0.011805485934019089
+
+Epoch 25, loss_human: 0.6963121294975281, learning_rate 0.00026000000070780516
+Epoch 25, validation PearsonR: 0.011626812629401684
+
+Epoch 26, loss_human: 0.8199487328529358, learning_rate 0.00027000001864507794
+Epoch 26, validation PearsonR: 0.011384009383618832
+
+Epoch 27, loss_human: 0.6984520554542542, learning_rate 0.0002800000074785203
+Epoch 27, validation PearsonR: 0.010926980525255203
+
+Epoch 28, loss_human: 0.7721376419067383, learning_rate 0.0002899999963119626
+Epoch 28, validation PearsonR: 0.011669931001961231
+
+Epoch 29, loss_human: 0.6982929110527039, learning_rate 0.0003000000142492354
+Epoch 29, validation PearsonR: 0.01169382780790329
+
+Epoch 30, loss_human: 0.6953854560852051, learning_rate 0.0003100000030826777
+Epoch 30, validation PearsonR: 0.011968712322413921
+
+Epoch 31, loss_human: 0.72492915391922, learning_rate 0.0003200000210199505
+Epoch 31, validation PearsonR: 0.012348347343504429
+
+Epoch 32, loss_human: 0.6953144073486328, learning_rate 0.0003300000389572233
+Epoch 32, validation PearsonR: 0.012361573055386543
+
+Epoch 33, loss_human: 0.806399405002594, learning_rate 0.0003400000277906656
+Epoch 33, validation PearsonR: 0.012368302792310715
+
+Epoch 34, loss_human: 0.839350700378418, learning_rate 0.00035000001662410796
+Epoch 34, validation PearsonR: 0.012494451366364956
+
+Epoch 35, loss_human: 0.6968109011650085, learning_rate 0.00036000003456138074
+Epoch 35, validation PearsonR: 0.012475174851715565
+
+Epoch 36, loss_human: 0.8470392823219299, learning_rate 0.0003700000233948231
+Epoch 36, validation PearsonR: 0.011880118399858475
+
+Epoch 37, loss_human: 0.7047710418701172, learning_rate 0.0003800000122282654
+Epoch 37, validation PearsonR: 0.012521033175289631
+
+Epoch 38, loss_human: 0.6969571113586426, learning_rate 0.00039000000106170774
+Epoch 38, validation PearsonR: 0.012694347649812698
+
+Epoch 39, loss_human: 0.8292806148529053, learning_rate 0.0004000000189989805
+Epoch 39, validation PearsonR: 0.013129551894962788
+
+Epoch 40, loss_human: 0.7503464221954346, learning_rate 0.00041000000783242285
+Epoch 40, validation PearsonR: 0.013259414583444595
+
+Epoch 41, loss_human: 0.7433490753173828, learning_rate 0.0004199999966658652
+Epoch 41, validation PearsonR: 0.013323373161256313
+
+Epoch 42, loss_human: 0.6954531669616699, learning_rate 0.00043000001460313797
+Epoch 42, validation PearsonR: 0.013306837528944016
+
+Epoch 43, loss_human: 0.6960585713386536, learning_rate 0.00044000003254041076
+Epoch 43, validation PearsonR: 0.013650191016495228
+
+Epoch 44, loss_human: 0.7005648016929626, learning_rate 0.0004500000213738531
+Epoch 44, validation PearsonR: 0.013435598462820053
+
+Epoch 45, loss_human: 0.7105852961540222, learning_rate 0.0004600000393111259
+Epoch 45, validation PearsonR: 0.013437348417937756
+
+Epoch 46, loss_human: 0.7164170742034912, learning_rate 0.0004700000281445682
+Epoch 46, validation PearsonR: 0.01407667901366949
+
+Epoch 47, loss_human: 0.7062861919403076, learning_rate 0.00048000001697801054
+Epoch 47, validation PearsonR: 0.013338323682546616
+
+Epoch 48, loss_human: 0.702967643737793, learning_rate 0.0004900000058114529
+Epoch 48, validation PearsonR: 0.014045599848031998
+
+Epoch 49, loss_human: 0.6953213810920715, learning_rate 0.0005000000237487257
+Epoch 49, validation PearsonR: 0.013458415865898132
+
+Epoch 50, loss_human: 0.7140486836433411, learning_rate 0.0005000000237487257
+Epoch 50, validation PearsonR: 0.013569807633757591
+
+Epoch 51, loss_human: 0.7492280006408691, learning_rate 0.0005000000237487257
+Epoch 51, validation PearsonR: 0.014265415258705616
+
+Epoch 52, loss_human: 0.6984302997589111, learning_rate 0.0005000000237487257
+Epoch 52, validation PearsonR: 0.014031519182026386
+
+Epoch 53, loss_human: 0.7018635869026184, learning_rate 0.0005000000237487257
+Epoch 53, validation PearsonR: 0.014096261002123356
+
+Epoch 54, loss_human: 0.7208173274993896, learning_rate 0.0005000000237487257
+Epoch 54, validation PearsonR: 0.01459192018955946
+
+Epoch 55, loss_human: 0.8180599212646484, learning_rate 0.0005000000237487257
+Epoch 55, validation PearsonR: 0.01474061980843544
+
+Epoch 56, loss_human: 0.6953240036964417, learning_rate 0.0005000000237487257
+Epoch 56, validation PearsonR: 0.01492693554610014
+
+Epoch 57, loss_human: 0.7096768021583557, learning_rate 0.0005000000237487257
+Epoch 57, validation PearsonR: 0.015469269827008247
+
+Epoch 58, loss_human: 0.7057335376739502, learning_rate 0.0005000000237487257
+Epoch 58, validation PearsonR: 0.015223780646920204
+
+Epoch 59, loss_human: 0.6916117668151855, learning_rate 0.0005000000237487257
+Epoch 59, validation PearsonR: 0.015039164572954178
+
+Epoch 60, loss_human: 0.6936256289482117, learning_rate 0.0005000000237487257
+Epoch 60, validation PearsonR: 0.01563669554889202
+
+Epoch 61, loss_human: 0.6926787495613098, learning_rate 0.0005000000237487257
+Epoch 61, validation PearsonR: 0.015265291556715965
+
+Epoch 62, loss_human: 0.6932719349861145, learning_rate 0.0005000000237487257
+Epoch 62, validation PearsonR: 0.015239821746945381
+
+Epoch 63, loss_human: 0.6939072608947754, learning_rate 0.0005000000237487257
+Epoch 63, validation PearsonR: 0.01563270017504692
+
+Epoch 64, loss_human: 0.8891057372093201, learning_rate 0.0005000000237487257
+Epoch 64, validation PearsonR: 0.016134921461343765
+
+Epoch 65, loss_human: 0.6965554356575012, learning_rate 0.0005000000237487257
+Epoch 65, validation PearsonR: 0.015947235748171806
+
+Epoch 66, loss_human: 0.6921346783638, learning_rate 0.0005000000237487257
+Epoch 66, validation PearsonR: 0.016331372782588005
+
+Epoch 67, loss_human: 0.7061206698417664, learning_rate 0.0005000000237487257
+Epoch 67, validation PearsonR: 0.016209721565246582
+
+Epoch 68, loss_human: 0.8230429291725159, learning_rate 0.0005000000237487257
+Epoch 68, validation PearsonR: 0.016374075785279274
+
+Epoch 69, loss_human: 0.8111798167228699, learning_rate 0.0005000000237487257
+Epoch 69, validation PearsonR: 0.01636842079460621
+
+Epoch 70, loss_human: 0.7046182751655579, learning_rate 0.0005000000237487257
+Epoch 70, validation PearsonR: 0.01687099039554596
+
+Epoch 71, loss_human: 0.8188349604606628, learning_rate 0.0005000000237487257
+Epoch 71, validation PearsonR: 0.01694156602025032
+
+Epoch 72, loss_human: 0.7947072982788086, learning_rate 0.0005000000237487257
+Epoch 72, validation PearsonR: 0.01693727821111679
+
+Epoch 73, loss_human: 0.8250668048858643, learning_rate 0.0005000000237487257
+Epoch 73, validation PearsonR: 0.016379285603761673
+
+Epoch 74, loss_human: 0.9092292189598083, learning_rate 0.0005000000237487257
+Epoch 74, validation PearsonR: 0.017342280596494675
+
+Epoch 75, loss_human: 0.7675623297691345, learning_rate 0.0005000000237487257
+Epoch 75, validation PearsonR: 0.016918353736400604
+
+Epoch 76, loss_human: 0.699709951877594, learning_rate 0.0005000000237487257
+Epoch 76, validation PearsonR: 0.017040079459547997
+
+Epoch 77, loss_human: 0.8718007206916809, learning_rate 0.0005000000237487257
+Epoch 77, validation PearsonR: 0.017204955220222473
+
+Epoch 78, loss_human: 0.6906485557556152, learning_rate 0.0005000000237487257
+Epoch 78, validation PearsonR: 0.017607413232326508
+
+Epoch 79, loss_human: 0.6993836760520935, learning_rate 0.0005000000237487257
+Epoch 79, validation PearsonR: 0.017360080033540726
+
+Epoch 80, loss_human: 0.6991792321205139, learning_rate 0.0005000000237487257
+Epoch 80, validation PearsonR: 0.01767858862876892
+
+Epoch 81, loss_human: 0.6886827945709229, learning_rate 0.0005000000237487257
+Epoch 81, validation PearsonR: 0.0166696198284626
+
+Epoch 82, loss_human: 0.68904709815979, learning_rate 0.0005000000237487257
+Epoch 82, validation PearsonR: 0.017692865803837776
+
+Epoch 83, loss_human: 0.6916216015815735, learning_rate 0.0005000000237487257
+Epoch 83, validation PearsonR: 0.017625857144594193
+
+Epoch 84, loss_human: 0.733126163482666, learning_rate 0.0005000000237487257
+Epoch 84, validation PearsonR: 0.018845824524760246
+
+Epoch 85, loss_human: 0.7155795693397522, learning_rate 0.0005000000237487257
+Epoch 85, validation PearsonR: 0.018844231963157654
+
+Epoch 86, loss_human: 0.7434751987457275, learning_rate 0.0005000000237487257
+Epoch 86, validation PearsonR: 0.01834234409034252
+
+Epoch 87, loss_human: 0.7018826603889465, learning_rate 0.0005000000237487257
+Epoch 87, validation PearsonR: 0.018678076565265656
+
+Epoch 88, loss_human: 0.6905670166015625, learning_rate 0.0005000000237487257
+Epoch 88, validation PearsonR: 0.019109761342406273
+
+Epoch 89, loss_human: 0.767503023147583, learning_rate 0.0005000000237487257
+Epoch 89, validation PearsonR: 0.019287316128611565
+
+Epoch 90, loss_human: 0.7021096348762512, learning_rate 0.0005000000237487257
+Epoch 90, validation PearsonR: 0.019155247136950493
+
+Epoch 91, loss_human: 0.689428985118866, learning_rate 0.0005000000237487257
+Epoch 91, validation PearsonR: 0.019291898235678673
+
+Epoch 92, loss_human: 0.70480877161026, learning_rate 0.0005000000237487257
+Epoch 92, validation PearsonR: 0.01834781840443611
+
+Epoch 93, loss_human: 0.6874879002571106, learning_rate 0.0005000000237487257
+Epoch 93, validation PearsonR: 0.01865595206618309
+
+Epoch 94, loss_human: 0.6984724402427673, learning_rate 0.0005000000237487257
+Epoch 94, validation PearsonR: 0.019559616222977638
+
+Epoch 95, loss_human: 0.7423580288887024, learning_rate 0.0005000000237487257
+Epoch 95, validation PearsonR: 0.019729796797037125
+
+Epoch 96, loss_human: 0.6881077289581299, learning_rate 0.0005000000237487257
+Epoch 96, validation PearsonR: 0.019887296482920647
+
+Epoch 97, loss_human: 0.6893634796142578, learning_rate 0.0005000000237487257
+Epoch 97, validation PearsonR: 0.020675070583820343
+
+Epoch 98, loss_human: 0.7726638317108154, learning_rate 0.0005000000237487257
+Epoch 98, validation PearsonR: 0.020410330966114998
+
+Epoch 99, loss_human: 0.6870719790458679, learning_rate 0.0005000000237487257
+Epoch 99, validation PearsonR: 0.02003803849220276
