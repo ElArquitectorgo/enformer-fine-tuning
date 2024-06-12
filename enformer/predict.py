@@ -79,7 +79,7 @@ max_val = tf.reduce_max(original_track)
 
 fasta_extractor = FastaStringExtractor('data/genome.fa')
 
-target_interval = kipoiseq.Interval('chr11', 47_980_559, 48,177,167)
+target_interval = kipoiseq.Interval('chr11', 47_980_559, 48_177_167)
 
 sequence_one_hot = one_hot_encode(fasta_extractor.extract(target_interval.resize(SEQUENCE_LENGTH)))
 predictions = extended_model.predict_on_batch(sequence_one_hot[np.newaxis])[0]
