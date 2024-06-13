@@ -57,6 +57,21 @@ class ExtendedEnformer(snt.Module):
     def predict_on_batch(self, x):
       """Method for SavedModel."""
       return self(x, is_training=False)
+    
+    @tf.function
+    def contribution_input_grad(self, input_sequence, target_mask):
+        input_sequence = input_sequence[tf.newaxis]
+
+        target_mask_mass = tf.reduce_sum(target_mask)
+        with tf.GradientTape() as tape:
+            tape.watch(input_sequence)
+            prediction = tf.reduce_sum(
+                target_mask[tf.newaxis] *
+                self.predict_on_batch(input_sequence)) / target_mask_mass
+
+        input_grad = tape.gradient(prediction, input_sequence) * input_sequence
+        input_grad = tf.squeeze(input_grad, axis=0)
+        return tf.reduce_sum(input_grad, axis=-1)
 
     @property
     def trainable_variables(self):
