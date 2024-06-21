@@ -1,0 +1,93 @@
+Fri 14 Jun 2024 11:31:31 PM CEST
+exa01
+
+================
+== TensorFlow ==
+================
+
+NVIDIA Release 23.09-tf2 (build 68583340)
+TensorFlow Version 2.13.0
+
+Container image Copyright (c) 2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+Copyright 2017-2023 The TensorFlow Authors.  All rights reserved.
+
+Various files include modifications (c) NVIDIA CORPORATION & AFFILIATES.  All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+NOTE: CUDA Forward Compatibility mode ENABLED.
+  Using CUDA 12.2 driver version 535.86.10 with kernel driver version 470.141.03.
+  See https://docs.nvidia.com/deploy/cuda-compatibility/ for details.
+
+stride_train 1 converted to 196608.000000
+stride_test 1 converted to 196608.000000
+Contigs divided into
+ Train:  4276 contigs, 2246414153 nt (0.8507)
+ Valid:   498 contigs,  263256651 nt (0.0997)
+ Test:    248 contigs,  131109683 nt (0.0496)
+    557 test
+  11047 train
+   1145 valid
+chr21	8986604	9183212	train
+chrX	152014865	152211473	train
+chr12	118375184	118571792	train
+chr5	7871847	8068455	valid
+chr7	122927467	123124075	valid
+chr21	12283222	12479830	valid
+chrX	82495979	82692587	test
+chr14	76398760	76595368	test
+chr12	60803814	61000422	test
+-rw-r--r-- 1 vguirado ac_aux 126258161 May 22 15:38 data/human/tfrecords/test-0.tfr
+-rw-r--r-- 1 vguirado ac_aux 139216202 May 22 15:37 data/human/tfrecords/test-1.tfr
+-rw-r--r-- 1 vguirado ac_aux  21870406 May 22 15:35 data/human/tfrecords/test-2.tfr
+-rw-r--r-- 1 vguirado ac_aux 139362656 May 22 15:38 data/human/tfrecords/train-0.tfr
+-rw-r--r-- 1 vguirado ac_aux 137367698 May 22 15:37 data/human/tfrecords/train-10.tfr
+-rw-r--r-- 1 vguirado ac_aux 144466132 May 22 15:37 data/human/tfrecords/train-11.tfr
+-rw-r--r-- 1 vguirado ac_aux 141495788 May 22 15:37 data/human/tfrecords/train-12.tfr
+-rw-r--r-- 1 vguirado ac_aux 144826034 May 22 15:37 data/human/tfrecords/train-13.tfr
+-rw-r--r-- 1 vguirado ac_aux 150123353 May 22 15:36 data/human/tfrecords/train-14.tfr
+-rw-r--r-- 1 vguirado ac_aux 134854347 May 22 15:37 data/human/tfrecords/train-15.tfr
+-rw-r--r-- 1 vguirado ac_aux 143007126 May 22 15:37 data/human/tfrecords/train-16.tfr
+-rw-r--r-- 1 vguirado ac_aux 133632207 May 22 15:36 data/human/tfrecords/train-17.tfr
+-rw-r--r-- 1 vguirado ac_aux 145344979 May 22 15:37 data/human/tfrecords/train-18.tfr
+-rw-r--r-- 1 vguirado ac_aux 130288026 May 22 15:38 data/human/tfrecords/train-19.tfr
+-rw-r--r-- 1 vguirado ac_aux 131829515 May 22 15:37 data/human/tfrecords/train-1.tfr
+-rw-r--r-- 1 vguirado ac_aux 131957891 May 22 15:37 data/human/tfrecords/train-20.tfr
+-rw-r--r-- 1 vguirado ac_aux 147823750 May 22 15:37 data/human/tfrecords/train-21.tfr
+-rw-r--r-- 1 vguirado ac_aux 129340416 May 22 15:37 data/human/tfrecords/train-22.tfr
+-rw-r--r-- 1 vguirado ac_aux 138365495 May 22 15:37 data/human/tfrecords/train-23.tfr
+-rw-r--r-- 1 vguirado ac_aux 131127299 May 22 15:37 data/human/tfrecords/train-24.tfr
+-rw-r--r-- 1 vguirado ac_aux 140467203 May 22 15:38 data/human/tfrecords/train-25.tfr
+-rw-r--r-- 1 vguirado ac_aux 135772368 May 22 15:37 data/human/tfrecords/train-26.tfr
+-rw-r--r-- 1 vguirado ac_aux 128245851 May 22 15:38 data/human/tfrecords/train-27.tfr
+-rw-r--r-- 1 vguirado ac_aux 127137075 May 22 15:37 data/human/tfrecords/train-28.tfr
+-rw-r--r-- 1 vguirado ac_aux 125988435 May 22 15:37 data/human/tfrecords/train-29.tfr
+-rw-r--r-- 1 vguirado ac_aux 124893242 May 22 15:38 data/human/tfrecords/train-2.tfr
+-rw-r--r-- 1 vguirado ac_aux 145846590 May 22 15:38 data/human/tfrecords/train-30.tfr
+-rw-r--r-- 1 vguirado ac_aux 127031089 May 22 15:37 data/human/tfrecords/train-31.tfr
+-rw-r--r-- 1 vguirado ac_aux 145362360 May 22 15:37 data/human/tfrecords/train-32.tfr
+-rw-r--r-- 1 vguirado ac_aux 125003157 May 22 15:37 data/human/tfrecords/train-33.tfr
+-rw-r--r-- 1 vguirado ac_aux 135993031 May 22 15:37 data/human/tfrecords/train-34.tfr
+-rw-r--r-- 1 vguirado ac_aux 133856698 May 22 15:37 data/human/tfrecords/train-35.tfr
+-rw-r--r-- 1 vguirado ac_aux 124555704 May 22 15:37 data/human/tfrecords/train-36.tfr
+-rw-r--r-- 1 vguirado ac_aux 138207371 May 22 15:37 data/human/tfrecords/train-37.tfr
+-rw-r--r-- 1 vguirado ac_aux 140617077 May 22 15:37 data/human/tfrecords/train-38.tfr
+-rw-r--r-- 1 vguirado ac_aux 140936175 May 22 15:37 data/human/tfrecords/train-39.tfr
+-rw-r--r-- 1 vguirado ac_aux 138876672 May 22 15:36 data/human/tfrecords/train-3.tfr
+-rw-r--r-- 1 vguirado ac_aux 136259324 May 22 15:38 data/human/tfrecords/train-40.tfr
+-rw-r--r-- 1 vguirado ac_aux 141334540 May 22 15:37 data/human/tfrecords/train-41.tfr
+-rw-r--r-- 1 vguirado ac_aux 145034630 May 22 15:37 data/human/tfrecords/train-42.tfr
+-rw-r--r-- 1 vguirado ac_aux  21148561 May 22 15:34 data/human/tfrecords/train-43.tfr
+-rw-r--r-- 1 vguirado ac_aux 136828216 May 22 15:37 data/human/tfrecords/train-4.tfr
+-rw-r--r-- 1 vguirado ac_aux 135460438 May 22 15:38 data/human/tfrecords/train-5.tfr
+-rw-r--r-- 1 vguirado ac_aux 137076109 May 22 15:37 data/human/tfrecords/train-6.tfr
+-rw-r--r-- 1 vguirado ac_aux 125364451 May 22 15:38 data/human/tfrecords/train-7.tfr
+-rw-r--r-- 1 vguirado ac_aux 133035243 May 22 15:37 data/human/tfrecords/train-8.tfr
+-rw-r--r-- 1 vguirado ac_aux 134201866 May 22 15:37 data/human/tfrecords/train-9.tfr
+-rw-r--r-- 1 vguirado ac_aux 139608283 May 22 15:37 data/human/tfrecords/valid-0.tfr
+-rw-r--r-- 1 vguirado ac_aux 138875990 May 22 15:37 data/human/tfrecords/valid-1.tfr
+-rw-r--r-- 1 vguirado ac_aux 137857604 May 22 15:37 data/human/tfrecords/valid-2.tfr
+-rw-r--r-- 1 vguirado ac_aux 148929728 May 22 15:37 data/human/tfrecords/valid-3.tfr
+-rw-r--r-- 1 vguirado ac_aux  67276790 May 22 15:38 data/human/tfrecords/valid-4.tfr

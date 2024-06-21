@@ -1,0 +1,62 @@
+Sun 16 Jun 2024 06:08:16 PM CEST
+exa02
+
+================
+== TensorFlow ==
+================
+
+NVIDIA Release 23.09-tf2 (build 68583340)
+TensorFlow Version 2.13.0
+
+Container image Copyright (c) 2023, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+Copyright 2017-2023 The TensorFlow Authors.  All rights reserved.
+
+Various files include modifications (c) NVIDIA CORPORATION & AFFILIATES.  All rights reserved.
+
+This container image and its contents are governed by the NVIDIA Deep Learning Container License.
+By pulling and using the container, you accept the terms and conditions of this license:
+https://developer.nvidia.com/ngc/nvidia-deep-learning-container-license
+
+NOTE: CUDA Forward Compatibility mode ENABLED.
+  Using CUDA 12.2 driver version 535.86.10 with kernel driver version 470.141.03.
+  See https://docs.nvidia.com/deploy/cuda-compatibility/ for details.
+
+Adam 50
+human_PearsonR
+{'PearsonR': 0.74252623}
+human_R2
+{'R2': 0.54059887}
+mouse_PearsonR
+{'PearsonR': 0.69634384}
+mouse_R2
+{'R2': 0.46031475}
+
+Adam 100
+human_PearsonR
+{'PearsonR': 0.7493019}
+human_R2
+{'R2': 0.54481256}
+mouse_PearsonR
+{'PearsonR': 0.7097657}
+mouse_R2
+{'R2': 0.47903425}
+
+Adam 200
+human_PearsonR
+{'PearsonR': 0.75246966}
+human_R2
+{'R2': 0.5630779}
+mouse_PearsonR
+{'PearsonR': 0.6934088}
+mouse_R2
+{'R2': 0.47313717}
+
+Adam 400
+human_PearsonR
+{'PearsonR': 0.74706703}
+human_R2
+{'R2': 0.55188745}
+mouse_PearsonR
+{'PearsonR': 0.7067228}
+mouse_R2
+{'R2': 0.47892952}

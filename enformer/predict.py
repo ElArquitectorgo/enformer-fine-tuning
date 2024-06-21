@@ -48,7 +48,7 @@ def plot_track(track, interval, title, height=1.5):
     output_file = os.path.join(f'predictions/predictions_target_0.png')
     plt.savefig(output_file)
 
-def plot_tracks(tracks, interval, height=1.5):
+def plot_tracks(tracks, interval, file_name, height=1.5):
     fig, axes = plt.subplots(len(tracks), 1, figsize=(20, height * len(tracks)), sharex=True)
     for ax, (title, y) in zip(axes, tracks.items()):
         ax.fill_between(np.linspace(interval.start, interval.end, num=len(y)), y)
@@ -56,7 +56,7 @@ def plot_tracks(tracks, interval, height=1.5):
         sns.despine(top=True, right=True, bottom=True)
     ax.set_xlabel(str(interval))
     plt.tight_layout()
-    output_file = os.path.join(f'predictions/aortic_comparison.png')
+    output_file = os.path.join(f'predictions/{file_name}.png')
     plt.savefig(output_file)
 
 model = enformer.Enformer(channels=1536,
@@ -87,8 +87,7 @@ predictions = extended_model.predict_on_batch(sequence_one_hot[np.newaxis])[0]
 predictions_normalized = (predictions[:, 0] - tf.reduce_min(predictions[:, 0])) / (tf.reduce_max(predictions[:, 0]) - tf.reduce_min(predictions[:, 0]))
 predictions_normalized = predictions_normalized * (max_val - min_val) + min_val
 
-plot_track(predictions_normalized, target_interval, 'RNA:aortic smooth muscle cell male adult (predicted)')
-
-tracks = {'RNA:aortic smooth muscle cell male adult (predicted)': predictions_normalized,
+file_name = 'RNA:aortic smooth muscle cell male adult'
+tracks = {f'{file_name} (predicted)': predictions_normalized,
           'Experiment': original_track}
-plot_tracks(tracks, target_interval)
+plot_tracks(tracks, target_interval, file_name)

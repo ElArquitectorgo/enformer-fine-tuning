@@ -9,8 +9,8 @@
 #SBATCH --constraint=dgx
 #SBATCH --gres=gpu:1
 
-#SBATCH --output=test_%A.out    # Standard output and error log
-#SBATCH --error=test_%A.err    # Standard output and error log
+#SBATCH --output=test_both_%A.out    # Standard output and error log
+#SBATCH --error=test_both_%A.err    # Standard output and error log
 
 date
 hostname
@@ -18,4 +18,4 @@ hostname
 ##echo SLURM_ARRAYID: $SLURM_ARRAYID
 #echo TASKID: $SLURM_ARRAY_TASK_ID
 
-time python enformer/test.py
+time python enformer/test_both.py

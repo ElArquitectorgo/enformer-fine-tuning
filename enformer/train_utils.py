@@ -191,3 +191,38 @@ def plot_losses(train_losses, val_metrics, output_dir, epoch, organism):
   plt.savefig(output_file)
   
   plt.clf()
+
+def plot_both_losses(h_train_losses, h_val_metrics, m_train_losses, m_val_metrics, output_dir, epoch, config):
+  plt.plot(h_train_losses, label='Human Training Loss')
+  plt.plot(h_val_metrics, label='Human Validation Score')
+  plt.plot(m_train_losses, label='Mouse Training Loss')
+  plt.plot(m_val_metrics, label='Mouse Validation Score')
+  plt.xlabel('Epoch')
+  plt.legend()
+  
+  output_file = os.path.join(output_dir, f'{config}_epoch_{epoch}_loss.png')
+  plt.savefig(output_file)
+  
+  plt.clf()
+
+def evaluate_extended_model(model, dataset, corr, head=None, max_steps=None):
+  if corr == 'PearsonR':
+    metric = MetricDict({'PearsonR': PearsonR(reduce_axis=(0,1))})
+  else:
+    metric = MetricDict({'R2': R2(reduce_axis=(0,1))})
+  
+  if head != None:
+    @tf.function
+    def predict(x):
+      return model(x, is_training=False)[head]
+  else:
+    @tf.function
+    def predict(x):
+      return model(x, is_training=False)
+
+  for i, batch in tqdm(enumerate(dataset)):
+    if max_steps is not None and i > max_steps:
+      break
+    metric.update_state(batch['target'], predict(batch['sequence']))
+
+  return metric.result()

@@ -86,7 +86,7 @@ def plot_tracks(tracks, interval, height=1.5):
         sns.despine(top=True, right=True, bottom=True)
     ax.set_xlabel(str(interval))
     plt.tight_layout()
-    output_file = os.path.join(f'predictions/brca1_variant_prediction.png')
+    output_file = os.path.join(f'predictions/variant_prediction.png')
     plt.savefig(output_file)
 
 model = enformer.Enformer(channels=1536,

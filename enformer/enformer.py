@@ -37,7 +37,7 @@ import tensorflow as tf
 
 SEQUENCE_LENGTH = 196_608
 BIN_SIZE = 128
-TARGET_LENGTH = 896
+TARGET_LENGTH = 1536
 
 class ExtendedEnformer(snt.Module):
     def __init__(self, original_model):
@@ -77,6 +77,55 @@ class ExtendedEnformer(snt.Module):
     def trainable_variables(self):
         return self.original_model.trunk.trainable_variables + self.final_layer.trainable_variables
   
+
+class ExtendedEnformerMouse(snt.Module):
+    def __init__(self, original_model):
+        super().__init__()
+        self.original_model = original_model
+        heads_channels = {'human': 860, 'mouse': 278}
+        with tf.name_scope('heads'):
+          self._heads = {
+              head: Sequential(
+                  lambda: [snt.Linear(num_channels), tf.nn.softplus],
+                  name=f'head_{head}')
+              for head, num_channels in heads_channels.items()
+          }
+
+    def __call__(self, inputs, is_training=True):
+        trunk_embedding = self.original_model.trunk(inputs, is_training=is_training)
+        return {
+          head: head_module(trunk_embedding, is_training=is_training)
+          for head, head_module in self.heads.items()
+        }
+    
+    @property
+    def heads(self):
+      return self._heads
+
+    @tf.function(input_signature=[
+      tf.TensorSpec([None, SEQUENCE_LENGTH, 4], tf.float32)])
+    def predict_on_batch(self, x):
+      """Method for SavedModel."""
+      return self(x, is_training=False)
+    
+    @tf.function
+    def contribution_input_grad(self, input_sequence, target_mask):
+        input_sequence = input_sequence[tf.newaxis]
+
+        target_mask_mass = tf.reduce_sum(target_mask)
+        with tf.GradientTape() as tape:
+            tape.watch(input_sequence)
+            prediction = tf.reduce_sum(
+                target_mask[tf.newaxis] *
+                self.predict_on_batch(input_sequence)) / target_mask_mass
+
+        input_grad = tape.gradient(prediction, input_sequence) * input_sequence
+        input_grad = tf.squeeze(input_grad, axis=0)
+        return tf.reduce_sum(input_grad, axis=-1)
+
+    @property
+    def trainable_variables(self):
+        return self.original_model.trunk.trainable_variables + self.heads['human'].trainable_variables + self.heads['mouse'].trainable_variables
 
 class Enformer(snt.Module):
   """Main model."""

@@ -1,0 +1,426 @@
+13:4: not a valid test operator: (
+13:4: not a valid test operator: 470.141.03
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF130ROA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/0.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF641HYO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/1.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF018XGZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/2.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF777WNL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/3.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF798FMB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/4.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF419YHB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/5.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF085QPW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/6.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF558JWN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/7.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF878WGQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/8.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF995EIJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/9.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF070OKD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/10.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF828PDL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/11.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF978UIY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/12.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF216HBX.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/13.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF341NKU.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/14.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF721GSY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/15.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF871LPW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/16.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF708IGB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/17.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF791XDM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/18.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF946YVP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/19.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF119WXY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/20.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF764FGD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/21.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF811XDE.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/22.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF538MHW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/23.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF789TGW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/24.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF050YCX.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/25.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF418HXP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/26.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF030OOM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/27.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF731HCO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/28.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF657TAP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/29.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF578CGA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/30.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF087VWF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/31.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF014SEQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/32.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF528QPO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/33.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF436AYK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/34.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF297ZOV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/35.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF916LFR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/36.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF427XNM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/37.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF496FSJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/38.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF894JED.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/39.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF571YEJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/40.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF994GPI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/41.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF718VKG.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/42.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF883OKA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/43.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF827GSU.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/44.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF764ATZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/45.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF697CAD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/46.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF110GAK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/47.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF291REK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/48.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF704KGU.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/49.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF453ESI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/50.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF050AYJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/51.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF751ZMZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/52.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF355GZI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/53.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF126WZZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/54.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF185RSB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/55.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF275WMD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/56.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF575SGC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/57.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF135YCH.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/58.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF991WZB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/59.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF527GLP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/60.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF775WTP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/61.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF060OVZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/62.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF033AFD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/63.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF166GVX.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/64.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF104EKC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/65.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF821EFN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/66.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF450NDQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/67.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF323RIK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/68.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF583SXP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/69.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF679WOA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/70.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF205YLQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/71.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF315IFZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/72.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF064XQN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/73.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF326KZM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/74.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF968GGL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/75.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF110JSW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/76.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF559VXC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/77.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF333VTF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/78.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF633YBL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/79.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF226DFS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/80.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF706QTS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/81.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF600EOH.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/82.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF565MXW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/83.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF060UIY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/84.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF214MXT.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/85.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF972RDL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/86.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF370AJT.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/87.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF715GSS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/88.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF533ZBZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/89.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF100JHY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/90.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF611NTZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/91.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF084ZJY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/92.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF206RDG.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/93.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF553RHO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/94.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF623LLW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/95.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF903FAA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/96.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF847QWE.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/97.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF929ZTM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/98.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF019ESS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/99.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF764QQE.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/100.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF825BVO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/101.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF138AEF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/102.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF052JNL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/103.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF959YOC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/104.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF370IQE.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/105.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF798DPR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/106.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF464JOW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/107.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF740FBB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/108.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF242IJW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/109.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF527VWZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/110.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF620ZFH.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/111.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF979NRI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/112.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF712EIS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/113.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF293OVC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/114.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF889UIO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/115.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF484SND.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/116.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF353RSI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/117.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF552LSX.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/118.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF224JVW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/119.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF525YIT.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/120.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF550SIW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/121.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF117WFD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/122.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF261PKU.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/123.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF119KMU.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/124.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF191ETV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/125.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF648BAP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/126.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF259ZQF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/127.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF249OVC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/128.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF072AST.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/129.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF375HPI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/130.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF215KWO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/131.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF117QWC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/132.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF475VSW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/133.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF155UMX.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/134.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF590WKI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/135.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF402HQP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/136.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF172NDF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/137.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF082SFZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/138.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF998JBB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/139.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF843LEJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/140.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF329ATO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/141.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF377BYA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/142.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF099WCR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/143.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF056ZOQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/144.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF937MXH.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/145.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF357DMT.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/146.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF845QAI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/147.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF663BGW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/148.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF476BCJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/149.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF409AEZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/150.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF862IJF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/151.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF431GTN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/152.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF598EPR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/153.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF321JKX.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/154.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF369LDA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/155.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF646UNN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/156.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF958YYN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/157.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF724FDF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/158.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF380MBW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/159.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF758HEN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/160.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF928OMS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/161.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF109UBY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/162.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF705URO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/163.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF232HKB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/164.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF688MNZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/165.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF031DAO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/166.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF224MAK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/167.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF642BYK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/168.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF799ZHZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/169.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF423PCA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/170.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF195TGW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/171.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF522FQT.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/172.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF573OLV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/173.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF941BJU.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/174.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF325VHZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/175.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF528WPB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/176.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF846JTZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/177.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF369QHZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/178.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF875KEQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/179.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF546VVR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/180.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF846BUP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/181.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF441JYG.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/182.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF433JKY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/183.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF561IRA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/184.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF705SAG.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/185.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF306LNI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/186.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF222WST.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/187.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF723OSL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/188.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF048KKW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/189.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF086KLE.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/190.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF063VOV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/191.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF336RLJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/192.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF762UWA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/193.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF331JZW.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/194.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF669KGM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/195.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF229KHK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/196.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF645WMC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/197.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF311NRK.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/198.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF271VFJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/199.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF779UHC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/200.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF921TZJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/201.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF242LFQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/202.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF390LUQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/203.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF914NSR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/204.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF080WKU.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/205.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF772FQM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/206.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF024JDL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/207.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF184EFQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/208.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF066XKF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/209.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF401CCV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/210.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF825CAO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/211.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF815URA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/212.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF107XNF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/213.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF793LOI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/214.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF319ESD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/215.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF207BTV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/216.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF900NMC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/217.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF070OYM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/218.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF679LHL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/219.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF983PEH.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/220.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF347XMG.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/221.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF599QYI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/222.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF751EJF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/223.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF604LEL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/224.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF640IMV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/225.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF844UWJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/226.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF367GHQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/227.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF686AKO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/228.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF107GSD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/229.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF209VXZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/230.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF177JFM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/231.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF966QYL.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/232.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF074DII.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/233.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF229ZQV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/234.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF304NKC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/235.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF648EZR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/236.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF075FNE.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/237.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF566YKN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/238.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF335UMY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/239.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF588ORC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/240.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF778AVN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/241.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF814UQP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/242.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF476VHS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/243.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF873KES.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/244.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF875AYS.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/245.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF362QOV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/246.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF150IZB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/247.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF391KZF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/248.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF372LRI.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/249.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF210SHO.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/250.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF843AFE.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/251.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF927QNP.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/252.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF877PYA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/253.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF675JFB.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/254.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF838PEV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/255.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF034IPR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/256.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF914ZQG.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/257.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF527IMQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/258.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF711HUC.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/259.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF892JIV.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/260.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF175ORJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/261.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF830QLY.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/262.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF042EBZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/263.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF893AZR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/264.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF078POD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/265.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF538OJZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/266.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF695VOZ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/267.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF737DAD.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/268.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF391QNQ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/269.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF403BPJ.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/270.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF303UCM.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/271.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF116WGN.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/272.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF570WAR.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/273.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF376XLA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/274.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF258LLG.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/275.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF678XDF.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/276.h5
+python bin/basenji_data_read.py -w 128 -u sum_sqrt -c 768.000000 -s 0.300000 -b data/mm10.blacklist.rep.bed data/encode_mouse_rna/ENCFF422YPA.bigWig data/mouse/sequences.bed data/mouse/seqs_cov/277.h5
+python bin/basenji_data_write.py -s 0 -e 256 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-0.tfr
+python bin/basenji_data_write.py -s 256 -e 512 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-1.tfr
+python bin/basenji_data_write.py -s 512 -e 768 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-2.tfr
+python bin/basenji_data_write.py -s 768 -e 1024 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-3.tfr
+python bin/basenji_data_write.py -s 1024 -e 1280 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-4.tfr
+python bin/basenji_data_write.py -s 1280 -e 1536 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-5.tfr
+python bin/basenji_data_write.py -s 1536 -e 1792 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-6.tfr
+python bin/basenji_data_write.py -s 1792 -e 2048 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-7.tfr
+python bin/basenji_data_write.py -s 2048 -e 2304 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-8.tfr
+python bin/basenji_data_write.py -s 2304 -e 2560 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-9.tfr
+python bin/basenji_data_write.py -s 2560 -e 2816 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-10.tfr
+python bin/basenji_data_write.py -s 2816 -e 3072 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-11.tfr
+python bin/basenji_data_write.py -s 3072 -e 3328 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-12.tfr
+python bin/basenji_data_write.py -s 3328 -e 3584 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-13.tfr
+python bin/basenji_data_write.py -s 3584 -e 3840 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-14.tfr
+python bin/basenji_data_write.py -s 3840 -e 4096 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-15.tfr
+python bin/basenji_data_write.py -s 4096 -e 4352 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-16.tfr
+python bin/basenji_data_write.py -s 4352 -e 4608 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-17.tfr
+python bin/basenji_data_write.py -s 4608 -e 4864 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-18.tfr
+python bin/basenji_data_write.py -s 4864 -e 5120 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-19.tfr
+python bin/basenji_data_write.py -s 5120 -e 5376 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-20.tfr
+python bin/basenji_data_write.py -s 5376 -e 5632 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-21.tfr
+python bin/basenji_data_write.py -s 5632 -e 5888 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-22.tfr
+python bin/basenji_data_write.py -s 5888 -e 6144 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-23.tfr
+python bin/basenji_data_write.py -s 6144 -e 6400 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-24.tfr
+python bin/basenji_data_write.py -s 6400 -e 6656 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-25.tfr
+python bin/basenji_data_write.py -s 6656 -e 6912 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-26.tfr
+python bin/basenji_data_write.py -s 6912 -e 7168 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-27.tfr
+python bin/basenji_data_write.py -s 7168 -e 7424 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-28.tfr
+python bin/basenji_data_write.py -s 7424 -e 7680 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-29.tfr
+python bin/basenji_data_write.py -s 7680 -e 7936 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-30.tfr
+python bin/basenji_data_write.py -s 7936 -e 8192 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-31.tfr
+python bin/basenji_data_write.py -s 8192 -e 8448 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-32.tfr
+python bin/basenji_data_write.py -s 8448 -e 8704 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-33.tfr
+python bin/basenji_data_write.py -s 8704 -e 8960 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-34.tfr
+python bin/basenji_data_write.py -s 8960 -e 9216 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-35.tfr
+python bin/basenji_data_write.py -s 9216 -e 9472 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-36.tfr
+python bin/basenji_data_write.py -s 9472 -e 9728 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-37.tfr
+python bin/basenji_data_write.py -s 9728 -e 9927 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/train-38.tfr
+python bin/basenji_data_write.py -s 9927 -e 10183 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/valid-0.tfr
+python bin/basenji_data_write.py -s 10183 -e 10439 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/valid-1.tfr
+python bin/basenji_data_write.py -s 10439 -e 10695 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/valid-2.tfr
+python bin/basenji_data_write.py -s 10695 -e 10951 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/valid-3.tfr
+python bin/basenji_data_write.py -s 10951 -e 10954 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/valid-4.tfr
+python bin/basenji_data_write.py -s 10954 -e 11210 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/test-0.tfr
+python bin/basenji_data_write.py -s 11210 -e 11454 --umap_clip 1.000000 -x 0 data/mm10.fa data/mouse/sequences.bed data/mouse/seqs_cov data/mouse/tfrecords/test-1.tfr
+2024-06-14 23:45:00.285433: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285475: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285442: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286288: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285449: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286341: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285467: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285484: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286589: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285459: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286588: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285631: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286592: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285634: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286614: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285639: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286639: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285681: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286802: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285697: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285748: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.287140: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285778: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285840: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285927: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.285991: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286011: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286022: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286087: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286148: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286366: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286395: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286415: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286429: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286517: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286520: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286725: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286737: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286818: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286893: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286905: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286972: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.286980: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.287017: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.287064: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-06-14 23:45:00.287090: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+
+real	14m52.848s
+user	457m6.557s
+sys	35m35.181s
+
+real	14m52.870s
+user	457m6.559s
+sys	35m35.197s

@@ -41,8 +41,8 @@ checkpoint.restore(latest)
 extended_model = enformer.ExtendedEnformer(model)
 
 train_step = create_step_function(extended_model, optimizer)
-config = 'Adam-50'
-steps_per_epoch = 50
+config = 'Adam-200'
+steps_per_epoch = 200
 num_epochs = 200
 
 human_dataset = get_dataset('human', 'train').batch(1).repeat()
@@ -93,7 +93,7 @@ for epoch_i in range(num_epochs):
     average_epoch_human_loss = sum(epoch_human_losses) / len(epoch_human_losses)
     human_losses.append(average_epoch_human_loss)
       
-    print(f'\nEpoch {epoch_i}, loss_human: {loss_human.numpy()}, learning_rate {optimizer.learning_rate.numpy()}')
+    print(f'\nEpoch {epoch_i}, loss_human: {average_epoch_human_loss.numpy()}, learning_rate {optimizer.learning_rate.numpy()}')
 
     metrics_human = evaluate_model_PearsonR(extended_model,
                                    dataset=validation_dataset,

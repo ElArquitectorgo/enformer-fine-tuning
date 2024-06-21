@@ -9,8 +9,8 @@
 #SBATCH --constraint=dgx
 #SBATCH --gres=gpu:2
 
-#SBATCH --output=preprocess_%A-rna.out    # Standard output and error log
-#SBATCH --error=preprocess_%A-rna.err    # Standard output and error log
+#SBATCH --output=preprocess_mouse_%A-rna.out    # Standard output and error log
+#SBATCH --error=preprocess_mouse_%A-rna.err    # Standard output and error log
 
 date
 hostname
@@ -18,7 +18,8 @@ hostname
 ##echo SLURM_ARRAYID: $SLURM_ARRAYID
 #echo TASKID: $SLURM_ARRAY_TASK_ID
 
-time python bin/basenji_data.py -s .9 -g data/hg38_gaps.bed -b data/hg38.blacklist.rep.bed -l 196608 --local -o data/human -p 128 -v .1 -w 128 data/genome.fa data/rna_data_filtered.txt --restart
+##time python bin/basenji_data.py -s .9 -g data/hg38_gaps.bed -b data/hg38.blacklist.rep.bed -l 196608 --local -o data/human -p 128 -v .1 -w 128 data/genome.fa data/rna_data_filtered.txt --restart
+time python bin/basenji_data.py -s .9 -g data/mm10_gaps.bed -b data/mm10.blacklist.rep.bed -l 196608 --local -o data/mouse -p 128 -v .1 -w 128 data/mm10.fa data/targets_mouse.txt
 
 cut -f4 data/human/sequences.bed | sort | uniq -c
 head -n3 data/human/sequences.bed
